@@ -156,8 +156,7 @@ The test log will be saved in the `experiments/gurp_prompt` directory. Please en
 cd Blocking/src
 ```
 ```bash
-python main_blocking.py \
-  --city nj
+python main_blocking.py --city nj
 ```
 
 ### Group-wise Matching with LLM & Graph-based Conflict Resolution
@@ -190,7 +189,18 @@ To pre-train the GURP model, please following the steps below:
 
 ## Dataset
 
-- Urban Region Graph in Manhattan of NYC (in the format of triples):
-  - `mht180_prepared.csv`: The urban region graph in Manhattan of NYC.
-- Pretrained nymht KGE embeddings for urban region entities:
-  - `TransR_UrbanKG_1`: The pretrained nymht KGE embeddings for urban region entities.
+- Geospatial entities in Nanjing:
+  - `dp_poi_12176.csv`: The urban region graph in Manhattan of NYC.
+  - `mt_poi_828.csv`: The urban region graph in Manhattan of NYC.
+  - `aoi_180.csv`: The urban region graph in Manhattan of NYC.
+  - `set_ground_truth_411.pkl`: The urban region graph in Manhattan of NYC.
+- Geospatial entities in Hangzhou:
+  - `gd_poi_1982.csv`: 
+  - `dp_poi_2959.csv`: 
+  - `aoi_107.csv`: 
+  - `set_ground_truth_808.pkl`: 
+- Geospatial entities in Pittsburgh:
+  - `osm_poi_2383.csv`: 
+  - `fsq_poi_2474.csv`: 
+  - `aoi_181.csv`: 
+  - `set_ground_truth_1237.pkl`: 
