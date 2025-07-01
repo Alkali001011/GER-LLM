@@ -5,7 +5,7 @@
 </div>
 
 
-<h2 align="center">🌇 Urban Region Pre-training and Prompting: A Graph-based Approach </h2>
+<h2 align="center">🌇GER-LLM: Efficient and Effective Geospatial Entity Resolution with Large Language Model </h2>
 
 <div align="center">
 
@@ -13,12 +13,12 @@
 
 </div>
 
-🌇**GURPP** is a **G**raph-based **U**rban **R**egion **P**re-training and **P**rompting framework for region representation learning. Specifically, we first construct an **urban region graph** that integrates detailed spatial entity data for more effective urban region representation. Then, we develop a **subgraph-centric urban region pre-training model** to capture the heterogeneous and transferable patterns of interactions among entities. To further enhance the adaptability of these embeddings to different tasks, we design **two graph-based prompting methods** to incorporate explicit/hidden task knowledge.  Extensive experiments on various urban region prediction tasks and different cities demonstrate the superior performance of our GURPP framework. This repository hosts the code of **GURPP**.
+🌇**GER-LLM** is a **G**raph-based **U**rban **R**egion **P**re-training and **P**rompting framework for region representation learning. Specifically, we first construct an **urban region graph** that integrates detailed spatial entity data for more effective urban region representation. Then, we develop a **subgraph-centric urban region pre-training model** to capture the heterogeneous and transferable patterns of interactions among entities. To further enhance the adaptability of these embeddings to different tasks, we design **two graph-based prompting methods** to incorporate explicit/hidden task knowledge.  Extensive experiments on various urban region prediction tasks and different cities demonstrate the superior performance of our GER-LLM framework. This repository hosts the code of **GER-LLM**.
 
 
 ## Overview
 
-The Overview of GURPP is shown as follows:
+The Overview of GER-LLM is shown as follows:
 
 <img src='figure\framework.png' alt="framework" >
 
@@ -42,7 +42,7 @@ The Overview of GURPP is shown as follows:
 ## Quick Start
 ### Code Structure
 ```bash
-+---GURPP
++---GER-LLM
 |   |   downstream_task.py
 |   |   emb.npy
 |   |   gurpp_args.py
