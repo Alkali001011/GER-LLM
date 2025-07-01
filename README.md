@@ -190,17 +190,17 @@ To pre-train the GURP model, please following the steps below:
 ## Dataset
 
 - Geospatial entities in Nanjing:
-  - `dp_poi_12176.csv`: The urban region graph in Manhattan of NYC.
-  - `mt_poi_828.csv`: The urban region graph in Manhattan of NYC.
-  - `aoi_180.csv`: The urban region graph in Manhattan of NYC.
-  - `set_ground_truth_411.pkl`: The urban region graph in Manhattan of NYC.
+  - `dp_poi_12176.csv`: entities collected from [Dianping](https://www.dianping.com/).
+  - `mt_poi_828.csv`: entities collected from [Meituan](https://www.meituan.com/).
+  - `aoi_180.csv`: aois extracted from the entities above.
+  - `set_ground_truth_411.pkl`: the ground truth.
 - Geospatial entities in Hangzhou:
-  - `gd_poi_1982.csv`: 
-  - `dp_poi_2959.csv`: 
-  - `aoi_107.csv`: 
-  - `set_ground_truth_808.pkl`: 
+  - `gd_poi_1982.csv`: entities collected from [Amap](https://www.amap.com/).
+  - `dp_poi_2959.csv`: entities collected from [Dianping](https://www.dianping.com/).
+  - `aoi_107.csv`: aois extracted from the entities above.
+  - `set_ground_truth_808.pkl`: the ground truth.
 - Geospatial entities in Pittsburgh:
-  - `osm_poi_2383.csv`: 
-  - `fsq_poi_2474.csv`: 
-  - `aoi_181.csv`: 
-  - `set_ground_truth_1237.pkl`: 
+  - `osm_poi_2383.csv`: entities collected from [OpenStreetMap](https://www.openstreetmap.org/).
+  - `fsq_poi_2474.csv`: entities collected from [Foursquare](https://foursquare.com/).
+  - `aoi_181.csv`: aois extracted from the entities above.
+  - `set_ground_truth_1237.pkl`: the ground truth.
