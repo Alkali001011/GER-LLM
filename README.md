@@ -131,7 +131,7 @@ The GER-LLM pipeline executes in three primary stages:
 |   |   requirements.txt
 ```
 
-### AOI-aware spatial blocking
+### AOI-aware Spatial Blocking
 #### AOI Classification
 To reproduce the GURP results, you can run the following command:
 ```bash
