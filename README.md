@@ -30,12 +30,20 @@ The GER-LLM pipeline executes in three primary stages:
 
 
 ## Requirements
-- python==3.8.8
-- pytorch==1.13.1
-- numpy==1.23.5
-- dgl==2.2.1
-- scikit-learn==1.2.0
-- pandas==1.5.2
+- python==3.8.18
+- aiohttp==3.10.11
+- hdbscan==0.8.39
+- numpy==1.24.4
+- openai==1.93.0
+- pandas==2.0.3
+- python-dotenv==1.1.1
+- python_Levenshtein==0.27.1
+- PyYAML==6.0.2
+- scikit_learn==1.3.2
+- scipy==1.9.3
+- torch==2.1.1
+- transformers==4.46.3
+- wget==3.2
 
 ## Quick Start
 ### Code Structure
