@@ -5,7 +5,7 @@
 </div>
 
 
-<h2 align="center">🗺️GER-LLM: Efficient and Effective Geospatial Entity Resolution with Large Language Model </h2>
+<h2 align="center">🗺️ GER-LLM: Efficient and Effective Geospatial Entity Resolution with Large Language Model </h2>
 
 <div align="center">
 
@@ -17,15 +17,14 @@
 
 ## Overview
 
-The Overview of GER-LLM is shown as follows:
+The overall framework of GER-LLM is illustrated below:
 
 <img src='figure\framework.png' alt="framework" >
 
-1. Create urban region graph that integrates specific urban entities.
-2. Extract subgraph of each region according to the graph pattern.
-3. Use multi-view learning to learn the subgraph representations with GURP model.
-4. Adapt the region embeddings with manually-designed prompt method and task-learnable prompt learning method.
-
+The GER-LLM pipeline executes in three primary stages:
+1. Perform AOI-aware spatial blocking to generate candidate pairs.
+2. Use group-wise matching to jointly assess candidate groups with an LLM.
+3. Apply a graph-based mechanism to resolve conflicts and ensure global consistency.
 
 <!-- [//]: # (More details to come after accepted.) -->
 
