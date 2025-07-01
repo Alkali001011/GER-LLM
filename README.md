@@ -135,7 +135,20 @@ The GER-LLM pipeline executes in three primary stages:
 #### AOI Classification
 To reproduce the GURP results, you can run the following command:
 ```bash
-python test_gurp.py
+cd Blocking/src/AOI_classification
+```
+```bash
+python train_AOI_Classifier.py \
+  --city nj \
+  --fe bert \
+  --lr 3e-5 \
+  --alpha 2.0 \
+  --beta 1.0 \
+  --n_epochs 10 \
+  --batch_size 32 \
+  --max_len 128 \
+  --device cuda \
+  --save_model
 ```
 The test log will be saved in the `experiments/gurp_prompt` directory. Please ensure that this folder has been created following code structure before testing, otherwise, you might encounter a 'file not found' error.
 #### AOI-aware Splitting of Quadtree
