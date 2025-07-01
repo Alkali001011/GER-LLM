@@ -99,7 +99,6 @@ The GER-LLM pipeline executes in three primary stages:
 |   |   \---pit
 |   |       |   aoi_181.csv
 |   |       |   fsq_poi_2474.csv
-|   |       |   labeled_osm_fsq_4215.csv
 |   |       |   osm_poi_2383.csv
 |   |       |   set_ground_truth_1237.pkl
 |   |       \---pit
