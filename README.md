@@ -20,7 +20,7 @@
 
 The Overview of GURPP is shown as follows:
 
-<img src='figure\img_1.png' alt="framework" >
+<img src='figure\framework.png' alt="framework" >
 
 1. Create urban region graph that integrates specific urban entities.
 2. Extract subgraph of each region according to the graph pattern.
