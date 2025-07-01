@@ -1,0 +1,2384 @@
+index,name,latitude,longitude,address,postalcode
+osm_1,Commonwealth Building,40.43894140622635,-80.00088509843319,"Fourth Avenue, 316",15222
+osm_2,Howler's Coyote Cafe,40.4629721,-79.9513633,,
+osm_3,UPitt Playground,40.44795041729272,-79.94493422254482,,
+osm_4,Potomac Bakery,40.3808267,-80.0442119,"Washington Road, 685",15228
+osm_5,Episcopal Church of the Epiphany,40.49795903384061,-80.06168437880247,,
+osm_6,Esser's Floral Shop,40.42901061183467,-79.98594240001933,"East Carson Street, 1122",15203
+osm_7,Trinity Lutheran Church,40.45454221652805,-80.01292827415593,,
+osm_8,Advance Auto Parts,40.4315994,-79.9785305,1937,
+osm_9,Allegheny Therapy and Wellness,40.4524635,-80.0139461,"Western Avenue, 808",15233
+osm_10,Westinghouse Shelter,40.4382294,-79.9439513,,
+osm_11,Millvale Riverfront Park,40.47208326343541,-79.97194357190071,,
+osm_12,Mount Washington Post Office,40.4305755,-80.0070519,,
+osm_13,Wilson Park,40.41799524872833,-80.05098910950953,,
+osm_14,Cheveron Science Center,40.4458958005449,-79.95802038304504,,
+osm_15,Siegel and Portnoy,40.4283708,-79.9759349,,
+osm_16,PNC Park Box Office,40.4480369,-80.0050238,,
+osm_17,McBubbles Car Wash,40.492945111153205,-80.0630934125231,,
+osm_18,H&R Block,40.3997131,-80.0429273,,
+osm_19,Dormont Junction,40.391560543545154,-80.04107123732257,,
+osm_20,PNC Bank,40.4589585,-79.9269605,"Center Avenue, 5932",15206
+osm_21,St. Vincent de Paul Thrift Store,40.36709617369606,-80.01374543858645,"Library Road, 3423",
+osm_22,Brighton Road Auto Sales,40.4753779,-80.0301018,"Brighton Road, 3160",
+osm_23,CMU Tennis Courts,40.44241221942671,-79.94207478704969,,
+osm_24,Amos Family Dentistry,40.3887418,-80.0501093,"Beverly Road, 310",15216
+osm_25,Jack Maggs Agency,40.3960902,-79.998512,,
+osm_26,Public Safety Center,40.38290820264913,-80.04349126753895,"Washington Road, 555",
+osm_27,Hitchhiker Brewing Company,40.4961891,-79.9263342,"South Canal Street, 1500",
+osm_28,Amazing Books,40.4340451,-79.9229022,"Murray Avenue, 2030",
+osm_29,Huntington Bank,40.45399504285749,-79.99898186300503,,
+osm_30,Sue Murray Swimming Pool,40.45094954866878,-80.00153818382758,,
+osm_31,Crazy Mocha,40.4381763,-79.9986315,,
+osm_32,Cardello Building,40.44924626919698,-80.02699599492658,"North Point Drive, 701",15233
+osm_33,The Book Center,40.4429459,-79.9559371,,
+osm_34,Anita-Stitch,40.3649399,-79.9839794,,
+osm_35,William Penn Association,40.45091678511312,-80.01403225720834,"Brighton Road, 709",
+osm_36,Point Park University - Academic Hall,40.43903313450495,-80.00219766434151,,15222
+osm_37,Sharpsburg Volunteer Fire Department,40.493979,-79.9250363,,
+osm_38,McKees Rocks Police Department,40.4649536,-80.0579837,,
+osm_39,Motor Square Garden,40.45978407103382,-79.92697390560885,"Baum Boulevard, 5900",15206
+osm_40,Midtown Towers,40.441999900000006,-80.00020215,"Liberty Avenue, 643",
+osm_41,City Vista,40.42696421718039,-80.0369859085369,,
+osm_43,Community Library of Castle Shannon,40.3680845,-80.0219576,,
+osm_45,Ambiance Hair & Nail Salon,40.4565662,-80.0069629,,
+osm_46,Steel City Market,40.4536497,-79.9990091,,
+osm_47,Library for the Blind Carnegie Free Library of Pittsburgh,40.4540466282484,-79.94917483748377,,
+osm_48,Milton Hall,40.44950431168872,-80.01402654942848,,
+osm_49,Riverview Park,40.48108707525996,-80.02041298485186,,
+osm_50,Rea House,40.447925397086266,-79.92298157470874,,
+osm_51,Panera Bread,40.4359555,-79.9580355,,
+osm_52,DiSilvas Pizzeria,40.37402,-79.9760169,,
+osm_53,Shadeland Beer,40.49023005,-80.044918,,
+osm_54,Mekong,40.395545623931866,-80.03485073884247,Potomac Avenue,15216
+osm_55,Steel Plaza,40.4398958,-79.99503,,
+osm_56,Brightside Academy,40.436774825474174,-80.00050932542624,"Smithfield Street, 4, 6",15222
+osm_57,Katsur Dental,40.4315466,-79.9780787,1955,
+osm_58,Lincoln Elementary School Library,40.46007,-79.91144,,
+osm_59,Valero,40.45591496703279,-80.01592780021522,,
+osm_60,Wendy's,40.41635021890769,-79.92495663262125,"Browns Hill Rd, 4524",15217
+osm_61,Save-Mor Beer and Pop Warehouse,40.4170675,-79.9249356,,
+osm_62,Waldorf School of Pittsburgh,40.4639135,-79.943092,,
+osm_63,Monongahela Incline Lower Station,40.432453832041695,-80.005036157523,,
+osm_64,Keystone Oaks Middle School,40.38765249270144,-80.03102486518458,,
+osm_65,Two PPG Place,40.44044179023137,-80.00329637689497,"PPG Place, 2",15222
+osm_66,East 8th Avenue at West,40.40595073601799,-79.91192975921918,,
+osm_67,Potomac,40.3972312,-80.0359548,,
+osm_68,Duquesne University Chapel,40.43610381081651,-79.99309469149146,,
+osm_69,Homestead Capri Pizza and Bar,40.40595305779095,-79.91054249719721,"Amity Street, 820",15120
+osm_70,3 Brothers Plumbing & Heating Supplies,40.37822220770913,-79.99196504668713,"Saw Mill Run Boulevard, 2700",
+osm_71,Starbucks,40.4589389,-79.9280292,"Center Avenue, 5932",15206
+osm_72,Woods Run School,40.4720133,-80.0389211,,
+osm_73,Church of the Redeemer,40.43699990875845,-79.92491845620962,,
+osm_74,K&L Gates Center,40.44209916198588,-80.00003530764539,"Sixth Avenue, 210",
+osm_75,Station Square,40.43503474019061,-80.00696027705087,,
+osm_76,Arby's,40.36509475620615,-80.0203133895082,,
+osm_77,Saint Andrews Lutheran Church,40.45401848789029,-79.94456351913693,,
+osm_78,Sherwin-Williams Paints,40.45605088454783,-79.9367135872243,"Centre Ave, 5434",15232
+osm_79,Pinskers Judaica,40.4339065,-79.9230934,"Murray Avenue, 2028",15217
+osm_80,Southside Works City Apartments,40.42901038876297,-79.96693561873602,"Sidney Street, 2746",15203
+osm_81,North Catholic High School,40.4601291,-79.9857697,,
+osm_82,Three PNC Plaza,40.44136638794606,-80.00147098291473,"Fifth Avenue, 201",
+osm_83,AutoZone,40.37692875,-79.98707515,"Saw Mill Run Boulevard, 2900",
+osm_84,Iglesia Cristiana Taburnacula de Dracon,40.4036111,-80.0010018,,
+osm_85,Smithfield Cemetery,40.43966864494183,-79.9142415378945,,
+osm_86,Warner Hall,40.444177,-79.94339074999998,"Forbes Avenue, 5000",
+osm_87,The Doughboy,40.4630553,-79.9669075,,
+osm_88,Pittsburgh Roofing Systems,40.372959,-79.9817616,,
+osm_89,Archies on Carson,40.427931623871,-79.97175726199944,"East Carson Street, 2328, 2330",15203
+osm_90,Bon Air Elementary School,40.4080863374619,-80.00109558119043,,
+osm_91,Uptown Coffee,40.3789899,-80.0450943,"Washington Road, 723",15228
+osm_92,Prospect Elementary School Library,40.4276855,-80.0103022,,
+osm_93,Arsenal Park,40.46595885806072,-79.96099300256668,,
+osm_94,Panera Bread,40.4559504101872,-79.93693314149448,"Centre Avenue, 5430",15232
+osm_95,Mario's,40.42907920860306,-79.98296199003539,"East Carson Street, 1514",15203
+osm_96,Saint Martin Hall,40.43493732753642,-79.9880634945827,,
+osm_97,Cardinal Wright Regional School,40.45262972190037,-80.00818505342733,,
+osm_98,Neville Apartments,40.44750330681907,-79.94719859809884,,
+osm_99,Saint Basils Church,40.3969537,-79.9861755,,
+osm_101,Schaeffer Intermediate School,40.4549689,-80.0597771,,
+osm_102,Starbuck's Coffee,40.4305441,-79.9229308,,
+osm_103,IHOP,40.41498037733746,-79.92296045952297,"Browns Hill Rd, 4656",15217
+osm_104,Barnes & Noble,40.4890956,-79.8940675,,
+osm_105,Panther Hall,40.44498734340524,-79.96209824445856,,
+osm_106,Banksville Laundromat,40.4001256,-80.044286,"Banksville Road, 3144",15216
+osm_107,Hanini Market,40.4763857,-80.0320019,,
+osm_108,Homestead Post Office,40.409091,-79.9029395,,
+osm_109,Bellevue Police Department,40.4970682,-80.0562712,,
+osm_110,Prince of India Restaurant,40.4409164,-79.958544,"Fifth Avenue, 3614",15213
+osm_111,University School,40.4509127,-79.93029,,
+osm_112,Ace Cash Express,40.4649874,-80.0561578,"Mckees Rocks Plaza, 128",15136
+osm_113,Rogue Tattoo,40.4720826,-79.9595583,"Butler Street, 4419",
+osm_114,UPMC Oakland,40.44098423192961,-79.96048199491649,,
+osm_115,Allegheny YMCA,40.45501522435664,-80.01305573648212,,
+osm_116,China Palace,40.4509158,-79.9340005,,
+osm_117,Engine/Truck Company 26,40.3950854,-80.021873,"Brookline Boulevard, 630",15226
+osm_118,Avalon Exchange,40.437908,-79.9206957,,
+osm_119,Tech House,40.44191837789574,-79.93786523996856,,
+osm_120,Sweeney's Irish Pub,40.4779788,-79.9704187,,
+osm_121,CoGo's,40.39604049732949,-79.99731147801657,,
+osm_122,Cesaroli Pizza,40.4729935,-80.0289495,,
+osm_123,Woodland Hall,40.44797874462076,-79.9250509380631,,
+osm_124,BP,40.49608276906477,-80.00805094339502,,
+osm_125,Emmanuel Baptist Church,40.41199733749797,-79.88093918586999,,
+osm_126,Smithfield St at Forbes Ave,40.4397548,-79.9990518,,
+osm_127,Allegheny Valley Bank,40.49217994314,-79.86500350220943,,
+osm_128,Urban Impact Foundation,40.4540335,-80.0033411,,
+osm_129,The Hiker - Spanish American War Memorial,40.4418521,-79.9504923,,
+osm_130,Prospect Elementary School,40.4276745,-80.010154,,
+osm_131,Pittsburgh Police - Zone 5,40.47394005794532,-79.90898672174102,"Washington Boulevard, 1401",15206
+osm_132,Life Pittsburgh,40.4483952,-80.0189005,,
+osm_133,Exterminator,40.38944475,-79.8680475,,
+osm_134,Greek Orthodox Metropolis of Pittsburgh,40.45222134839233,-79.93898228184477,"Ellsworth Avenue, 5201",15232-1421
+osm_135,Hook Fish & Chicken,40.4564011,-80.0071036,,
+osm_136,Potomac,40.39730902306946,-80.03595112037539,,
+osm_137,Presston Park,40.48293054976014,-80.06207980034151,,
+osm_138,O'Hara Student Center,40.44472605452577,-79.95695906603532,,
+osm_139,Mellon Green,40.44028277342257,-79.99493124972219,,
+osm_140,Dance America!,40.4969559,-80.059043,,
+osm_141,Allegheny General Hospital Center for Children,40.45597802097866,-79.99924935835936,,
+osm_142,The Garage,40.3537052,-80.02690585,"Library Road, 4401",
+osm_143,Glitterbox Theater,40.4556737,-79.9528697,"Melwood Avenue, 460",
+osm_144,Prospect Park,40.36497505174911,-79.96198317588077,,
+osm_145,Saint John of God Elementary,40.476007072579975,-80.06649566212307,"Desiderio Way, 3",15136
+osm_146,100 Medical Arts Building,40.4902834,-79.8957277,,
+osm_147,Exxon,40.44707016865498,-79.89547470429176,,
+osm_148,Massage Envy,40.3804767,-80.0448309,"Washington Road, 680",15228
+osm_149,Carlow Interfaith Center,40.43849600686089,-79.96491316331606,,
+osm_150,Evergreen Ave at Frederick St,40.4880463,-79.972617,,
+osm_151,Carnegie,40.4062396,-80.0900531,,
+osm_152,Crabtree Hall,40.44314519572505,-79.95912636529242,,
+osm_153,Turkish Kebab,40.438174,-79.92218,,
+osm_154,Baptist Temple Church,40.4591718,-79.8950424,,
+osm_155,DeBlasio's,40.3919311,-80.0662798,,
+osm_156,Rite Aid,40.38168148983715,-79.99522933419638,,
+osm_157,A Plus,40.44893290816013,-79.95094629720252,"North Craig Street, 195",
+osm_158,David Lawrence Hall,40.44230024208206,-79.95499302642133,,
+osm_159,Benedum Hall,40.44401993258681,-79.95903174163551,,
+osm_160,Primanti Brothers,40.4510135,-79.9849632,,
+osm_161,University Art Gallery,40.4415567,-79.9508834,,
+osm_162,Pie Express,40.4415865,-79.9569789,"Oakland Avenue, 148",15213
+osm_163,Hunt Library,40.44090195,-79.94403234999999,"Frew Street, 4909",
+osm_164,Giant Eagle,40.43604881988018,-79.92195314326592,"Murray Avenue, 1901",15217
+osm_165,Shadyside Plaza,40.45838615441956,-79.92469349092902,,
+osm_166,Rand Building,40.4470397041562,-79.94929354030265,"Fifth Ave, 4570",15213
+osm_167,Linden Elementary School,40.4460733,-79.9159383,,
+osm_168,Petersen Sports Complex,40.4450497,-79.9669237,,
+osm_169,Jack's Bar,40.429040904288605,-79.98702658369322,"East Carson Street, 1117",15203
+osm_170,Wine & Spirits,40.4420391,-80.0026518,,
+osm_171,Pizza Hut,40.4279426572781,-79.9769094985532,"East Carson Street, 2002",15203
+osm_172,Black Forge Coffee House,40.4209146,-79.9923809,"Arlington Avenue, 1206",15210
+osm_173,Light of Life Rescue Mission,40.45606211776298,-80.00614152325497,,
+osm_174,Dollar General,40.4939293,-79.9210467,,
+osm_175,Cort Furniture,40.454791574101215,-80.01607217045232,,
+osm_176,Eyetique,40.4510468,-79.9347737,,
+osm_177,Minadeo Elementary School,40.4237471,-79.9248343,,
+osm_178,Kavsar,40.4290821,-80.0073318,"Southern Avenue, 16",
+osm_179,Velma Apartments,40.46390674093001,-80.0722102429972,"Church Avenue, 1230",15136
+osm_180,Original Mattress Factory,40.4151491,-79.9240556,"Browns Hill Rd, 4638",15217
+osm_181,"CCP  Bass Wolfson Pediatrics, Squirrel Hill Office",40.4438595,-79.9269616,Wilkins Avenue #202,
+osm_182,Mount Ararat Baptist Church,40.46233510656702,-79.91392354180778,"Paulson Avenue, 271",
+osm_183,Pittsburgh Gifted Center Library,40.4472386,-79.9809464,,
+osm_184,Mt. Lebanon,40.38196119224349,-80.04299143605856,,
+osm_185,East Liberty Garage,40.457289704582415,-79.91302416939001,"5th Avenue, 6831",15206
+osm_186,Mad Mex,40.43811081930288,-79.95418120809587,"Atwood St., 370",15213-4026
+osm_187,MedExpress,40.4559829,-79.94203,"Baum Boulevard, 5201",15224
+osm_188,Oak Hill Apartments,40.44085606636457,-79.96890232568857,,
+osm_189,Pitt School of Dental Medicine,40.4425142,-79.9630908,,
+osm_190,First United Methodist Church,40.45651814706656,-79.9379078022202,"Centre Ave, 5401",15232
+osm_191,Fifth Third Bank,40.4516097,-79.9320005,,
+osm_192,Bellevue Elementary School,40.49391402969521,-80.05396497672712,,
+osm_193,St Nicholas Greek Orthodox Cathedral,40.44504642655794,-79.94993666154402,"South Dithridge St, 419",15213
+osm_194,St. Anne's,40.3610414,-80.0289587,,
+osm_195,Liberty Ave at Tito Way,40.4430069,-79.9988363,,
+osm_196,PNC Investor Center,40.3886979,-80.0492099,"Beverly Road, 291",15216
+osm_197,Friends Meeting House,40.4489798,-79.9459612,,
+osm_198,Byers Hall,40.449778286921685,-80.01595317542657,,
+osm_199,Sesame Inn,40.3796873,-80.0447903,"Washington Road, 715",15228
+osm_200,Porter Hall,40.44200040981751,-79.94590400412955,"Frew Street, 4815",
+osm_201,Frick Environmental Center,40.43598252150655,-79.90800922311847,,
+osm_202,Italian Village Pizza,40.4390302,-79.9989687,"Smithfield Street, 408",15222
+osm_203,Essex House,40.45809863199326,-79.93350891735939,"Centre Ave, 5701",15206
+osm_204,WYEP-FM,40.4298649061322,-79.9870408074842,"Bedford Square, 67",
+osm_205,Actors Civic Theatre,40.4368,-79.9798,,
+osm_206,Lomito Restaurant,40.4610539,-79.9480911,"Liberty Avenue, 4770",15224
+osm_207,Monro Muffler,40.377890600000015,-80.00290190000001,,
+osm_208,UPMC Urgent Care at Shadyside,40.45608908044255,-79.94038485045105,"Centre Ave, 5231",15232
+osm_209,Paisano's Restaurant,40.4220181,-79.9928981,"East Warrington Avenue, 812",15210
+osm_210,Marathon,40.388014,-80.0900426,,
+osm_212,Boston Market,40.45601204347658,-79.94095736353935,"Baum Boulevard, 5200",15224
+osm_213,Scarehouse,40.49892799039492,-79.94434364957681,,
+osm_214,Nazareth Baptist Church,40.44385859337236,-79.98307583147074,"Wylie Avenue, 1845",
+osm_215,Crowne Plaza Pittsburgh West-Green Tree,40.42031186180584,-80.05655718720341,,
+osm_216,Stanton,40.4710938,-79.9242629,,
+osm_217,Washington Blvd at Frankstown Ave,40.4588242,-79.9079249,,
+osm_218,Food Services,40.4311451375276,-79.9860724341299,South 13th Street,15203
+osm_219,Carnegie Office Park,40.41834796957127,-80.09094122792983,,
+osm_220,UPMC Shadyside,40.4555224778042,-79.94209594724077,"Centre Avenue, 5230",15232
+osm_221,Three Gateway Center,40.44204436141013,-80.00493988128095,,
+osm_222,Dave's Music Mine,40.42797892141886,-79.986034258733,"East Carson Street, 1210",15203
+osm_223,Ewart Building,40.44324369580468,-79.99807253322243,"Liberty Avenue, 925",
+osm_224,A Child's Wardrobe & Adults Too,40.4319245,-79.9229149,"Murray Avenue, 2200",
+osm_225,USPS,40.45796638075972,-80.01972423694704,"California Avenue, 1001",15290
+osm_226,PNC Bank,40.42182986660677,-79.92859695060937,,
+osm_227,Legume,40.4501035,-79.9507308,,
+osm_228,Mandarin Gourmet,40.4389199,-80.0009647,,
+osm_229,Amazing Yoga,40.4509111,-79.9348999,,
+osm_230,The Home Depot,40.46506221965012,-79.92208776101738,"North Highland Ave, 400",15206
+osm_231,Palm Garden,40.4159609,-80.0120183,,
+osm_232,Rainbow,40.4309712,-79.9774774,2007,
+osm_233,Fairmont Pittsburgh,40.4414817,-80.0020083,"Market Street, 510",15222
+osm_234,Aiello's Pizza,40.4332708,-79.9229647,,
+osm_235,McNeilly Park,40.38505702122973,-80.0220090798633,,
+osm_236,Craig Hall,40.446128060299486,-79.94890078605061,,
+osm_237,Evergreen Ave opp Franklin St,40.4904301,-79.971696,,
+osm_238,PNC Bank,40.4469681,-80.0039565,,
+osm_239,New Grace Missionary Baptist Church,40.4515626,-79.8896933,,
+osm_240,Jones Hall,40.45105124705629,-80.01401940177117,"Ridge Avenue, 808",
+osm_241,Penn Avenue Fish Company,40.43981508614637,-80.00054098097145,"Forbes Avenue, 308",15222
+osm_242,Wines & Spirits,40.4361515,-79.9230594,,
+osm_243,Pierogies Plus,40.46888882043204,-80.05996944556324,"Island Avenue, 342",15136
+osm_244,Pittsburgh Parking Authority,40.4432932,-80.0019537,,
+osm_245,Family Dollar,40.47600083340603,-80.0310614110717,,
+osm_246,Shop 'n Save,40.42899897007975,-80.00789811747144,,
+osm_247,Children's Museum of Pittsburgh,40.45265796425368,-80.00666518339233,,
+osm_248,Saint Elizabeth Ann Seton Parish Administratve Center,40.406952,-80.0870882,,
+osm_249,The Coffee Tree Roasters,40.4509911,-79.9328242,"Walnut Street, 5524",15232
+osm_250,Parador Inn,40.4514967,-80.0180848,,
+osm_251,Mineo's Pizza House,40.3799062,-80.0446665,"Washington Road, 713A",15228
+osm_252,Off Leash Exercise Area,40.4320180757541,-79.9059424683744,,
+osm_253,North Side Station,40.44691107107965,-80.00984262460932,,
+osm_254,Wines & Spirits,40.4589501,-79.926556,,
+osm_255,The Bagel Factory,40.44399111250546,-79.94908481116737,"South Craig Street, 420",15213
+osm_256,Crazy Mocha,40.4329877,-79.9231275,"Murray Avenue, 2100",
+osm_257,Gran Prix,40.387091637053,-79.86512489450251,,
+osm_258,Blawnox Community Park,40.49008767034868,-79.86499527821402,,
+osm_259,Brighton-McClure Presbytyrian Church,40.48397335123832,-80.0359452005891,,
+osm_260,Legion Park,40.48184477290251,-80.0350542778583,,
+osm_261,Pitt Ohio Express Corporate Office,40.45828546875961,-79.97909833598511,"27th Street, 15",15222
+osm_262,Saint James School,40.440556,-79.8849556,,
+osm_263,Allegheny Refrigeration,40.45549798761567,-80.0148060505833,,
+osm_264,EQT Plaza,40.4419609073485,-80.00094148832399,"Liberty Avenue, 625",
+osm_265,Stever House,40.44597688506187,-79.94303936020287,,
+osm_266,Rite Aid Pharmacy,40.4425478,-80.0033165,,
+osm_267,Days Inn Pittsburgh,40.41891246478852,-80.03028313267106,,
+osm_268,Overbrook Elementary School (closed),40.3903472,-79.9969748,,
+osm_269,South Side Tattoo,40.42796324754492,-79.97414951237913,"East Carson Street, 2208",15203
+osm_270,Curry on Murray,40.4329003,-79.9228965,"Murray Avenue, 2121",
+osm_271,Foster Plaza 4,40.42194916290317,-80.05797966430458,"Holiday Drive, 501",15220
+osm_272,Pennsylvania Hall,40.44506800845069,-79.96040014794858,,
+osm_273,Trinity African Methodist Episcopal Church,40.448976,-79.968918,,
+osm_274,Amos Hall,40.44350586772327,-79.95609745886325,,
+osm_275,Carmalt Field,40.38627875994129,-80.0064160804487,,
+osm_276,PNC,40.427106,-80.0564715,,
+osm_277,Carnegie Museum of Art,40.44369873412575,-79.94932244435219,,
+osm_278,Gumberg Library,40.43699730837909,-79.99092096681419,,
+osm_279,Legends of the North Shore,40.4565365,-80.001474,,
+osm_280,Highland Park Pool,40.48195729393223,-79.91094095329603,,
+osm_281,CVS Pharmacy,40.4440382,-79.9280155,"Wilkins Avenue, 5600",
+osm_282,Lebo Subs,40.3820557,-80.0444058,"Washington Road, 632",15228
+osm_283,East Ohio St at Cedar Ave,40.4533224,-80.0015006,,
+osm_284,Stevenson,40.3989759,-80.0337683,,
+osm_285,Clearview Federal Credit Union,40.47042542872117,-80.09221202824817,"Langer Way, 101",
+osm_286,North Side Beer,40.4570681,-80.0068866,"Federal Street, 1304",
+osm_287,Giant Eagle Drive,40.4114697,-79.9079765,,
+osm_288,Southside Riverfront Park,40.43198071974789,-79.97590882114648,,
+osm_289,Southside Works Cinema,40.42806544999999,-79.96501825000001,"Cinema Drive, 425",15203
+osm_290,Foerster Student Services Center,40.44995365771908,-80.01508441774754,,
+osm_291,East Liberty Lutheran Church,40.46306638953907,-79.9281550010629,,
+osm_292,Tabernacle Baptist Church,40.4549255,-80.0140004,,
+osm_293,Pittsburgh Science and Technology Academy,40.44295310254788,-79.95778397418313,,
+osm_294,Allegheny Center Alliance Church,40.45293522669005,-80.00328850938693,"East Ohio Street, 250",
+osm_295,Union School,40.3610251,-79.9940634,,
+osm_296,Rent-A-Center,40.42857540000001,-79.9727669,"East Carson Street, 2303",15203
+osm_297,DoubleTree by Hilton Hotel Pittsburgh-Green Tree,40.418696474267925,-80.05909918653225,"Mansfield Avenue, 500",15205
+osm_298,Potak House,40.4640809,-80.0229193,,
+osm_299,Autoshine,40.3730967,-79.981494,,
+osm_300,Falk Medical Building,40.44097306354891,-79.95895655697271,,
+osm_301,Crescent Elementary School,40.45415467114135,-79.88119158272815,,
+osm_302,Maranatha Bible Baptist Church,40.4419608,-79.8834817,,
+osm_303,Hazelwood Green,40.41597697067248,-79.94980776323993,,
+osm_304,Roth Cash Register,40.39995873452833,-80.00103907793668,,
+osm_305,Pittsburgh Montessori School,40.46195828785452,-79.93550477494777,,
+osm_306,Green Pepper,40.4341354,-79.9229748,"Murray Avenue, 2020",
+osm_307,University of Pittsburgh,40.44398772299885,-79.95764067917919,,
+osm_308,Geno Como,40.3884533,-80.0498152,"Beverly Road, 309",
+osm_309,St. George Syrian Orthodox Church,40.44399095582431,-79.98690730696804,,
+osm_310,German Cemetery,40.40391640260138,-80.0230468723933,,
+osm_311,Woodlawn Apartments,40.44194043199985,-79.93809379819479,,
+osm_312,West Park,40.45294437260129,-80.01117571507609,,
+osm_313,Baum Grove,40.45900278191756,-79.9352883435201,,
+osm_314,Bill Few Associates,40.3789425,-80.0460999,"Washington Road, 740",15228
+osm_315,Equity Real Estate,40.434093,-79.9230738,,
+osm_316,Medicap Pharmacy,40.4790318,-79.972034,,
+osm_317,Spencer United Methodist Church,40.38606122977367,-79.97698693252242,,
+osm_318,West Park American Hardware,40.4727814,-80.0740876,,
+osm_319,Giant Eagle,40.489186907711904,-80.04422044604208,"Brighton Road, 4110",15212
+osm_320,Giant Eagle,40.46261436003594,-79.86495143249945,,
+osm_321,Resnik House,40.44255799500126,-79.94000745589017,"Margaret Morrison Street, 5125",
+osm_322,Bob Matthew's Auto Repair,40.37794924083161,-79.99225031604321,,
+osm_323,Constellation Coffee,40.465668,-79.9560239,"Penn Avenue, 4059",15224
+osm_324,Citizens Bank,40.494988,-80.0549942,,
+osm_325,Century Building,40.4436235,-80.00105435,130,15222
+osm_326,Bob's Diner,40.3660933,-80.0140989,,
+osm_327,Evergreen Ave at Franklin St,40.4902008,-79.9717853,,
+osm_328,First National Trust Company,40.446952,-80.0034747,,
+osm_329,William Pitt Union Lawn,40.44357735089991,-79.95395463189465,,
+osm_330,Jennie King Mellon Library,40.44793727845026,-79.92614585987384,,
+osm_331,Braddock Post Office,40.3980896,-79.8609372,,
+osm_332,Imperial House,40.43336532903953,-79.9259170971752,,
+osm_333,Rankin Elementary School,40.4122912,-79.8789384,,
+osm_334,Cathedral Lawn,40.44502421378213,-79.95190871486675,,
+osm_335,Corinthian Baptist Church,40.4369831,-79.9770287,,
+osm_336,Mamaux Building,40.438968788180745,-80.0050453594171,"First Avenue, 123",15222
+osm_337,Tessaro's,40.4630252,-79.9507142,,
+osm_338,"Dilworth Hall, Chatham University",40.44755761690413,-79.9249104833421,,
+osm_339,Alberta Modern Hair,40.3791403,-80.045108,"Washington Road, 733",15228
+osm_340,Mullen's Bar & Grill,40.4479067,-80.0039218,,
+osm_341,The Frick Greenhouse,40.44809275129186,-79.90105617949554,,
+osm_342,First National Bank,40.487991623756,-79.8789514162024,,
+osm_343,Propel Northside,40.46016987616675,-80.01593056282843,,
+osm_344,Temple Emanuel of South Hills,40.3751076035273,-80.07305655406606,"Bower Hill Road, 1250",15243
+osm_345,Sto-Rox Neighborhood Family Health Center,40.46493379898109,-80.06307263298127,"Thompson Avenue, 710",15136
+osm_346,Parkside Cafe,40.387873241974354,-79.86457629665205,,
+osm_347,Gentilcore Jewelers,40.4879531,-79.8805202,"Freeport Road, 1155",15238
+osm_348,Environmental Charter School,40.445032,-79.89600560000001,,
+osm_349,K. Leroy Irvis Science Center,40.44896076939616,-80.0149699675796,,
+osm_350,West Building,40.43050801020115,-79.99691267773501,,
+osm_351,Hofbruhaus,40.4290232,-79.9647537,,
+osm_352,Primanti Bros. Restaurant,40.4388041,-79.9979826,"Cherry Way, 411",15222
+osm_353,Oakland Square,40.43706358350328,-79.9509940797457,,
+osm_354,Family Dollar,40.430048629126425,-79.97680521724459,"Wharton Street, 2020",15203
+osm_355,Wightman School Community Building,40.44267647354844,-79.92676069271437,"Solway Street, 5604",
+osm_356,JR's Bar,40.4540025,-79.9999785,,
+osm_357,Bellefield Boiler Plant,40.44221868707607,-79.94914394583546,,
+osm_358,Assumption Hall (DU),40.43499403030244,-79.98693874278386,,
+osm_359,Holy Trinity Catholic Church,40.37055093971395,-79.86588693177,"Grant Ave Ext, 529",15122
+osm_360,WS Vending Machine Co,40.4550761505914,-79.99971687267862,,
+osm_361,Pittsburgh Popcorn,40.442054,-79.957961,,
+osm_362,Bridgestreet The Encore on 7th,40.44414866728787,-80.00099570181919,100,15222
+osm_363,9th St at Penn Ave,40.4440424,-79.9979644,,
+osm_364,YMCA of Greater Pittsburgh,40.43801861404598,-80.00090414551444,Boulevard of the Allies,15222
+osm_365,Redbox,40.4894963,-80.0439183,,
+osm_366,XFactory,40.45396559929466,-79.90459839126721,"Lynn Way, 6901",15208
+osm_367,Las Palmas,40.4389517,-79.954966,"Atwood Street, 326",
+osm_368,Jalen's Barbershop,40.4536542,-79.9989737,,
+osm_369,E&M Pizzeria,40.3659664,-79.98463645000001,,
+osm_370,Evergreen Ave at David St,40.4889899,-79.971913,,
+osm_371,Dormont Junction,40.3915943,-80.0410345,,
+osm_372,Minadeo Elementary School Library,40.423758,-79.9243926,,
+osm_373,St. Bede Parish,40.4419643,-79.9109005,,
+osm_375,PNC Bank,40.3821693,-80.043918,"Washington Road, 620",15228
+osm_376,Delanie's Coffee,40.4288961,-79.9810498,,
+osm_377,First Presbyterian Church,40.4415242681709,-79.9991115321045,,
+osm_378,Bellevue Gables Apartments,40.49697095,-80.05640909999998,"Hawley Avenue, 25",
+osm_379,Subway,40.3663858,-79.98503114999998,,
+osm_380,Rankin Boulevard at Hawkins,40.4120835,-79.8809149,,
+osm_381,Tunnel Park,40.4283997464232,-79.96508497977509,,
+osm_382,Tavern 245,40.43968675702506,-80.00091754808402,"Fourth Avenue, 245",15222
+osm_384,Herschel Park,40.438964412429335,-80.04491058548126,,
+osm_385,Bernie's Photo Center,40.4529231,-79.9997941,,
+osm_386,Saint Edmunds Academy,40.43751875559203,-79.9250458261445,,
+osm_387,Victory Building,40.44314466235934,-79.99826750466487,"Liberty Avenue, 821",
+osm_388,Giant Eagle Market District,40.48796171630853,-79.89431540494557,"Freeport Road, 910",15238
+osm_389,South Hills Congregational Church,40.3769092,-79.9752248,,
+osm_390,Observatory Hill School,40.4899929,-80.0164939,,
+osm_392,Oxford Building,40.44012129426306,-79.959468544723,,
+osm_393,Artists Image Resource Inc,40.45465008935547,-80.0001981089732,,
+osm_394,Sutherland Hall,40.44602996321248,-79.96198582773665,"Sutherland Drive, 3725",15213
+osm_395,Forest Hills Presbyterian Church,40.4253726,-79.8605495,,
+osm_396,Grant St at Post Office,40.4428041,-79.9939693,,
+osm_397,Epiphany Church,40.44006605,-79.99104555,,
+osm_398,Pizza Palermo,40.455976,-79.9359672,,
+osm_399,Second Baptist Church,40.40298691320268,-79.90919302652841,,
+osm_400,O'Reilly Theater,40.44290226738298,-80.00098055167464,"Penn Avenue, 621",15222
+osm_401,Station Square,40.4309317,-80.0029931,,
+osm_402,Old Town Buffet,40.41093355696952,-80.0070159324279,,
+osm_403,Crazy Mocha,40.4630609,-79.9508866,Liberty Avenue,
+osm_404,Tambellini Restaurant,40.44296900775173,-80.00014356688571,"7th Street, 139",15222
+osm_405,Point Park University Library,40.4386798,-80.0009684,,
+osm_406,Iron City Auto Service & Sales,40.3921813,-79.9974388,,
+osm_407,Subway,40.4300954,-80.0069393,,
+osm_408,Mount Washington Baptist Church,40.43121953104991,-80.00768135574484,,
+osm_409,Jolina's Mediterranean Cuisine,40.3921473,-80.0169607,"Brookline Boulevard, 1011",15226
+osm_410,Arlington Recreation Center,40.4192352,-79.9749104,"Salisbury Street, 2201",15210-1845
+osm_411,Mount Washington Park,40.42395581138057,-80.01608686829722,,
+osm_412,Chatham Village,40.4297496274228,-80.01694929419897,,
+osm_413,New Emerson Elementary School Library,40.3620656,-79.8650687,,
+osm_414,Wine & Spirits Store,40.429719696089705,-80.00690016477792,"Shiloh Street, 233",15211
+osm_415,Newman Chiropractic Center,40.45405419679676,-79.92100518522385,"Shady Avenue, 527",15206
+osm_416,Bombay Food Market,40.45214401524424,-79.95209720293848,"Centre Avenue, 4605",15213
+osm_417,Shop N Save,40.3879545,-80.09291,"Washington Pike, 2100",
+osm_418,Posner Tower,40.45509326977968,-79.93985086718504,,
+osm_419,Grant Building,40.4380491,-79.9969425,"Grant Street, 310-330",15219
+osm_420,Smokin' Joe's Saloon,40.428768226823614,-79.97695644054292,"East Carson Street, 2001",15203
+osm_421,Cathedral of Learning,40.44398022443955,-79.9531735864704,"Fifth Avenue, 4200",15260
+osm_422,Rex Theater,40.42906738614231,-79.98198810059179,"East Carson Street, 1602",15203
+osm_423,Mr. Smalls Fun House,40.4805533,-79.9719086,,
+osm_425,Kassabs,40.42888547056285,-79.98606423792174,"East Carson Street, 1207",15203
+osm_426,Physique Rx'd,40.45200927837151,-80.01546934165258,"Western Avenue, 835",
+osm_428,Cost Sports Center,40.44623616963745,-79.9650491338379,,
+osm_429,The Medical Center East,40.46308729711749,-79.92522891422504,"North Whitfield Street, 211",15206
+osm_430,Allegheny West Center,40.45096948333134,-80.02191792636945,,
+osm_431,Shadyside Market and Deli,40.4506774,-79.9349721,,
+osm_432,William S. Moorhead Federal Building,40.44299003980201,-79.9950529676742,"Liberty Avenue, 1000",
+osm_433,"Seubert & Associates, Inc",40.445924,-80.007969,,
+osm_434,Herron Hill Pumping Station,40.4520106895606,-79.95322572108275,,
+osm_435,McKees Rocks Mound,40.4729142,-80.0509871,,
+osm_436,Cogos,40.3923617,-80.0169381,"Brookline Boulevard, 1001",15226
+osm_437,Rite Aid,40.4511369,-79.9329602,,
+osm_438,YWCA of Greater Pittsburgh,40.43891694475677,-80.00200598222963,,
+osm_439,Mazeroski Field,40.44099886813464,-79.9519240518777,,
+osm_441,Uptown Pittsburgh Post Office,40.438769,-79.9859227,,
+osm_442,First Unitarian Church,40.45060077554395,-79.94198216026554,"Morewood Avenue, 605",15213
+osm_443,Westwood Park,40.4310144732979,-80.05022498140582,,
+osm_444,Breakfast at Shelly's,40.4216439,-79.9939103,"East Warrington Avenue, 740",15210
+osm_445,South Busway at Station Square,40.4318032,-80.0037276,,
+osm_446,21st Street Coffee and Tea,40.4516912,-79.9839436,"Smallman Street, 2002",15222
+osm_447,Feller's Garage,40.36398732624707,-80.02497974266791,,
+osm_448,Baptist Homes,40.372774610170296,-80.03306996229378,"Castle Shannon Boulevard, 489",15234
+osm_449,Public Source,40.421614,-79.9939425,"E Warrington Ave, 746",15210
+osm_450,Providence Reformed Presbyterian Church,40.4019991,-80.0160839,,
+osm_451,Abraxas High School,40.4620484,-79.9103162,,
+osm_452,The Modern Cafe,40.4521212,-80.0159043,,
+osm_453,Gavino's Pizzeria,40.4649777768999,-80.0596722265261,"Chartiers Avenue, 528",15136
+osm_454,Eddy Theatre,40.44796334517794,-79.92593023509227,,
+osm_455,Light of Life Rescue Mission,40.4520793,-80.017078,,
+osm_457,Polo Barber Shop,40.3930817,-80.0190274,"Brookline Boulevard, 905",15226
+osm_458,St. Paul Baptist Church,40.45391243965406,-79.91172761167886,,
+osm_459,Gesling Stadium,40.44293781142841,-79.94026713011579,,
+osm_460,Noodles & Company,40.4420314,-79.9570622,"Forbes Avenue, 4805",
+osm_461,Miller Funeral Home,40.49490626950851,-80.05390892329835,"Lincoln Avenue, 460",
+osm_462,Citizens Bank,40.4467044,-79.9491703,,
+osm_463,Great Clips,40.4160068,-79.9250855,"Browns Hill Rd, 4580",15217
+osm_464,Shadyside Presbyterian Church,40.44910839294402,-79.93886759160335,,
+osm_465,Semple School,40.4461799,-79.8744941,,
+osm_466,Sumi's Cakery,40.4329881,-79.9230904,"Murray Avenue, 2119",
+osm_467,Pesaro's Pizza,40.4709202,-79.9597591,,
+osm_468,Cheesecake Factory,40.4279728,-79.9649706,"South 27th Street, 415",15203
+osm_469,Beechview United Presbyterian Church,40.4089062,-80.023996,,
+osm_470,Hyatt Place Pittsburgh North Shore,40.44668996135805,-80.00908960732367,"North Shore Drive, 260",15212
+osm_471,Faith Community Christian Church,40.501023,-80.0678073,,
+osm_472,Mazzei & Associates,40.437566292297134,-80.00006637520751,"Boulevard of the Allies, 432",15222
+osm_473,Troy Hill Playground,40.45794020870915,-79.98916871906415,,
+osm_474,Gateway,40.44203740458893,-80.004136786498,,
+osm_475,Omni William Penn Hotel,40.44060863807165,-79.9965918338232,"William Penn Place, 530",
+osm_476,Administration Building,40.4360024187655,-79.9930944122117,,
+osm_477,Forest Avenue Presbyterian Church,40.50493828784787,-80.0513257800547,,
+osm_478,Original Gyro,40.3650962,-80.0180802,,
+osm_479,Love Ramen,40.4405711,-79.9559115,"Atwood Street, 229",15213
+osm_480,Pentecostal Temple Church of God in Christ,40.46307695351215,-79.91761785069575,"East Liberty Boulevard, 6300",15206
+osm_481,Hamburg Hall,40.44390627965876,-79.94557183390488,"Forbes Avenue, 4800",
+osm_482,James Dean Auto Works,40.4920416,-80.0442816,"Jacks Run Road, 579",
+osm_483,Edgewood Police Department,40.4339442800438,-79.88390198737396,"Race Street, 2",15218
+osm_484,Lucky Dragon,40.4779009,-79.9554911,,
+osm_485,Ninja Entertainment,40.4390559,-79.9989156,"Smithfield Street, 404",15222
+osm_486,Mineo Building,40.4510459238544,-79.9348555091361,,
+osm_487,Ventos,40.4643879,-79.923313,,
+osm_488,Allegheny General Hospital,40.4572913853636,-80.00291888073315,"East North Avenue, 320",15212
+osm_489,Department of Human Services Office,40.4369189,-80.0009491,,
+osm_490,Crafton Childrens Corner,40.4253117,-80.0449013,,
+osm_491,University Pittsburgh Childhood Development Center,40.44793226608669,-79.94493190956545,,
+osm_492,Subway,40.4529183,-80.0009575,,
+osm_493,Pittsburgh Valet,40.3989678,-80.0537263,"Northridge Drive, 828",15216
+osm_494,Hazelwood Christian Church,40.40897283010779,-79.94242459178439,,
+osm_495,Angelia's Italian Grille,40.4678754,-80.0955304,"McKees Rocks Road, 1817",15136
+osm_496,Pittsburgh Kitchenrama,40.4704557,-79.9640329,,
+osm_497,North Ave at Lincoln Ave,40.480961,-79.9739002,,
+osm_498,Brookline Memorial Park,40.39107804947054,-80.00695765211391,,
+osm_499,Bloom Cigar Company,40.42899787176116,-79.98660013382651,"South 12th Street, 54",15203
+osm_500,Sewickley Eye Group,40.49892141509393,-80.06398224750745,,
+osm_501,Community House,40.45699734051408,-80.00497706231344,,
+osm_502,Suds 'n' Subs,40.46582186453053,-80.06150370551342,"Chartiers Avenue, 704",15136
+osm_503,John Heinz Pittsburgh Regional History Center,40.4466218,-79.9919012,,
+osm_504,Cabaret Theatre,40.44297461752472,-80.00098045131332,,15222
+osm_505,Nationality Rooms,40.4439651,-79.9529347,,
+osm_506,Sichuan Gourmet,40.4357471,-79.9229262,,
+osm_507,West Wing,40.44301522275035,-79.94083193239373,"Margaret Morrison Street, 5125",
+osm_508,Saint Michaels Cemetery,40.41908230291282,-79.98391457566963,,
+osm_509,The Northside Chronicle,40.4559872,-79.9997346,,
+osm_510,Carnegie Public Library Brooline,40.394409,-80.0209017,,
+osm_511,BP,40.474010150000005,-80.0629996,"Island Avenue, 801",15136
+osm_512,Vogt True Value Hardware,40.42859253667042,-79.9848778000825,"East Carson Street, 1308",15203
+osm_513,King Estate Park,40.4790191548912,-79.92393872355542,,
+osm_514,Northside Catholic School,40.486238026941926,-80.03607573875357,,
+osm_515,Spirit,40.4790571,-79.9559411,"51st Street, 242",15201
+osm_516,PNC Bank - Eastside,40.45935,-79.9259173,"Center Avenue, 5932",15206
+osm_517,Silk Elephant,40.436961,-79.9231201,,
+osm_518,Lindo's Restaurant,40.4514375,-80.0179986,,
+osm_519,Smithfield News,40.43800978216296,-80.00050120141867,"Smithfield Street, 115",15222
+osm_520,Pittsburgh Ballet Theater Building,40.43797160508564,-80.00227710355563,"Wood Street, 113-115",15222
+osm_521,Foster Plaza 3,40.42191805345517,-80.0589665671622,"Holiday Drive, 601",15220
+osm_522,Morningside Elementary School (Closed),40.4859236,-79.9259851,,
+osm_523,Curran Hall,40.43899076975126,-79.96210573808554,,
+osm_524,University Technology Development Center,40.446042674553546,-79.94957240755737,"Henry St, 4516",15213
+osm_525,Cardamone's Hair & Nail Salon,40.4399443,-80.0010579,,
+osm_526,Peace Garden,40.44097181718583,-79.94312039905644,,
+osm_527,Little Giant Federal Credit Union,40.46546865731836,-80.06021762356193,"Chartiers Avenue, 600",15136
+osm_528,Oakwood Park,40.42608004079231,-80.06593806272419,,
+osm_529,Greyhound Pittsburgh,40.4450487,-79.9933324,,
+osm_530,State Liquor Store,40.4315885,-79.978208,,
+osm_531,The Mall,40.44203174591164,-79.94542482328609,,
+osm_532,UPMC Optical,40.4410964,-79.9580085,,
+osm_533,Soldiers and Sailors Memorial Hall,40.44490923887037,-79.95592989827392,,
+osm_534,Crazy Mocha,40.4693242,-79.9612952,"Butler Street, 4032",15201
+osm_535,Reynolds Motors,40.446945,-79.9048435,,
+osm_536,Grow Pittsburgh Garden Resource Center,40.45963054069038,-79.91300051415573,,
+osm_537,Hi-Tech Auto Care,40.49149546655765,-79.86499427736133,,
+osm_538,Union Project,40.4718981,-79.9264503,,
+osm_539,ZOLL LifeVest,40.49698794418136,-79.86864976839941,,
+osm_540,Alumni House,40.44507279147974,-79.94198015127526,,
+osm_541,Dollar Bank,40.4220693,-79.9930183,"East Warrington Avenue, 820",15210
+osm_542,Marathon,40.36494130508335,-80.01890898593923,,
+osm_543,The Priory,40.45241609261489,-79.99797096462557,,
+osm_545,Paul's Automotive,40.45658062028097,-79.99894898365206,,
+osm_546,McDonald's,40.36461699266623,-79.98390175104593,,15227
+osm_547,South Bank,40.392946,-79.998343,,
+osm_548,Pittsburgh News,40.4429325,-80.0019725,,
+osm_549,Starbucks,40.42905490082649,-79.98401865611764,"East Carson Street, 1400",15203
+osm_550,Liberty Bridge,40.431759850000006,-79.99697055,,
+osm_551,Target,40.41039392558297,-79.91010912072507,"Waterfront Drive East, 360",15120
+osm_552,Negley Station A & B,40.4567,-79.931901,,
+osm_553,The Snack Shop,40.46609914359404,-80.0659036330458,"Chartiers Avenue, 906",15136
+osm_554,Bed Bath & Beyond,40.41136679193836,-79.90687428505807,,
+osm_555,Grace Episcopal Church,40.431954,-80.010344,,
+osm_556,Sprit House,40.44190911485003,-79.93791769639967,,
+osm_557,Speedway,40.41899711722113,-79.92693364958403,"Browns Hill Road, 4420",
+osm_558,UPMC Mercy,40.43590952617552,-79.98601470511865,"Locust Street, 1400",15219
+osm_559,Brentwood Library,40.3749799,-79.9750352,,
+osm_560,Nicholas Coffee Co,40.4409275,-80.0030121,"Market Street, 23",15222
+osm_561,Baldwin Pool,40.38286103874424,-79.95697610647917,,
+osm_562,Elizabeth Seton Childrens Center,40.40402979706646,-80.01592595513445,"Pioneer Avenue, 1900",15226
+osm_563,Freeport Rd at Lewis Ave,40.4971897,-79.8560512,,
+osm_564,American Natural,40.4309749,-80.0012277,"East Carson Street, 73",15219
+osm_565,One Oxford Center,40.43799080993967,-79.998539402281,"Grant Street, 301",15219
+osm_566,Esther's,40.48093343892253,-79.97509802994304,,
+osm_567,Crafton United Presbyterian Church,40.4329686,-80.0650712,,
+osm_568,Fellini Auto Sales & Service,40.400077781431946,-80.00000889648985,,
+osm_569,Rangers Field,40.47195563038393,-80.05201220099524,,
+osm_570,Kraus Winter Garden,40.44405356760035,-79.94462410485335,,
+osm_571,East Carnegie Park,40.41505184324235,-80.07507056923274,,
+osm_573,Beggs-Snyder Park,40.39032781489786,-80.02973993232756,,
+osm_574,PNC Bank,40.3592802731402,-80.00249884948211,,
+osm_575,Express Pizzeria,40.3782684,-79.99107365,"Saw Mill Run Boulevard, 2760",
+osm_576,Steel Plaza,40.4398835,-79.995157,,
+osm_577,Cogo's,40.42838987523308,-79.97104218932105,"East Carson Street, 2401",15203
+osm_578,Dormont Junction,40.3909629,-80.0409687,,
+osm_579,Allegheny County Office Building,40.4380369,-79.99607135,"Forbes Avenue, 542",
+osm_580,Episcopal Diocese of Pittsburgh,40.4409468,-79.9980755,,
+osm_581,Saint Michaels Church,40.41167274605939,-79.8787555366953,,
+osm_582,Murray Avenue Kosher,40.43496,-79.9230216,"Murray Avenue, 1916",15217
+osm_583,One PNC Plaza,40.44097843991993,-80.00043145335181,"Fifth Avenue, 249",
+osm_584,Wayne's Auto Body,40.38191234010378,-79.99696132165136,"Library Road, 2520",
+osm_585,Mellon Institute,40.44611828157184,-79.9510712062266,"Fifth Avenue, 4400",15213
+osm_586,Fickes Hall,40.44891072592849,-79.9230941384877,,
+osm_587,First National Bank ATM,40.41743528015413,-79.98597400443073,"Brownsville Road, 101",15210
+osm_588,Starbucks Coffee,40.4509673,-79.9350312,"Copeland St, 730",15232
+osm_589,Alan's Pets and Plants,40.4318447,-79.92304,,
+osm_590,Hamilton Park,40.363047894820895,-80.0189714362369,,
+osm_591,Grace Library,40.4389667,-79.9636111,,
+osm_592,Giant Eagle,40.4309201,-79.9770634,2021,
+osm_594,Les Getz Memorial Park,40.4187223068219,-79.89292027307505,,
+osm_595,565 Live,40.4959131,-80.0580748,,
+osm_596,Dinette,40.4589955,-79.9249837,,
+osm_597,Lynn's Cafe,40.4729966,-80.0746398,,
+osm_598,Garfield's Nightmare,40.38591385,-79.86379965,,
+osm_599,Rangos School of Health Sciences,40.4370667,-79.9929333,,
+osm_600,Second Baptist Church,40.464033,-79.886951,,
+osm_601,Rockwood Park,40.363440781523366,-80.03501331904387,"Rockwood Avenue, 808",15234
+osm_602,Braddock Avenue at Library Street,40.4011774,-79.8657017,,
+osm_603,Cogo's,40.42908154474016,-79.98909841617855,,
+osm_604,PNC Bank,40.42791825072339,-79.9807857039436,"East Carson Street, 1736",15203
+osm_605,Schenley Park,40.434076198312894,-79.94187437449467,,
+osm_606,Happy Nails,40.454094,-79.9988484,,
+osm_607,1 Allegheny Square,40.45202746882602,-80.00582455363856,,
+osm_608,Chubby's Pizza,40.4809893,-80.0409956,,
+osm_610,Greentree Road Shopping Center,40.39606175936963,-80.06697102998713,Greentree Road,15220
+osm_611,Sara Heinz House,40.45500272907797,-79.99292406615746,"Heinz Street, 1",15212
+osm_612,Murray Avenue News & Toys,40.4340706,-79.9230842,"Murray Avenue, 2024",
+osm_613,Cafe Du Jour,40.42908668865597,-79.98694189998093,"East Carson Street, 1107",15203
+osm_614,Baldwin Township Community Library,40.3796566,-80.0177403,,
+osm_615,Saint Cyril of Alexandria Church,40.48498843598181,-80.036018411047,,
+osm_616,Fisher Hall,40.43823126955376,-79.99194909140466,,
+osm_617,Boulevard Motor Mart,40.3877619,-79.9970709,"Saw Mill Run Boulevard, 2230",
+osm_618,Scobell House,40.44132985,-79.939619,,
+osm_619,Pioneer Education Center,40.403125,-80.0080309,,
+osm_621,Thick Bikes,40.42890616502565,-79.98366160032228,"Bingham Street, 1408",15203
+osm_622,U.S. Post Office and Courthouse,40.44304445559825,-79.99393896134251,"Grant Street, 700",
+osm_623,Consignments on Centre,40.4570195,-79.9359087,"Centre Ave, 5503",15232
+osm_624,Social,40.4568414,-79.9159239,,
+osm_625,East Ohio St at Heinz St,40.4552551,-79.993064,,
+osm_626,OTB Bicycle Caf,40.42699065757244,-79.9689219670096,"East Carson Street, 2518",15203
+osm_627,Swanson School of Engineering,40.4438649,-79.9586103,3700 O'hara,15213
+osm_628,Point State Park,40.441535259785816,-80.01000961691477,"Commonwealth Place, 101",
+osm_629,David Lawrence Pavilion,40.4330423255513,-79.94496613721311,,
+osm_630,Canevin Hall (DU),40.43595425,-79.99229625,,
+osm_631,Ralph Schugar Funeral Home,40.45708396887669,-79.9359485248798,"Centre Ave, 5509",15232
+osm_632,Dave's Barber Shop,40.45982325,-80.01799815,,
+osm_633,Union Grill,40.44502060090197,-79.94791323648118,"S Craig St, 413",15213
+osm_634,Cambria hotel & suites Pittsburgh - Downtown,40.44015237714633,-79.98788132135611,"Center Av, 1320",15219
+osm_635,Dunkin' Donuts,40.4419154,-79.9559829,,
+osm_636,Station Square,40.43336837020799,-80.00510447563023,,
+osm_637,Buon Giorno Cafe,40.4370682,-80.0005621,,
+osm_638,Mercy Behavioral Health,40.4509294944562,-80.00199941978603,,
+osm_639,Community College of Allegheny County,40.44994347835167,-80.01337928561459,,
+osm_640,Park Circle Motors,40.46984538111711,-80.0770445632762,"Singer Avenue, 401",15136
+osm_641,Hillel Jewish University Center,40.4446115,-79.9479075,,
+osm_642,East Ohio St opp Union Ave,40.4529114,-80.003097,,
+osm_643,WDUQ-FM (Pittsburgh),40.43092386652354,-80.0070089727073,,
+osm_644,Green Tree Nature Center,40.40695057957193,-80.0560196921468,,
+osm_645,Santini's,40.4819251,-79.9732721,,
+osm_646,Paris 66,40.45996612335664,-79.92397624458457,"Penn Circle South, 6018",
+osm_647,Glenwood Yard,40.40047010965698,-79.94204493753858,,
+osm_648,Bible Center Church of God In Christ,40.4570428,-79.8961648,,
+osm_649,Carmalt Science and Technology Elementary School,40.3874530219759,-80.00705552483316,,
+osm_650,Meyers Ridge,40.46897904431977,-80.0654060327266,"Gray Street, 901",15136
+osm_651,Bellefield Towers,40.44697051949258,-79.95205014893538,"North Bellefield Avenue, 100",
+osm_652,First Baptist Church,40.4480059162538,-79.95290157343037,"North Bellefield St, 159",15213
+osm_653,Penn Station,40.4440295,-79.9920299,,
+osm_654,Pandora's Box and Gallery,40.42802439234244,-79.97191614149344,"East Carson Street, 2318",15203
+osm_655,Packs and Dogs,40.4299178,-80.0069977,"Shiloh Street, 223",15211
+osm_656,Bistro To Go Cafe,40.4529779,-80.0009938,,
+osm_657,Heth's Playground,40.47746644232173,-79.92767581551388,,
+osm_658,Broadway Electronics,40.472963,-80.0739489,,
+osm_659,H&R Block,40.4351562,-79.9229823,,
+osm_660,Tennis Village,40.4510267,-79.9348524,"Walnut Street, 5419",15232
+osm_661,The Corner,40.44048596024435,-79.9653277189829,"Robinson Street, 200",
+osm_663,Sharp Edge Creekhouse,40.4402774,-80.0810385,"West Steuben Street, 288",
+osm_664,Simba Market,40.4529049,-79.9999813,,
+osm_665,Spring Hill Park,40.47098245133632,-79.9910607350102,,
+osm_666,Concord Elementary School,40.38724193014001,-79.98501911595757,,
+osm_667,Roosevelt Elementary School,40.3977714,-79.9889307,,
+osm_668,A Weil Elementary School,40.4439135,-79.9742191,,
+osm_669,Oakland Catholic Chapel,40.4479484,-79.9497386,,
+osm_670,Rankin Christian Center,40.4120984,-79.880072,,
+osm_671,Thackeray Hall,40.44395977876462,-79.95698922543242,,
+osm_672,Chatham Elementary School,40.4896292,-80.0139789,,
+osm_673,Chatham Tower Condominium,40.43926271526344,-79.9929450631674,,
+osm_674,Lawrenceville's Smile Center,40.4703769,-79.9610315,"Butler Street, 4201",
+osm_675,Rhododendron Shelter,40.47903965504671,-79.91044909688436,,
+osm_676,Vitamin Shoppe,40.41209078149258,-79.91101559589814,"Waterfront Drive East, 380",15120
+osm_677,DoubleTree by Hilton Hotel & Suites Pittsburgh Downtown,40.440570727589616,-79.99403308019748,"Bigelow Square, 1",15219
+osm_678,Olde Kennywood RR,40.38791573057859,-79.86407283966972,,
+osm_679,Duquesne University Student Union,40.43599440062791,-79.9908406981155,,
+osm_680,VCA Castle Shannon Animal Hospital,40.36493966723418,-80.01821610042522,,
+osm_681,Courtyard Pittsburgh Downtown,40.44399889906693,-79.99655390038478,,
+osm_682,Grocery Kart,40.46399494999999,-79.93307610000001,"Penn Avenue, 5482",15206
+osm_683,Loafers Bread Company,40.4879546,-79.8806184,"Freeport Road, 1153",15238
+osm_684,The Cuckoo's Nest Magic Shop,40.428079030624986,-79.97301955583727,"East Carson Street, 2304 1/2",15203
+osm_685,Carnegie Library of Homestead,40.4071046,-79.9029436,,
+osm_686,Law & Finance Building,40.43791900000001,-79.99796555,"Fourth Avenue, 429",15219
+osm_687,Motel 6 Pittsburgh,40.4040712,-80.0406306,,
+osm_688,Meadowcroft Park,40.388454677119256,-80.0480901857829,,
+osm_689,Gateway Center Park,40.44082761671303,-80.00540069490933,,
+osm_690,St. Anne's,40.3610477,-80.028905,,
+osm_691,Destination XL,40.4100957,-79.9120795,,
+osm_692,Forbes Gyro,40.4409937,-79.9569592,,
+osm_693,Garland Parklet,40.46382251228289,-79.92809179157508,,
+osm_694,Morningside VFW 3945,40.4868662,-79.9259325,"Morningside Avenue, 1820",15206
+osm_695,Giant Eagle Supermarket,40.45136881238363,-79.99968397345322,,
+osm_696,McGill House,40.44172266251948,-79.93890734219667,,
+osm_697,Armstrong Field,40.42791847724629,-79.98609589153477,,
+osm_698,Tn Lc Vin,40.4332049,-79.9231754,"Murray Avenue, 2114",
+osm_699,Fulton Elementary School,40.47500605,-79.92208160000001,,
+osm_700,East End Food Co-op,40.4479486,-79.8960893,,
+osm_701,Art and Design Center,40.44578303863514,-79.92432971015873,,
+osm_702,Kennywood Park,40.38802955769422,-79.86362930648622,,
+osm_703,Blue Eagle Market,40.4730824,-80.0742281,,
+osm_704,Union Station,40.44431432781565,-79.99197623228855,"Liberty Avenue, 1100",
+osm_705,Smallman Street Deli,40.4360094,-79.9230279,"Murray Avenue, 1912",
+osm_706,Kaleidoscope Cafe,40.4719636,-79.962979,,
+osm_707,Stack'd Oakland,40.4409292,-79.9569923,"Forbes Avenue, 3716",15213
+osm_708,Dollar Bank,40.4419825,-79.9580877,"Fifth Avenue, 3714",15213
+osm_709,Music Building,40.44666276851864,-79.9519085054786,,
+osm_710,Renaissance Center,40.4439062,-79.9969934,,
+osm_711,Easter Seal Society of Western Pennsylvania,40.4439581,-80.0009614,,
+osm_712,15 Fahrenheit Rolled Ice Cream,40.380954,-80.0439637,"Washington Road, 654",15228
+osm_713,Vincler & Associates LLC,40.4369319,-80.0001053,"Smithfield Street, 114",15222
+osm_714,Fu Lai Chinese Restaurant,40.4419943,-80.0031128,,
+osm_715,Mugam Auto Repair,40.39097025,-79.9965367,,
+osm_716,Pittsburgh Gifted Center,40.446924,-79.9809499,,
+osm_717,Curves,40.4741268,-80.0976414,,
+osm_718,Renaissance Pittsburgh Hotel,40.44409865053455,-80.00227619196068,"6th Street, 107",15222
+osm_719,200 Medical Arts Building,40.48988224011548,-79.89508867398509,,
+osm_720,Tepper School of Buisness,40.440957309703,-79.94196615226012,,
+osm_721,Local Brewhouse,40.4481669,-80.0039518,,
+osm_722,One Gateway Center,40.44301531372473,-80.004978022493,"Fort Duquesne Boulevard, 420",
+osm_723,Paynter Elementary School,40.381039101415226,-79.9503541478656,"Pleasantvue Drive, 3454",15227
+osm_724,McBride Park,40.370205756758175,-79.90608325928012,,
+osm_725,Visual Arts Center,40.45092223256638,-80.01599739352277,,
+osm_726,Western Pennsylvania Hospital,40.46108783306162,-79.94609053304578,"Friendship Avenue, 4800",15224
+osm_728,Resonance Violins,40.3829226,-80.0439945,"Washington Road, 530",15228
+osm_729,Homestead Borough Hall,40.40095317214296,-79.90318391170409,,
+osm_730,Hard Rock Cafe,40.43406410294675,-80.00509805008834,,
+osm_731,Foster Plaza 6,40.42091802123129,-80.06306807646125,"Andersen Drive, 681",15220
+osm_732,Keystone Oaks High School Library,40.3870821,-80.0297312,,
+osm_733,Cupka's Cafe,40.42791606060723,-79.97190439983268,"East Carson Street, 2314",15203
+osm_734,Liberty Ave at Smithfield St,40.4429295,-79.9970148,,
+osm_735,General Dentistry,40.4959968,-80.0570465,"Lincoln Avenue, 538",
+osm_736,Bruegger's Bagels,40.4379476,-79.9979771,,
+osm_737,Zorbas,40.4387904,-79.9989645,"Smithfield Street, 400",15222
+osm_738,Saint Peter Catholic Church,40.45192006690005,-80.00795325672831,,
+osm_739,Valero,40.49141835532359,-79.86562934405893,,
+osm_740,East Building,40.43027328301744,-79.99594527289275,,
+osm_741,Winchester Thurston School,40.452023582983806,-79.94235613490056,,
+osm_742,Citizens Bank,40.43674747134881,-79.92307892683552,"Murray Ave., 1801",15217
+osm_743,AT&T Building,40.44201696391214,-79.99605441534521,"Grant Street, 635",
+osm_744,Allegheny County Library Association,40.4409933,-80.0347898,,
+osm_745,Steel Plaza,40.4398743,-79.9949841,,
+osm_746,Fitzgerald Fieldhouse,40.44354814263713,-79.96406971212444,,
+osm_747,Butler Street News & More,40.4709367,-79.9598074,"Butler Street, 4320",
+osm_748,Marybelle Apartments,40.44792795,-79.9459372,,
+osm_749,Flowershow Studio,40.4379347,-79.9985839,,
+osm_750,Mattress Factory,40.4570286,-80.0122738,"Sampsonia Street, 500",
+osm_751,Sherwin-Williams Paints,40.3650988,-80.0169972,,
+osm_752,Common Park,40.44199216846666,-79.96296634679625,,
+osm_753,Squirrel Hill Post Office,40.43701746337835,-79.92298657189394,"Murray Avenue, 1800",15217
+osm_754,The Lava Lounge,40.42796568423147,-79.9743211491677,"East Carson Street, 2204",15203
+osm_755,Lawyers Building,40.4390978232591,-79.99797846070304,"Forbes Avenue, 428",15222
+osm_756,"A For The People Insurance Agency, Inc.",40.447974,-79.9709246,"Wylie Avenue, 2514",15219
+osm_757,Alex's Ice Cream,40.4529549,-80.0009325,,
+osm_758,Mansions On Fifth Hotel,40.44809214452479,-79.93835834625945,"Fifth Avenue, 5105",15232
+osm_759,Huntington Bank,40.4379028110066,-79.92193917994786,,
+osm_760,"Carriage House, Chatham University",40.44713758292493,-79.92468769547412,,
+osm_761,Crazy Mocha,40.4580119,-79.9349587,,
+osm_762,Barry's Pub,40.42890446059005,-79.98707283753023,"East Carson Street, 1109",15203
+osm_763,Kristas Cantina,40.4670458,-80.0339306,"California Avenue, 2650",15212
+osm_764,A & E Deli,40.41697561134205,-79.98641135439618,"Brownsville Road, 105",15210
+osm_765,Bouquet Gardens Building H,40.4407653436741,-79.95494685439748,,
+osm_766,Lampher Reservoir,40.49096434472472,-79.95896920613644,,
+osm_767,Donato's Fox Chapel,40.4882975,-79.8830677,"Fox Chapel Road, 46",15238
+osm_768,Old Engineering Hall,40.444973553128506,-79.95809824788475,,
+osm_769,Sloppy Joe's,40.4301802,-80.0072567,,
+osm_770,Vet Tech Institute,40.4440933,-80.0003223,,
+osm_771,CVS,40.4393473,-79.9599067,,
+osm_772,North Ave at Grant Ave,40.4811279,-79.9747977,,
+osm_773,Qdoba Mexican Grill,40.4540696,-79.9469753,,
+osm_774,Saint Josephs Cemetery,40.4060283502172,-79.99398830819551,,
+osm_775,SMS Group,40.44792307941674,-80.00202628826294,,
+osm_776,Beulah Baptist Church,40.4170937,-80.0029965,,
+osm_777,Saint Matthew Brighton Heights Campus,40.4849766,-80.0409219,,
+osm_778,Federated Tower,40.44441524837268,-79.9939055475982,"Liberty Avenue, 1001",
+osm_779,Slayd Apparel,40.4220731,-79.9940586,"East Warrington Avenue, 748",15210
+osm_780,Schenley Park Caf and Visitor Center,40.437913413223455,-79.9464982696598,"Panther Hollow Road, 101",15213
+osm_781,Jimmy John's,40.4379944,-79.9220928,"Forbes Avenue, 5833",
+osm_782,1914 Murray Apartments,40.43553309347356,-79.9231966051536,"Murray Avenue, 1914",
+osm_783,Two PNC Plaza,40.44200840264423,-80.00104061598184,"Liberty Avenue, 620",
+osm_785,Paul's Motor Car Service,40.3810272,-80.0000958,,
+osm_786,Castle Shannon Police Department,40.367503,-80.009148,,
+osm_787,The Galleria of Mt. Lebanon,40.35686334671667,-80.05099500750528,,
+osm_789,Ressurection Catholic Church,40.3906698,-80.0150705,,
+osm_790,Most Holy Name Church,40.4640633,-79.9837063,,
+osm_791,Allegheny Sandwich Shop,40.4523487,-80.0149693,"Western Avenue, 822",
+osm_792,Commonwealth Press,40.3810935,-80.0439192,"Washington Road, 691",15228
+osm_793,Embassy Suites by Hilton Pittsburgh Downtown,40.4409543211894,-79.99829290926692,"Smithfield Street, 535",
+osm_794,Diocese of Pittsburgh Synod Hall,40.44801716465609,-79.94631778149342,,
+osm_795,The Church in Pittsburgh,40.4489932,-79.9029413,,
+osm_796,Sunny Days Child Care and Learning Center,40.3939521,-80.0462309,,
+osm_797,Greenfield Elementary School,40.4259076,-79.9450448,,
+osm_798,Boron Funeral Home,40.3919957,-80.0154416,,
+osm_799,Bellevue Gables Apartments,40.49690146047523,-80.05705799687426,"North Sprague Avenue, 40",
+osm_800,PNC Firstside Center,40.43567395842037,-79.9979667505358,"First Avenue, 500",
+osm_801,Elephant House,40.48502582707728,-79.91956049718479,,
+osm_802,West Liberty Elementary School Library,40.403056,-80.01,,
+osm_803,Swissvale Baptist Church,40.4239702,-79.8903504,,
+osm_804,Dollar General,40.448897041482205,-79.8669176290336,,
+osm_805,Fourth Avenue Post Office,40.4389992,-80.0004799,,
+osm_806,Wee Care Childrens Center,40.4081324,-80.08366,,
+osm_807,Park Place Pub,40.4759519,-79.9210217,Bryant St.,15206
+osm_808,Pittsburgh Cycle Center,40.40547827621703,-80.0034442001059,,
+osm_810,Pamela's P&G Diner,40.3860869,-80.0440967,"Washington Road, 427",15228
+osm_811,Leon's Caribbean Food,40.4220142,-79.9930338,"East Warrington Avenue, 823",15210
+osm_812,Braddock Hills Shopping Center,40.4145028,-79.8549586,,
+osm_813,Jewish Community Center,40.4369862853155,-79.92386808637883,,
+osm_814,Mt. Lebanon Swim Center,40.373323628397166,-80.0560262577111,,
+osm_815,Sam Chioda Field,40.40092809032421,-80.07862813334587,,
+osm_816,Parkway Center,40.42448259075534,-80.03795306474473,,
+osm_817,Joseph Stern Building,40.44506712561974,-79.94792627102997,"Forbes Ave, 4607",15213
+osm_818,Brillobox,40.4655581895687,-79.95505519464004,,
+osm_819,Sunset View Cemetery,40.479061164907925,-79.87980147974268,,
+osm_820,Crane Village,40.41563647756982,-80.0348829307087,,
+osm_821,Rose Tea Cafe,40.4450986,-79.948858,,
+osm_822,Duquesne University,40.4359803,-79.9930307,,
+osm_823,Gino Brothers Pizzeria,40.49487381455653,-79.9225986054044,,
+osm_824,Park House,40.4529231,-80.0009257,,
+osm_825,Saint John's Lutheran Church,40.48370059590703,-79.97291715772037,,
+osm_826,Pizza Hut,40.45387835,-79.948939,"Baum Boulevard, 4710",15213
+osm_827,Deli on Butler,40.46895591854621,-79.961222834479,,
+osm_828,Arsenal Post Office,40.4704553,-79.9609569,,
+osm_829,Lutheran University Center,40.44441601694573,-79.94947591298657,"Forbes Ave, 4515",15213
+osm_830,1311 Carson,40.42905753970768,-79.9850271499786,"East Carson Street, 1311",15203
+osm_831,West Liberty Elementary School,40.403056,-80.01,,
+osm_832,Fox's Pizza Den,40.47302188625583,-80.0730138925595,"Woodward Avenue, 659",15136
+osm_833,Walgreens,40.446667078284975,-79.89442584191085,,
+osm_834,Fourth Presbyterian Church,40.46093333299307,-79.93493874286162,"Friendship Ave, 5450",15232
+osm_835,Hyatt House Pittsburgh / Bloomfield / Shadyside,40.456939,-79.9389804,,
+osm_836,McKees Rocks Post Office,40.46498261724819,-80.06458331479502,"Chartiers Avenue, 807",15136
+osm_837,Forbes Hall,40.44043417101487,-79.9589447607099,,
+osm_838,Genesis Center,40.49794140157041,-80.05058833221626,,
+osm_839,Daniels Alignment,40.37859515,-79.99385314999999,,
+osm_840,The Grub Hut,40.4799516,-79.9729006,,
+osm_841,Pittsburgh Guitars,40.42907429432551,-79.98502602500437,"East Carson Street, 1305",15203
+osm_842,FatJack's Kitchen,40.5019679,-80.069888,,
+osm_843,Bellevue United Presbytyrian Church,40.49504361350719,-80.0545524488885,,
+osm_844,Carnegie Library of Pittsburgh,40.461057660499634,-79.92593885414573,"S Whitfield St, 130",15206
+osm_845,Duckstein Restoration,40.46466195,-80.06218585,"Furnace Street, 17",15136
+osm_846,Pitaland,40.3950493,-80.0220786,"Brookline Boulevard, 620",15226
+osm_847,South Bank,40.3929527,-79.9979917,,
+osm_848,Kelly Elementary School,40.44024594331173,-79.8902144900514,,
+osm_850,UPMC Greater Pittsburgh Medical Associates,40.4710937,-79.9604614,,
+osm_851,Friendship Suites,40.46107028959323,-79.93296511090985,"Stratford Avenue, 301",15232
+osm_852,Schiller's Pharmacy,40.450597518500416,-79.9352564447348,"S. Aiken Ave, 811",15232
+osm_853,Mt. Lebanon,40.3819668,-80.0433512,,
+osm_854,Potomac Bakery,40.39493208570999,-80.03486722994282,"Potomac Avenue, 1419",
+osm_855,Sto-Rox Senior High School,40.470607843464975,-80.07421890098531,"Valley Street, 1105",15136
+osm_856,Coffee Tree Roasters,40.4884888,-79.8830269,"Fox Chapel Road, 48",15238
+osm_857,Hanini Market,40.4391315,-79.878716,,
+osm_858,Winter Park,40.423077730572345,-79.98156216697967,,
+osm_859,Northside Associates,40.4559981,-80.014998,,
+osm_860,Hillel Academy of Pittsburgh,40.4349729,-79.9250984,,
+osm_861,Max's Allegheny Tavern,40.4549279,-79.9997709,"Suismon Street, 537",
+osm_862,Riverfront Landing,40.44977789219499,-79.98991801653887,,
+osm_863,Gateway,40.442064,-80.0039806,,
+osm_864,Family Dollar,40.4651153,-80.0569037,"Mckees Rocks Plaza, 152",15136
+osm_865,Carnegie Borough Hall,40.40791131227806,-80.08899677071746,,
+osm_866,Advance Auto Parts,40.46450884212538,-79.9250244105905,"Station Street, 5905",15206
+osm_867,Monongahela Park,40.4220968506641,-79.96592271068054,,
+osm_868,DePaul School for Hearing and Speech Library,40.45733382770408,-79.92377176845694,"Emerson Street, 270",15206
+osm_869,AMC Loews Waterfront 22,40.40709342309405,-79.91792790119428,,
+osm_870,Rocky's Cafe,40.4609492,-79.9481174,"Liberty Avenue, 4759",15224
+osm_871,Barber Shop Styles,40.3670569,-79.9844867,,
+osm_872,Donner House,40.44184282055115,-79.94029779729229,"Margaret Morrison Street, 5115",
+osm_873,Carnegie Music Hall,40.44331206418325,-79.95098642516496,,
+osm_874,Mount Oliver Police,40.4159106,-79.9869348,,
+osm_875,West Mifflin Borough Hall,40.392108,-79.88479,,
+osm_876,Freedom Corner,40.44106934516659,-79.98608015539932,,
+osm_877,Virginia Manor Shops,40.392668283277416,-80.06602471258647,,
+osm_878,Mezza Grill 663,40.3813568,-80.0440835,"Washington Road, 663",15228
+osm_879,Pleasure Bar,40.4620977,-79.9490095,"Liberty Avenue, 4729",15224
+osm_880,Pristine Auto Sales,40.3969992,-79.9989888,,
+osm_881,be. Salon,40.3819946,-80.0439042,"Washington Road, 633",15228
+osm_882,Girl Scouts of Southwestern Pennsylvania,40.4419151,-80.0009899,,
+osm_883,Brentwood Bank,40.3730566,-79.974957,,
+osm_884,Electric Garage,40.4450339,-79.94693989999999,"Forbes Ave, 4621",15213
+osm_885,Bellevue Beer,40.4910073,-80.06103415000001,,
+osm_887,Carnegie Library of Hill District,40.4433,-79.981,,
+osm_888,Fuel & Fuddle,40.4409836,-79.9570682,,
+osm_889,Rivers Casino,40.44698858777652,-80.02192912191099,"Casino Drive, 777",15233
+osm_890,CVS,40.46106237319458,-79.92378193153615,"Penn Avenue, 6100",15206
+osm_891,Bellevue Diner,40.496005,-80.0559164,"Lincoln Avenue, 513",
+osm_892,Benedum Center,40.4429954,-80.0000006,"7th Street, 237",15222
+osm_894,Carnegie Mellon University,40.4450660310672,-79.9446525583004,,
+osm_895,Dobr Tea,40.4350357,-79.9226618,"Murray Avenue, 1937",
+osm_896,Rite Aid,40.453707311808735,-79.99833581299791,,
+osm_897,Last Minit Mart,40.49129283639863,-79.8655629249042,,
+osm_898,Braddock's American Brasserie,40.4440907,-80.0019122,,
+osm_899,The Big Easy Animal Hospital,40.4829312,-79.9549568,"McCandless Avenue, 12",15201
+osm_900,Ace Hotel Pittsburgh,40.4613129,-79.9259652,,
+osm_901,Shadyside Inn,40.45208262555437,-79.93041085917909,"S Negley Ave, 811",15232
+osm_902,Fiori's Pizzaria,40.4049801,-80.0185053,"Capital Avenue, 103",
+osm_903,West End Park Shelter,40.43703425565722,-80.0384129329639,,
+osm_904,The Pitt Stop,40.4970369,-80.0569274,"Lincoln Avenue, 564",15202
+osm_905,East Street Distributing Co.,40.45493403977177,-79.99799764708149,,
+osm_906,Highland Park,40.48045411427248,-79.9149571193913,,
+osm_907,PNC Bank,40.4529921,-80.0550305,"Chartiers Ave., 2827",15204
+osm_908,Saint Paul of the Cross Monastery,40.4230786553994,-79.98378749764386,,
+osm_909,McDonald's - East Liberty Station,40.45879222409605,-79.9184489655569,"Penn Avenue, 6361",15206
+osm_910,Butler St at Washington St,40.4935732,-79.9480483,,
+osm_912,Shady Grove,40.4510239,-79.9329213,"Walnut St, 5500 # 3",15232
+osm_913,Spring Garden Elementary School Library,40.46424,-79.96906,,
+osm_914,Quest Diagnostics,40.3816378,-80.0439499,"Washington Road, 642",15228
+osm_915,August Wilson Park,40.44596836966028,-79.9860828677631,,
+osm_916,Renaissance Family Practice,40.47891739430409,-79.9709088560547,"Sheridan Street, 111",
+osm_917,Gillece Transmissions,40.38706844923487,-79.99525482360934,"Saw Mill Run Boulevard, 2237",
+osm_918,Walgreens,40.3881422,-80.0909679,,
+osm_919,uBreakiFix,40.3840517,-80.04407,"Washington Road, 514",15228
+osm_920,Panther Statue,40.4439714,-79.960964,,
+osm_921,Stanton-Negley Drug Co,40.4720992,-79.9259771,"North Negley Avenue, 804",15206
+osm_922,West Homestead Community Park,40.395133624692,-79.91483952937602,,
+osm_923,Brookline Teen Outreach,40.3957306,-80.0231684,"Brookline Boulevard, 520",15226
+osm_924,North Park,40.455119046127045,-80.00390421822905,,
+osm_925,T-Mobile,40.4418651,-79.9568059,,
+osm_926,Mt. Lebanon Police Department,40.3829453,-80.0436117,"Washington Road, 555",15228
+osm_927,Saint Mary's Cemetery,40.46907666517573,-80.0869730076059,,
+osm_928,Kelly's Dry Ice,40.49057209005583,-80.04497825098055,,
+osm_929,Valerian F. Szal Funeral Home,40.47408919544899,-80.0568931259377,"Helen Street, 238",15136
+osm_930,Badamo's Pizza,40.4558213,-80.0059793,,
+osm_931,Smithfield St at 6th Ave,40.441782,-79.9969179,,
+osm_932,Philip Murray Elementary School Library,40.40924,-79.97892,,
+osm_933,Cheers Bar,40.46916555000001,-79.8959906,,
+osm_934,Castle Shannon Volunteer Firemens Memorial Hall,40.3659155906805,-80.01709862023411,,
+osm_935,The Pretzel Shop,40.42808369312778,-79.97190359117018,"East Carson Street, 2316",15203
+osm_936,Saint Regis School,40.4310247,-79.9525517,,
+osm_937,Refuge Temple Church,40.4540351,-79.8958484,,
+osm_938,Circle K,40.4950649,-79.9367364,,
+osm_939,South Bank,40.3929485,-79.9979155,,
+osm_940,Wyndham Pittsburgh University Center,40.44615773781295,-79.95506412630202,,
+osm_941,Ace Paints & Unfinished Furniture,40.3890575,-80.0497367,"Beverly Road, 294",
+osm_942,Evergreen Ave at John St,40.4871911,-79.973055,,
+osm_944,Rite Aid Pharmacy,40.4839213661035,-80.03498707790285,,
+osm_945,H&R Block,40.3820749,-80.0439304,,
+osm_946,Saint Ann Hall,40.43597597782861,-79.98746319087212,,
+osm_947,The McKee Mansion,40.4656065,-80.0540478,,
+osm_948,Ruth's Chris Steak House,40.438974,-80.0035742,,
+osm_949,Bar Louie,40.4462242,-80.0110189,,
+osm_950,Suburban Dry Cleaners,40.389079,-80.0489157,"Beverly Road, 293",
+osm_951,Holland Hall,40.44296104112715,-79.95608682426425,,
+osm_952,Emerson Elementary School,40.3619915,-79.862904,,
+osm_953,Gateway,40.4420723,-80.0039133,,
+osm_954,Allegheny Court Bulding,40.45209587965891,-80.01599045021115,,
+osm_955,East Liberty Station,40.45898579356808,-79.92302382519799,,
+osm_956,Allegheny General Hospital Suburban Campus,40.49475996580359,-80.06054857701696,,
+osm_957,Sacred Heart Parish,40.45634436709414,-79.92293807457317,"Shady Avenue, 310",15206
+osm_958,PNC Bank,40.4609213,-79.9480765,"Liberty Avenue, 4761",15224
+osm_959,William Penn Place,40.44017873362987,-79.99801906493532,"William Penn Place, 525",15222
+osm_960,Artifacts,40.4427468,-80.03142685000002,,
+osm_961,Penny Arcade,40.38669095,-79.8634159,,
+osm_962,Family Dollar,40.46089493574984,-79.8660466560122,,
+osm_963,Stephen M Brady Funeral Home,40.45561456672599,-80.00219669979164,,
+osm_964,Mr Roboto,40.4650888,-79.9424759,"Penn Avenue, 5106",15224
+osm_965,Trees Pool,40.4439259,-79.9660875,,
+osm_966,Hilltop Baptist Church,40.4120539,-80.0339225,,
+osm_967,Sheraden,40.452634,-80.0530927,,
+osm_968,Genoa Pizza,40.4389155,-80.0040382,,
+osm_969,North Ave at Elizabeth St,40.4829476,-79.9730891,,
+osm_970,First Avenue,40.4349512,-79.9970107,,
+osm_971,Squirrel Hill Professional Building,40.42899394041732,-79.92420660899181,"Forward Avenue, 5725",15217
+osm_972,Weldin's,40.43984144838284,-80.0009072059267,"Wood Street, 415",15222
+osm_973,Tribute to Children,40.4450001,-80.014064,,
+osm_974,Style Exchange Boutique,40.3651031,-79.9843311,,
+osm_975,Trees Hall,40.4440971582029,-79.96493516368481,,
+osm_976,Westwood Golf Club,40.376680238016704,-79.8829656855488,"Commonwealth Avenue, 825",15122
+osm_977,Saint Brendans Church,40.4075691,-79.8740382,,
+osm_978,Sisters of Saint Francis Church,40.493904,-79.969085,,
+osm_979,Giant Eagle Pharmacy,40.4878093,-79.8939499,,
+osm_980,Brentwood Stadium,40.37506581475065,-79.97301062740468,,
+osm_981,Aspinwall Police Department,40.490314,-79.9039041,,
+osm_982,Duquesne Towers,40.43495377693768,-79.98887506856445,,
+osm_983,UPS Store,40.4090766,-79.9149815,,
+osm_984,Point Park College,40.4392359,-80.0020976,,
+osm_985,PNC Bank,40.45202277211635,-79.93193239571178,,
+osm_986,Piccadilly Artisan Yogurt,40.3803559,-80.0439399,"Washington Road, 695",15228
+osm_987,Flag Plaza,40.44290481194895,-79.99061532786918,,
+osm_988,Fox Chapel Plaza,40.48853914962054,-79.88090565969588,"Freeport Road, 1151",15238
+osm_989,Orbis Caffe,40.3811143,-80.0439394,"Washington Road, 675",15228
+osm_990,Nicki's Thai Kitchen,40.4521421,-80.0159315,,
+osm_991,Lemington Elementary School,40.47012207524544,-79.896519842873,,
+osm_992,Saint Rosalias Church,40.42581292420878,-79.94282972858812,,
+osm_993,Pittsburgh Internal Medicine Associates,40.36507662288873,-80.02190748131972,"Library Road, 3754",
+osm_994,Northgate Church,40.50098069289108,-80.01324719417893,"West View Avenue, 238",15229
+osm_995,Ruthrauff Sauer,40.46642287715561,-80.0590739472178,"Locust Street, 400",15136
+osm_996,Saint Wendelins Catholic Church,40.39291491489872,-79.97429887117781,,
+osm_997,Nick's Place,40.4850402,-80.0353956,,
+osm_998,Forbes Allies Center,40.43594584850734,-79.96504766057235,"Forbes Avenue, 3109",
+osm_999,Mount Lebanon Golf Course,40.37095898830915,-80.02502584218297,"Pine Avenue, 1000",15234
+osm_1000,Lincoln Bakery,40.4959395,-80.0571397,"Lincoln Avenue, 549",
+osm_1001,420 Boulevard of the Allies,40.43690921821196,-79.99968739678422,"Boulevard of the Allies, 420",15222
+osm_1002,Lincoln Elementary School,40.4600688,-79.9109398,,
+osm_1003,Cafe Moulin,40.4520357,-79.9331913,"Filbert Street, 732",15232
+osm_1004,UPMC Saint Margaret,40.49034563148248,-79.89609546630183,"Freeport Road, 815",15215
+osm_1005,Epiphany Association,40.417106,-80.023956,,
+osm_1006,Center Point Convenience Store,40.4923661,-80.0216997,,
+osm_1007,Five Star Dentistry,40.4284203637316,-79.97904223820524,"East Carson Street, 1910",15203
+osm_1008,Carnegie Mellon University Bookstore,40.4440584,-79.9423308,"Forbes Avenue, 5032",15213
+osm_1009,Foster Plaza 8,40.42191994200577,-80.0640095523114,"Holiday Drive, 730",15220
+osm_1010,Squirrel Hill Plaza,40.41895787040813,-79.9280283606392,,
+osm_1011,Western Pennsylvania School for the Deaf,40.43393657253144,-79.88150823324955,"East Swissvale Avenue, 300",
+osm_1012,Dunseith Playground,40.4430013640995,-79.965081440335,,
+osm_1013,Denim Express,40.4405105,-80.00081445000001,"Wood Street, 439",15222
+osm_1014,Red Line Auto Sales,40.4040063,-80.0011751,"Saw Mill Run Boulevard, 1281",
+osm_1015,Duke's Upper Deck Cafe,40.40492941999553,-79.91198230563434,"West 8th Avenue, 122",15120
+osm_1016,Mazza's Shoes,40.3949575,-80.0219986,"Brookline Boulevard, 618",15226
+osm_1017,Hammerschlag House,40.44090317742152,-79.93889598082254,,
+osm_1018,BNY Mellon Center,40.43972262752612,-79.99607616971765,"Grant Street, 500",15219
+osm_1019,Foli's,40.429016628473725,-79.87503566341763,"Brinton Road, 1050",15221
+osm_1020,Shades of Style Salon,40.3781486,-79.9880287,,
+osm_1021,Kitman's Fine Furniture,40.4812533,-79.9744212,,
+osm_1022,Borough of Carnegie Municipal Building,40.40396090606509,-80.0919770546073,"Veterans Way, 1",15106
+osm_1024,Lawrenceville Vision Care,40.4699386,-79.9605851,,
+osm_1025,Giant Eagle,40.3660552,-79.9833663,,15227
+osm_1026,Union Trust Building,40.43996278136081,-79.99707693020935,"Grant Street, 501",15222
+osm_1027,Sbarro,40.4398179,-79.9989375,"Smithfield Street, 441",
+osm_1028,Boggs Ave at Warrington Ave,40.4156228,-80.0109264,,
+osm_1030,Dippy the Dinosaur,40.44298423165566,-79.95093625340296,,
+osm_1031,City View Apartments,40.44034104738762,-79.98598320552246,"Centre Avenue, 1420",
+osm_1032,Saint Anthony School,40.4803468,-79.9758862,,
+osm_1033,Parker's Cafe,40.3949518,-80.0224151,600,
+osm_1034,7-Eleven,40.44026,-80.0010691,"Wood Street, 429",15222
+osm_1035,Mark A. Nordenberg Hall,40.44389560148172,-79.95630272654508,,
+osm_1036,Raizman House,40.44494846273234,-79.9252089497805,,
+osm_1038,Elm Grove,40.4770178,-79.9105075,,
+osm_1039,Chatham University,40.44877159175573,-79.92490220291111,,
+osm_1040,Extended Stay America - Pittsburgh - Carnegie,40.4172928,-80.0885015,,
+osm_1041,How Lee,40.438006,-79.9189669,,
+osm_1042,The Cut,40.44326984819631,-79.94308576155356,,
+osm_1043,Fine Wine and Good Spirits,40.4097669,-79.9109595,,
+osm_1044,Union Fitness,40.4509469,-80.0050565,,
+osm_1045,Homewood Post Office,40.4519719,-79.8896717,,
+osm_1046,Philip Pelusi Salon,40.4365260573782,-79.9229486565408,"Murray Avenue, 1814",
+osm_1047,Kandy Kaleidoscope,40.38593245928655,-79.8643226655553,,
+osm_1048,Schoolhouse Yoga,40.432242275642565,-79.92304612077987,,
+osm_1049,Mustard & Relics,40.482042,-80.0335644,"Brighton Road, 3596",
+osm_1050,Sichuan Gourmet,40.4390874,-79.9549116,"Atwood Street, 328",15213-4026
+osm_1051,Common Plea Restaurant,40.43724416106903,-79.99593036256302,"Ross Street, 310",15219
+osm_1052,Hamilton Presbyterian Church,40.3509222,-80.0120405,,
+osm_1053,Clearview Common,40.3805062,-80.0439328,,
+osm_1054,Shady Oak Park,40.44897454030328,-79.94625201824537,,
+osm_1055,McDonald's,40.4403807,-79.9990905,"Smithfield Street, 505",
+osm_1056,Oriole Cleaners,40.43304365088241,-79.92690709503223,"Hobart Street, 5613",15217
+osm_1057,Victoria Building,40.44128234350922,-79.96064131414917,,
+osm_1058,The Playhouse,40.44761715439815,-79.90121021767635,,
+osm_1059,Polish Hill Community Garden,40.4569947,-79.9689949,,
+osm_1060,Crazy Mocha,40.4560178,-80.0065066,,
+osm_1061,Northway Christian Community Dormont,40.39643896387577,-80.03499158375617,"Espy Avenue, 2865",15216
+osm_1062,7-Eleven,40.45090041671455,-80.01914942567838,"Western Avenue, 1005",15233
+osm_1063,Homewood Suites by Hilton Pittsburgh Downtown,40.44794621113792,-79.98977416426969,,
+osm_1064,Crossfit Mt. Lebanon,40.3860454,-80.0429927,"Washington Road, 427",15228
+osm_1065,Oakwood Apartments,40.440585902400805,-79.95599230821843,,
+osm_1066,Dollar General,40.49521851906637,-80.05538886256451,,
+osm_1067,Emmanuel Evangelical Lutheran Church,40.36708454700854,-80.02304171559587,"Pine Avenue, 935",15234
+osm_1068,Pittsburgh Brewing Company,40.4609579,-79.9659413,,
+osm_1069,Pittsburgh City Courthouse,40.4360941,-79.9960037,,
+osm_1070,Libermann Hall,40.43904728530247,-79.99431331592416,,
+osm_1071,Fox Chapel Yacht Club,40.48568223307216,-79.87251029269292,,
+osm_1072,Suntan Seeders,40.367139050000006,-80.01475124999999,,
+osm_1073,Brentwood Library,40.37506539634952,-79.9749346053676,,
+osm_1074,Quizno's,40.4453626,-79.9490016,"S Craig St, 300",15213
+osm_1075,Whited,40.3949982,-79.9996582,,
+osm_1076,Payless ShoeSource,40.4315544,-79.9777051,2001,
+osm_1077,Z:Lounge,40.4282953,-79.97602715,"East Carson Street, 2108",15203
+osm_1078,Verizon Building,40.44191444114198,-79.995917199393,"Seventh Avenue, 416",
+osm_1079,Gladstone Middle School,40.413057,-79.9409834,,
+osm_1080,Chipotle Mexican Grill,40.45393297947106,-79.94742028998884,"Baum Boulevard, 4800",15213
+osm_1081,Charter Bank,40.46199659049857,-79.9489891510593,,
+osm_1082,Keystone Paralyzed Veterans of America,40.4940676877487,-79.93049058641868,,
+osm_1083,All About Eyes,40.3883629,-80.0499993,"Beverly Road, 315",15216
+osm_1084,Yeshiva School,40.4323292,-79.9280221,"Wightman Street, 2100",15217
+osm_1085,Barrett Elementary School,40.404894495459104,-79.90800699206928,"East 12th Avenue, 221",
+osm_1086,Piskover Cemetery,40.48405028467422,-80.1089065368723,,
+osm_1087,Troy Hill Playground,40.4579024,-79.9889419,,
+osm_1088,Commonwealth Press,40.42908642665935,-79.97803484051207,"East Carson Street, 1931",15203
+osm_1089,The Andy Warhol Museum,40.44838008026552,-80.00190172306755,,
+osm_1090,Wood Street,40.4419119,-79.9996136,,
+osm_1091,UCP Community Service Center,40.45192368400718,-79.95008808714218,"Centre Avenue, 4638",15213
+osm_1092,REI,40.427968,-79.9660239,"South 27th Street, 412",15203
+osm_1093,Baskin-Robbins,40.4875272,-79.8816763,,
+osm_1094,Coriander India Grill,40.4330024,-79.9230456,"Murray Ave., 2201",15217
+osm_1095,Wesley W. Posvar Hall,40.44207054737335,-79.95421081519497,"South Bouquet Street, 230",15213
+osm_1096,Brighton Cafe,40.4844824,-80.0359387,"Brighton Road, 3801",
+osm_1097,Pork & Beans,40.443045,-80.0019443,,
+osm_1098,Verizon,40.43010584399196,-79.9240547461194,,
+osm_1099,One North Shore Center,40.44744410113832,-80.0029981151082,,
+osm_1100,Dollar Bank,40.3927333,-80.0647632,,
+osm_1101,Animal Rescue League of Pittsburgh,40.45591832177586,-79.90438510329038,"Hamilton Avenue, 6926",15208
+osm_1102,PNC Bank,40.44664115160649,-79.9486520293773,"5th Ave, 4600",15213
+osm_1103,The Pittsburgh Fan,40.4485382,-80.0039658,,
+osm_1104,Bayer Hall,40.4360333,-79.9927778,,
+osm_1105,Sandcastle Water Park,40.39651237026043,-79.93047223486974,,
+osm_1106,The Library,40.42808135,-79.97303895,"East Carson Street, 2302",15203
+osm_1107,Allegheny Commons East Park,40.45186629837101,-80.00206256660216,,
+osm_1109,Brookline Plumber,40.3949875,-80.0220283,"Brookline Boulevard, 613",15226
+osm_1110,Joe Natoli Field,40.48392426885941,-79.92601963728292,,
+osm_1111,South Hills Post Office,40.3952823,-80.0332784,,
+osm_1112,Diocese of Pittsburgh,40.43962476821403,-80.00390519701567,"Boulevard of the Allies, 111",15222
+osm_1113,Mervis Hall,40.44101882773219,-79.95293161474383,,
+osm_1114,Highland Building,40.460665218669256,-79.92502845459386,"South Highland Avenue, 121",
+osm_1115,Moonlight Cafe,40.3949169,-80.02283,"Brookline Boulevard, 530",
+osm_1116,Burke Building,40.43999654052904,-80.00195774166463,"Fourth Avenue, 209, 211",15222
+osm_1117,Rite Aid Pharmacy,40.4564204389472,-80.01579425667674,"Pennsylvania Avenue, 802",14233
+osm_1118,Frick Park Market,40.44722989752743,-79.90510690767637,,
+osm_1119,Children's Hospital of Pittsburgh of UPMC,40.46705368562677,-79.95291694282908,"Penn Avenue, 4401",15224
+osm_1120,Greenfield Elementary School Library,40.4263871,-79.9440874,,
+osm_1121,Aidan Hall,40.44,-79.965,,
+osm_1122,Allegheny Podiatry,40.3789681,-80.0449897,"Washington Road, 733",15228
+osm_1123,American Buyer's Discount Mattress,40.4090936,-79.9073993,"East 8th Avenue, 401",15120
+osm_1124,Peter's Pub,40.4420862,-79.9574481,"Oakland Avenue, 116",15213
+osm_1125,North Side,40.44772625489911,-80.00980389689651,,
+osm_1126,Crunch Fitness,40.40993675862919,-79.91096967513104,,
+osm_1127,Pizza Bellino's,40.437901,-79.920929,,
+osm_1128,Allderdice High School Library,40.4291622,-79.9190489,,
+osm_1129,State Farm Insurance,40.42804669762808,-79.97194112448186,"East Carson Street, 2320",15203
+osm_1131,Holiday Inn Express & Suites Pittsburgh-South Side,40.42995758133448,-79.98897050250363,"South 10th Street, 20",
+osm_1132,Sauerisen,40.50048007987599,-79.86705875445529,,
+osm_1133,St Rosalia-Old school,40.4260697289257,-79.94298132881234,,
+osm_1135,Saint Clair Hospital,40.37901354091406,-80.06699749190554,"Bower Hill Road, 1000",15243
+osm_1136,Rally House North Shore,40.446948,-80.0100764,,
+osm_1137,Mount Pisgah Presbyterian Church,40.42608316070066,-80.04614660456028,,
+osm_1138,Duquesne University,40.43810100234851,-79.98966843034206,,
+osm_1139,Homewood Montessori Elementary School,40.4609323,-79.8969011,,
+osm_1140,Restaurant Depot,40.46420253256448,-79.9704474271518,"35th Street, 100",15201
+osm_1141,Lillen's Pizza,40.4535755,-79.9989036,,
+osm_1142,Pittsburgh Renaissance,40.4440169,-80.0019349,,
+osm_1143,The Commonplace Coffeehouse,40.4379944,-79.9220012,,
+osm_1144,City of Asylum,40.45601356797164,-80.00692901839012,,
+osm_1145,Nico's Recovery Room,40.4640759,-79.949075,,
+osm_1146,Young Peoples Synagogue,40.4378529,-79.9174386,,
+osm_1147,Pittsburgh Community Services,40.45127976239121,-79.95208532838824,"N Craig St, 249",15213
+osm_1148,Eat 'N Park,40.41731311519319,-80.03017952431334,"Banksville Road, 1250",15216
+osm_1149,Chamber of Commerce Building,40.44309889161454,-79.9959693967109,,
+osm_1150,Palm Garden,40.4164068,-80.0120435,,
+osm_1151,Bouquet Gardens Building G,40.44099534056378,-79.95601494347405,,
+osm_1152,Linden Elementary School,40.44529250765151,-79.91601894540793,,
+osm_1153,Brugge on North,40.4549176,-80.0069346,,
+osm_1154,Wood Street Galleries,40.4419748,-79.9989486,,
+osm_1155,Sacred Heart Elementary School,40.45609573638826,-79.92299274255446,"Emerson Street, 325",15206
+osm_1156,Bower Hill Community Church,40.3836311,-80.0605246,,
+osm_1157,Target,40.46074074362976,-79.92131775338486,,
+osm_1158,Selection Boutique,40.4406382,-79.9580987,,
+osm_1159,Bellefield Presbyterian Church bell tower,40.44702547443092,-79.95185793437709,,
+osm_1160,Homewood Cemetery,40.44196005493986,-79.90803631227334,,
+osm_1161,First National Bank,40.43899210000001,-80.00094469999999,"Fourth Avenue, 307",15222
+osm_1162,Gateway,40.4420266325213,-80.00392822906527,,
+osm_1163,Carnegie Police Department,40.4079316,-80.0890085,,
+osm_1164,The Fabric Place,40.3793581,-80.0449593,"Washington Road, 727",15228
+osm_1165,Korean War Veterans Memorial,40.4456839,-80.0079784,,
+osm_1166,Software Engineering Institute,40.44594694789681,-79.95000715687362,,
+osm_1167,Jade Grille,40.3805656,-80.0450813,"Washington Road, 670",15228
+osm_1168,Liberty Ave past 10th St,40.4429294,-79.9960944,,
+osm_1169,Grandview Ave at Cohassett St,40.4380159,-80.018296,,
+osm_1170,Our Savior Lutheran Church,40.382222,-80.026389,,
+osm_1172,Parran Hall,40.443027003364605,-79.95790384543805,,
+osm_1173,Supercuts,40.4529128,-79.9469458,,
+osm_1174,Allegheny Health Network,40.4479947,-80.0029844,,
+osm_1175,Orr's Jewelers,40.43790300367642,-79.92108925028907,,
+osm_1176,Aladdin's Eatery,40.3820048,-80.0439914,"Washington Road, 630",15228
+osm_1177,Duquesne University,40.438752934116586,-79.99434589218113,,
+osm_1178,40th Street Bridge,40.47294611303303,-79.96920140576441,,
+osm_1179,The Exchange,40.4380101,-79.9205613,,
+osm_1180,Steel City Vapors,40.3596165,-80.0291779,,
+osm_1181,West End Park,40.43693463549892,-80.03690193073875,,
+osm_1182,St. Paul Cathedral,40.44693342798407,-79.9498164287727,"North Dithridge Street, 108",15213-2608
+osm_1183,Costco Gas,40.4044261,-79.9209257,,
+osm_1184,Coffee Tree Roasters,40.3879928,-80.0489992,"Beverly Road, 299",
+osm_1185,GreenLight Juice,40.4329815,-79.9231479,,
+osm_1186,Saint Aloysius Church,40.4890579,-79.9922756,,
+osm_1187,Mellon Square,40.44104172821272,-79.99697746638277,,
+osm_1188,Duquesne University,40.43597702544758,-79.9903888327261,,
+osm_1189,Dunkin' Donuts,40.4159627,-79.9250324,"Browns Hill Rd, 4578",15217
+osm_1190,PNC,40.45131693617101,-80.00682266734874,,
+osm_1191,Remnant City,40.37800225000001,-79.9875699,,
+osm_1192,Saint John the Baptist Ukrainian Catholic,40.427946,-79.991988,,
+osm_1193,General Store,40.4529029,-80.000485,,
+osm_1194,Zeke's Coffee,40.4609753,-79.9240134,"Penn Ave, 6015",
+osm_1195,Trinity Cathedral,40.44096406174051,-79.99907620880359,,
+osm_1196,Kelton Elementary School,40.3929249,-80.0390649,,
+osm_1197,Covenant Fellowship Church,40.4438808,-79.8749671,,
+osm_1198,McKinley Park,40.412321528007766,-80.00105770552646,,
+osm_1199,Foster Plaza 9,40.42309789206369,-80.0640607521584,"Holiday Drive, 750",15220
+osm_1200,Heartland Health Care Center,40.45521608149018,-79.93292500617532,"S Negley Ave, 550",15232
+osm_1202,X Shadyside,40.45159885891589,-79.93175534096609,,
+osm_1203,Brentwood Pool,40.3760991,-79.9732573,"Brownsville Rd, 3624",15227
+osm_1204,Scheaffer Traditional A Elementary School,40.4389579,-80.0529101,,
+osm_1205,O'brien's,40.483068011826326,-80.0410911401365,,
+osm_1206,Pizza Pronto,40.45196361638759,-79.951625053863,"Centre Avenue, 4611",15213
+osm_1207,Potomac,40.3969608,-80.0364826,,
+osm_1208,Resolution Rentals,40.4909627,-80.0474623,,
+osm_1209,Pine Cone Park,40.3770562665608,-80.03479214249307,,
+osm_1210,Saint Stephen Lutheran Church,40.40030956312373,-80.0669644939925,"Forsythe Road, 55",15220
+osm_1211,Dean Institute of Technology,40.4102446,-80.0154485,,
+osm_1212,Sunoco Gas Station,40.4511887,-80.0004285,,
+osm_1213,Brentwood Police Department,40.373133,-79.976075,,
+osm_1214,LaVida Massage,40.45571788211005,-79.93693704841823,"Centre Avenue, 5430",15232
+osm_1215,Island Avenue Tattoo,40.47300380868685,-80.06223356334908,"Island Avenue, 715",15136
+osm_1216,Morningside Automotive,40.4865772,-79.9272523,"Morningside Avenue, 1801",15206
+osm_1217,Hampton Inn Pittsburgh University/Medical Center,40.43607029255574,-79.96299435892718,,
+osm_1218,Costco,40.40263881018188,-79.92200123742997,"Waterfront Drive West, 501",15120
+osm_1219,Edgewood Towne Center,40.42804473491274,-79.88698488719233,,
+osm_1220,Redfin Blues,40.46297257174721,-79.97697027544771,"Waterfront Drive, 100",15222
+osm_1221,Allegheny County Garage,40.43087347669693,-79.99841942683102,"McKean Street, 215",15219
+osm_1222,Alcohol House,40.443039669332855,-79.94891608308461,,
+osm_1223,Village at Pennwood,40.44504230599957,-79.89043299363385,"West Street, 909",15221
+osm_1224,CH Auto Sales,40.3819932,-79.9969774,,
+osm_1225,Thaw Hall,40.44496714924809,-79.95801332738372,,
+osm_1226,The Mayflower,40.44785695,-79.95099689999998,"North Dithridge Street, 141",
+osm_1227,Bigbee Field,40.42804753323602,-80.0009989420407,,
+osm_1228,Anderson Dining Hall,40.44690561246715,-79.92390553888602,,
+osm_1229,Mad Mex,40.4579399,-79.9249141,,
+osm_1230,Thai Cuisine,40.4619327,-79.9499363,,
+osm_1231,Wesbanco,40.3890134,-80.0501468,"Beverly Road, 312",15216
+osm_1232,Liberty Ave at Wyndham Grand,40.4409206,-80.0060517,,
+osm_1233,Dees Cafe,40.428608529412415,-79.98502085646692,"East Carson Street, 1314, 1316",15203
+osm_1234,Lily Baptist Church,40.4439653,-79.9747095,,
+osm_1235,Fort Pitt Flag Bastion,40.44002044835639,-80.00906335482102,,
+osm_1236,Dollar Bank,40.43902332209471,-80.00002577881624,"Fourth Avenue, 340",15222
+osm_1237,Weil Technology Elementary School,40.4452816,-79.9742539,,
+osm_1238,East Liberty Park,40.46275646873026,-79.91924838671078,,
+osm_1239,Familylinks,40.45790663273907,-79.92262005192617,"Shady Avenue, 250",15206
+osm_1240,City of Pittsburgh River Safety Center,40.44595454840046,-80.00417134967753,,
+osm_1241,Pruni Auto Body,40.37095896031492,-80.00896472416777,"Library Road, 3221",
+osm_1242,Crafton,40.4360017,-80.0680679,,
+osm_1243,Pittsburgh Playhouse,40.4370358,-79.9629076,,
+osm_1244,Mt. Lebanon Christian Church,40.37775155987173,-80.05465874782085,"Cedar Boulevard, 367",15228
+osm_1245,Margaret Morrison Apartments,40.44205215,-79.93798754999999,,
+osm_1246,Seton Lasalle High School,40.38706724711926,-80.02604332395661,,
+osm_1247,CoGo's,40.49704690938304,-79.92612663829412,,
+osm_1248,Atria's Restaurant & Tavern,40.4470834,-80.0039377,,
+osm_1249,Brookline Boulevard United Presbyterian Church,40.3920445,-80.015907,"Brookline Boulevard, 1036",15226
+osm_1250,Bellefield Presbyterian Church,40.44364395162985,-79.95672986043152,,
+osm_1251,Whales Tale Lawrenceville Center,40.4617462,-79.9649422,,
+osm_1252,Lexi's Auto Sales and Service,40.3930148,-79.9975471,,
+osm_1253,Wood Street Commons,40.43901858020156,-80.00093963267582,"Wood Street, 301",15222
+osm_1254,Point of View,40.4389747,-80.0212687,,
+osm_1255,Bethel African Methodist Episcopal Church,40.45102417840807,-79.96892843216118,,
+osm_1256,E Carson St at Station Square,40.4319166,-80.002985,,
+osm_1257,Third Presbyterian Church,40.45041869008487,-79.9289805694951,"Fifth Avenue, 5701",15232
+osm_1258,Brookline Tobacco Outlet,40.3939554,-80.0210409,"Brookline Boulevard, 721",15226
+osm_1259,BP,40.48934328319425,-79.88197475226256,,
+osm_1260,Julia Ward Howe Elementary School,40.37495730952663,-80.0309331380536,"Broadmoor Avenue, 400",15234
+osm_1261,Pittsburgh Classical Academy Library,40.4509418,-80.0488476,,
+osm_1263,Shell,40.4909743520399,-80.06093977590756,,
+osm_1264,Shadyside Place,40.45341374564314,-79.93808054004246,"South Aiken Avenue, 580",15232
+osm_1265,Grant Street Tavern,40.4380449,-79.996975,,
+osm_1266,Alihan's Mediterranean Cuisine,40.4429437,-80.001934,,
+osm_1267,Asbury Heights,40.38399006551058,-80.05805405325007,,
+osm_1268,PF Chang's,40.40713500084204,-79.91590236392673,,
+osm_1269,Armstrong Playground,40.4279922,-79.9860168,,
+osm_1270,Lavel House (DU),40.43595209316395,-79.99209854678496,,
+osm_1271,Pittsburgh Union Station,40.4449645,-79.9909371,,
+osm_1272,Hampton Inn & Suites Pittsburgh-Downtown,40.44708836440643,-79.99191272059318,"Smallman Street, 1247",15222
+osm_1273,James Laughlin Music Hall,40.44960204623771,-79.92497047597026,,
+osm_1274,Epilepsy Foundation of Western Pennsylvania,40.43799946261584,-79.98756000848607,,
+osm_1275,Nazarene Baptist Church,40.4558199,-79.9005586,,
+osm_1276,Hale Park,40.40329365355112,-80.05092603386358,,
+osm_1277,Subway,40.4655166,-80.0555241,"Mckees Rocks Plaza, 112",15136
+osm_1278,McDonald's,40.46309529802735,-79.92690360861886,"North Euclid Avenue, 148",15206
+osm_1279,Thai Gourmet,40.4631619,-79.950951,,
+osm_1280,Blawnox FireDepartment,40.493900050436906,-79.86011063619964,,
+osm_1281,Chatham Elementary School Library,40.488969,-80.0139755,,
+osm_1282,South Shore Riverfront Park,40.42897172129421,-79.96501987267811,,
+osm_1283,Gulf,40.40298200982093,-79.88297210134053,,
+osm_1284,South Hills Art Center,40.3920827,-80.0169767,,
+osm_1286,Pittsburgh Bureau of Fire Station 37,40.45323417632293,-80.02182513110013,"West North Avenue, 1124",15233
+osm_1287,Shannon Auto Service Center,40.36458975233235,-80.01917910803321,,
+osm_1288,Rite Aid,40.4409465,-79.9569812,,
+osm_1289,Food Services,40.43039153375961,-79.98503919999531,"South 13th Street, 8",15203
+osm_1290,Sodini Parklet,40.41075501459429,-80.04692574441955,,
+osm_1291,Northside Dental,40.45399859705353,-80.00201843747998,,
+osm_1292,Castle Shannon Borough Hall,40.36755703052251,-80.00894308756455,,
+osm_1293,Schenley Park Ice Skating Rink,40.43204864927015,-79.94524410113863,,
+osm_1294,Mount Olivet Cemetery,40.39668215873185,-80.07501754034372,,
+osm_1295,Original Pancake House,40.3909907,-80.0740474,,
+osm_1296,Heritage Place,40.432054779775,-79.9249267215454,"Phillips Avenue, 5701",15217
+osm_1297,Pittsburgh Theological Seminary,40.4670355,-79.9214401,"North Highland Avenue, 616",15206
+osm_1298,1905 Eatery,40.4730212,-80.0739727,,
+osm_1299,Walking to the Sky,40.4439403,-79.9430881,,
+osm_1300,Saint Annes Church,40.36602835568011,-80.0339457867919,,
+osm_1301,T Caf,40.4339968,-79.9229115,"Murray Avenue, 2000",
+osm_1302,Warrington Recreation Center,40.42098432814775,-80.00091820233197,"East Warrington Avenue, 329",
+osm_1303,Nana's Northside Diner,40.4559144,-80.0070136,,
+osm_1304,Zone One Police Station,40.45697343214019,-80.01590586522924,,
+osm_1305,Bakery Square,40.45723019272323,-79.91598431389524,,
+osm_1306,Starbucks,40.3989302,-80.0440076,,
+osm_1307,Holy Trinity Cemetery,40.3690804,-79.8640597,,
+osm_1308,Pittsburgh Magistrates Courthouse,40.436087,-79.996034,"First Avenue, 660",
+osm_1309,McCormick Hall,40.442928258993,-79.95490491680188,,
+osm_1310,Palm Garden,40.4159219,-80.0117838,,
+osm_1312,Arrott Building,40.43960322633461,-80.00139104419651,"Wood Street, 401",15222
+osm_1313,Pittsburgh Downtown Branch Library,40.4410273,-79.9997963,,
+osm_1314,Olympia Park,40.43099194824151,-80.0179308642477,,
+osm_1316,Long John Silver's,40.3869841,-80.0919047,"Washington Pike, 2100",
+osm_1317,McDonald's,40.491926091722135,-80.0621974259436,,
+osm_1318,Pittsburgh Athletic Association,40.44503902436678,-79.9539905537636,,
+osm_1319,Morningside Church of God In Christ,40.4660132,-79.9405033,,
+osm_1320,Warner Centre,40.440037436768,-79.99965758320934,"Fifth Avenue, 332",15222
+osm_1321,To Go,40.42708331933618,-79.89081526030611,,
+osm_1322,The Eye Gallery,40.3839154,-80.0440667,"Washington Road, 514",15228
+osm_1323,Hilton Garden Inn Pittsburgh University Place,40.4389489,-79.9594471,,
+osm_1324,Waterfront Power Center,40.41201104031956,-79.90513174604547,,
+osm_1325,Citizens Bank,40.4419507,-79.9578177,"Fifth Avenue, 3718",15213
+osm_1326,Oakland Post Office,40.4401016,-79.9526188,,
+osm_1327,Giggles,40.4379743,-80.0002446,,
+osm_1329,USW | United Steelworkers,40.439425,-80.00557249999999,"Boulevard of the Allies, 60",15222
+osm_1330,Ruskin Hall,40.44710011286761,-79.95302369642808,,
+osm_1331,Comfort Inn & Suites,40.41993389224733,-80.03025607998626,,
+osm_1332,Commonplace Coffee MWS,40.4570301,-80.0150666,,
+osm_1333,Panera Bread,40.442014,-79.9566181,,
+osm_1334,Hyde Park Prime Steakhouse,40.4459271,-80.0079943,,
+osm_1335,Kenmawr Plaza,40.47391005461942,-80.09671072641295,,
+osm_1336,WesBanco,40.49803124633867,-80.06101945341152,,
+osm_1337,Sonny's Tavern,40.457935138649454,-79.94694951777409,,
+osm_1338,Grandview Elementary School Library,40.4245606,-79.992723,,
+osm_1339,Roberto Clemente Statue,40.4470082,-80.0040591,,
+osm_1340,Star Nails,40.497349,-80.0586515,,
+osm_1341,Uncle Sam's Subs,40.4379228,-79.9219756,,
+osm_1342,Veterans Leadership Program of Western Pennsylvania,40.42818274795293,-79.97015289139712,"East Carson Street, 2417",15203
+osm_1343,Palm Garden,40.41596262688612,-80.01181387002639,,
+osm_1344,Our Lady Queen of Peace,40.45493973238995,-79.99992505028354,,
+osm_1345,Braddock Cemetery,40.4070134,-79.8539931,,
+osm_1346,Allen Hall,40.44458683701605,-79.95836492022818,,
+osm_1347,Denny's,40.3909249,-80.0740616,,
+osm_1348,VIP Styles,40.4389126,-79.9989161,,
+osm_1349,Citizens Bank,40.46058245072138,-79.92345705331311,"Penn Avenue, 6112",15206
+osm_1350,Schenley Oval,40.43277802850648,-79.94199414247706,,
+osm_1351,Lovely Hands,40.3956959,-80.0229302,"Brookline Boulevard, 522",15226
+osm_1352,Oakland International Fellowship,40.44805331104725,-79.9506290133708,"Dithridge Street, 134",
+osm_1353,Pittsburgh Bureau of Police,40.4506247038575,-80.02097155956766,"Western Avenue, 1203",15233
+osm_1354,L.J. Marks Jewelers,40.3809859,-80.0450538,"Washington Road, 650",15228
+osm_1355,Western Pennsylvania School for the Blind,40.4479342,-79.9532933,,
+osm_1356,Good Looks Eyewear,40.4881734,-79.8830539,"Freeport Road, 1101",15238
+osm_1357,Antoon's Pizza,40.4400865,-79.9559329,"Atwood Street, 247",
+osm_1358,Acoustic Music Works,40.431956,-79.922971,"Murray Ave., 2142",15217
+osm_1359,Point State Park Fountain,40.4420226,-80.0127825,,
+osm_1360,Eastminster Child Care Center,40.4629016,-79.9229857,,
+osm_1361,Allegheny Landing,40.44691055349804,-80.0030909758583,,
+osm_1362,Homestead United Presbyterian Church,40.4059735109331,-79.90791743906834,,
+osm_1363,CVS,40.45200825119607,-79.95097173793506,,
+osm_1364,Storms Restaurant,40.4379415,-79.9979932,,
+osm_1365,Carnegie Library of Pittsburgh Squirrel Hill,40.4379253347061,-79.92267303477723,,
+osm_1366,The Waterfront Apartments,40.41392598129705,-79.903237940106,,
+osm_1367,Good Orthodontics,40.3810254,-80.0439689,"Washington Road, 677",15228
+osm_1368,Broadway Brunch,40.4725804,-80.0740819,,
+osm_1369,Troy Hill Citizens Park,40.46290701093324,-79.98409968649175,,
+osm_1370,Thomas Detre Hall,40.44375939753564,-79.95976958280028,,
+osm_1371,Carnegie Science Center,40.44607989028254,-80.01794858539235,"Allegheny Avenue, 1",15212
+osm_1372,Starbucks,40.4560792,-79.9389926,"Liberty Ave, 5310",15224
+osm_1373,"J.P. ""Honus"" Wagner Statue",40.4469413,-80.0069398,,
+osm_1374,Steel Plaza,40.439893,-79.995011,,
+osm_1375,Starbucks,40.419039,-80.045686,,
+osm_1376,Posner Center,40.44142915,-79.9419945,"Frew Street, 4921",
+osm_1377,"Wagner Agency, Inc.",40.4539185,-79.9429958,,
+osm_1378,Essie's Original Hot Dogs,40.4419582,-79.9564439,,
+osm_1379,Mullen's On Carson,40.427901,-79.9759979,"East Carson Street, 2100",15203
+osm_1380,Castle Shannon Volunteer Fire Department,40.36604886059762,-80.01695429978332,,
+osm_1381,Riggs Lounge,40.45479521496952,-80.01458843778516,,
+osm_1382,Coldstone Creamery,40.438027,-79.9228089,,
+osm_1383,Fifth Ave at Frankstown Ave,40.4585758,-79.9079082,,
+osm_1384,Pittsburgh DJ Company,40.4940739,-80.0527774,,
+osm_1385,Barber Shop,40.46402954026254,-79.9322284541061,"Penn Avenue, 5506",15206
+osm_1386,Brottier Commons,40.43737887437686,-79.99212063083857,,
+osm_1387,Firstside Park,40.43598096555682,-79.9980913928047,,
+osm_1388,Starbucks,40.4410403,-79.9576495,,
+osm_1389,Hollywood Theater,40.395931,-80.034924,"Potomac Avenue, 1449",15216
+osm_1391,Starbucks,40.4370434,-79.9863114,,
+osm_1392,Saint Peters Cemetery,40.41701839407008,-79.98113642552894,,
+osm_1393,McDonald's,40.41206680117577,-79.90992119277608,,
+osm_1394,CVS,40.4389635,-79.9989962,,
+osm_1395,Bulldog Pub,40.4870355,-79.926623,"Morningside Avenue, 1818",15206
+osm_1396,SouthWest Communities Federal Credit Union,40.4728875,-80.0740411,,
+osm_1397,Waterfront Towne Center,40.4080167325093,-79.91703591675636,,
+osm_1398,Tower at PNC Plaza,40.44023466021567,-80.00022063861786,"Fifth Avenue, 310",
+osm_1399,Freeport Rd at #1150,40.4879239,-79.8793404,,
+osm_1400,Station Square,40.4315681,-80.0029274,,
+osm_1401,Fort Pitt Museum,40.44100906309478,-80.00967747957452,,
+osm_1402,Brookline Elementary School,40.3939361,-80.0247757,,
+osm_1403,Spring Garden Elementary School,40.4639357,-79.9690636,,
+osm_1404,io Deli and Caf,40.3890246,-80.0498602,,
+osm_1405,Weil Elementary School Library,40.4449816,-79.9739539,,
+osm_1406,Dollar Tree,40.4569644470328,-80.01543554944881,"Brighton Road, 1516",
+osm_1407,Scoops on the Boulevard,40.3939872,-80.0208886,"Brookline Boulevard, 719",15226
+osm_1408,New Dumpling House,40.4326236,-79.9233333,,
+osm_1409,Pittsburgh Center for the Arts,40.45199393930323,-79.9201331400078,"Fifth Avenue, 6300",15232
+osm_1410,Scarpaci's Place,40.4289031,-80.006983,,
+osm_1411,Bark Park,40.41799263128459,-80.0379002804496,,
+osm_1412,Southside Steaks,40.428385500000005,-79.97699379999999,"East Carson Street, 2000",15203
+osm_1413,Pace School,40.4379872,-79.8559591,,
+osm_1414,Duds 'n' Suds,40.4560104676307,-79.93695060102735,"Centre Avenue, 5430",15232
+osm_1415,Ingram,40.4440152,-80.0660285,,
+osm_1416,Eco Bistro,40.4511429,-80.0049447,,
+osm_1417,King's Family Restaurant,40.3869396,-80.0919774,"Washington Pike, 2100",
+osm_1418,Preston,40.47728819569564,-80.06607097645069,"Island Avenue, 1116",15136
+osm_1419,Saint Bede School,40.4473899,-79.9100419,,
+osm_1420,Guys & Dolls Salon,40.4970904,-80.058819,"Lincoln Avenue, 613",
+osm_1421,First Baptist Church,40.4490801,-79.9559631,,
+osm_1422,CVS Pharmacy,40.4518223,-79.952033,,
+osm_1423,Our Lady of Grace School,40.3723757,-80.0839102,,
+osm_1424,Saint Nicholas Cemetery,40.47544302954866,-79.977979267989,,
+osm_1426,The Heartwood Institute,40.4539659,-79.9535662,,
+osm_1427,Soldier's and Sailor's Lawn,40.44467484898379,-79.9556143690584,,
+osm_1428,Subway,40.45009231017392,-80.0179358869109,,
+osm_1429,Salon Uzori,40.42806892973197,-79.97194916563026,"East Carson Street, 2310",15203
+osm_1430,United Methodist Foundation of Western Pennsylvania,40.4399071,-80.0019672,,
+osm_1431,Troy Hill WWI Monument,40.4644705,-79.9821536,,
+osm_1432,East Ohio St at Grant Ave,40.4779497,-79.96894195,,
+osm_1433,Greenfield Presbyterian Church,40.42598271738772,-79.94207360081064,"Coleman Street, 3929",15207
+osm_1434,McNeilly,40.3769535,-80.0048755,,
+osm_1435,The Barbers Inn,40.45797281638217,-79.93197950382245,"Baum Boulevard, 5744",15206
+osm_1436,Allegheny County Health Department,40.46495,-79.95805,,
+osm_1437,Figleaf,40.42864844049828,-79.9840613439814,"East Carson Street, 1406",15203
+osm_1438,Steel Plaza,40.44008915434793,-79.99515901523338,,
+osm_1439,Apteka,40.46603291944783,-79.94891087736558,,
+osm_1440,Engine House - Fifty Seven,40.394773150000006,-80.022079,"Brookline Boulevard, 630",15226
+osm_1441,Dave and Andy's,40.440917,-79.956996,"Atwood St., 207",15213
+osm_1442,Subway,40.444711142036525,-79.94903078370383,"South Craig Street;S Craig St, 418",15213
+osm_1443,Trey's Laundromat,40.4845608,-80.0359807,,
+osm_1444,Sunnyside Elementary School,40.48152569161012,-79.93292892307335,,
+osm_1445,The Church Brew Works,40.4619769,-79.9643613,"Liberty Avenue, 3525",
+osm_1446,Amel's,40.3829346,-80.0156542,,
+osm_1447,Hotel Monaco Pittsburgh,40.441372719111385,-79.99627699791137,"Sixth Avenue, 435",
+osm_1448,Shady Lane School,40.4472855,-79.8950698,,
+osm_1449,Magisterial District Judge 05-2-19,40.3804184,-80.044857,"Washington Road, 680",15228
+osm_1450,Saint Joseph Gymnasium,40.4397222,-79.9629333,,
+osm_1451,Falk Hall,40.44900299710251,-79.92581326530251,,
+osm_1452,Tower Auto Sales,40.49200852493884,-79.86455838445933,,
+osm_1453,National City Bank,40.439997,-79.9990299,"Smithfield Street, 420",
+osm_1454,Metropolitan Baptist Church,40.45770524147036,-80.00828281864078,,
+osm_1455,Rectory Guardian Angels,40.4440763,-80.0511936,,
+osm_1456,Edgebrook,40.4030051,-80.0022281,,
+osm_1458,Rewind Memories,40.4339275,-79.9229196,"Murray Avenue, 2002",
+osm_1459,Frazier Field,40.429388431329606,-79.95460577769919,,
+osm_1460,Mitchell's Restaurant,40.437095,-79.9959509,,
+osm_1461,The Saloon of Mt. Lebanon,40.3820134,-80.0439496,"Washington Road, 622",15228
+osm_1462,Rita's Italian Ice,40.487973,-79.8797093,"Freeport Road, 1175",15238
+osm_1463,Friendship Academy,40.4609501,-79.93201929999998,,
+osm_1464,Allegheny Traditional Academy,40.4533797113606,-80.0079111041913,,
+osm_1465,Gardner Steel Conference Center,40.44392953688909,-79.95809512570408,,
+osm_1467,Banksville Plaza,40.39963192810427,-80.04408069805078,,
+osm_1468,Concordia Lutheran Church,40.3799818,-79.9749321,,
+osm_1469,Clarissa Boutique,40.4290714,-79.9820941,,
+osm_1470,Bouquet Gardens Building C,40.440333476037466,-79.95509664343282,,
+osm_1471,Ri Van Tran,40.3810873,-80.0440536,"Alfred Street, 103",
+osm_1472,Pittsburgh,40.4520772,-79.9760267,,
+osm_1473,Byham Theater,40.443895,-80.0019417,,
+osm_1474,Rivertowne North Shore,40.4460069,-80.0105048,,
+osm_1475,Unity Center of Pittsburgh,40.4639612,-79.9419087,,
+osm_1477,The Foundry,40.4460028,-80.0109995,,
+osm_1478,Bouquet Gardens Building D,40.44009291547472,-79.95471436786757,,
+osm_1479,Ed's Generator Service,40.39205673541271,-79.99660513130442,"Saw Mill Run Boulevard, 2029",
+osm_1480,Coppertops Pittsburgh,40.42815473970864,-79.97508115633232,"East Carson Street, 2132",15203
+osm_1481,Forest Hills Borough Hall,40.418954,-79.850257,,
+osm_1482,The Exchange,40.4391354,-79.9989456,"Smithfield Street, 416",15222
+osm_1483,Ronnie's Tire,40.3989695669691,-79.9999443162482,,
+osm_1484,Forest Hills Presbyterian Church,40.42503012959193,-79.8609494318489,,
+osm_1486,Pittsburgh Police Department Zone 3,40.4216752,-79.9919607,"East Warrington Avenue, 830",15210
+osm_1487,St. Mark's Lutheran Church,40.3924665,-80.0180318,"Brookline Boulevard, 933",15226
+osm_1488,Warrington Beer Distributor,40.4220085,-79.9929991,"East Warrington Avenue, 812",15210
+osm_1489,Pool Grove,40.48300108951453,-79.91040278997241,,
+osm_1490,McFadden's Saloon,40.4464526,-80.0076755,,
+osm_1491,Avalon Police Department,40.501038,-80.066984,,
+osm_1492,FedEx Office Print and Ship Center,40.4409874,-79.9569868,,
+osm_1493,Riverview United Presbyterian Church of Pittsburgh,40.483912991794696,-80.01399096938145,,
+osm_1494,Brioche Dore,40.4439634,-79.9569222,,
+osm_1495,Willow,40.3653207,-80.0259784,,
+osm_1496,TJ Maxx,40.48930749608528,-79.89299665822709,,
+osm_1497,Schenley Place,40.44695741630151,-79.95294687242168,"Bayard Street, 4420",15213
+osm_1498,Thai Tamarind,40.4909232,-80.0474965,"Lincoln Avenue, 172",
+osm_1499,Gally Park,40.49790043385743,-79.97790696442269,,
+osm_1500,Pittsburgh's Grand Hall,40.45196676177788,-79.99790923040403,,
+osm_1501,Sixth Ave at Smithfield St,40.4416485,-79.9979461,,
+osm_1502,Mt. Lebanon Fire Department,40.3829488,-80.0429799,"Washington Road, 555",15228
+osm_1503,Trinity Hall (DU),40.43650820653979,-79.99405997541179,,
+osm_1504,Chick-fil-A,40.41307788840614,-79.90792042653061,,
+osm_1505,Redbox,40.4972553,-80.0602112,,
+osm_1507,Fraternity Houses,40.44209325700733,-79.93866138983043,,
+osm_1508,Citizens Bank,40.45391287569898,-79.99899182159778,,
+osm_1509,Enright Parklet,40.46209689309247,-79.92989715628298,,
+osm_1510,Evaline Lutheran Church,40.46246993033298,-79.94120826881387,,
+osm_1511,The Manor Theatre,40.4369549,-79.9230778,,
+osm_1512,Point Park University,40.43894292208737,-80.00009491573135,,
+osm_1513,West Liberty Cycles,40.3940788,-80.0197198,"Brookline Boulevard, 801",15226
+osm_1514,South Bank,40.3925787,-79.9984029,,
+osm_1515,Allegheny County Jail,40.43395120129885,-79.99367670609863,"Second Avenue, 950",
+osm_1516,George L. Wilson & Co. Inc.,40.44908499576682,-80.00134579088196,,
+osm_1517,Frederick J. Osterling Office and Studio,40.44797388373917,-80.0009475892867,,
+osm_1518,Seville Volunteer Fire Company,40.4960068,-80.0404077,,
+osm_1519,Butler St at Freeport St,40.4964285,-79.9441718,,
+osm_1520,All Things Aquatic,40.3814068,-79.9990816,,
+osm_1521,Plants & Flowers By Lisa,40.41759347308027,-79.98664441283671,"Brownsville Road, 100",15210
+osm_1522,Beth El Congregation,40.3950957,-80.0579275,"Cochran Road, 1900",
+osm_1523,Pittsburgh Plate Glass Building,40.4400692,-80.0020976,,
+osm_1524,Burn Restaurant & Cigar Lounge,40.4461439,-80.0109516,,
+osm_1525,Metaltech,40.43493410096045,-79.96957767958004,"Second Avenue, 2400",15219
+osm_1526,Old Allegheny County Jail,40.43850176377904,-79.99535033541338,,
+osm_1527,Spencer House,40.45019364897657,-79.9249309470641,,
+osm_1528,Church of the Assumption,40.49693041635198,-80.05693125975696,"North Sprague Avenue, 42",15202
+osm_1529,North Ave at Klopfer St,40.4848513,-79.9730056,,
+osm_1530,Hair Express,40.4948473,-80.0550301,"Sheridan Avenue, 3",
+osm_1531,Cindy Esther Plaza,40.42797329999999,-79.98619419999999,,
+osm_1532,Roselawn Houses,40.4420452,-79.937925,,
+osm_1533,Northside Common Minstry,40.4608132,-80.0070029,,
+osm_1534,Squirrel Hill News Stand,40.438025,-79.922647,,
+osm_1535,Jackman Inn,40.486912,-80.0559871,"Jackman Avenue, 919",
+osm_1536,Baker Hall,40.44146542317263,-79.94501811970048,"Frew Street, 4825",
+osm_1537,The Double L Bar,40.4789659,-79.9724104,,
+osm_1538,Memorial Hall,40.36664767015159,-80.01612855477455,,
+osm_1539,Allegheny Antiques,40.4529424,-79.9996947,,
+osm_1540,Honus-Wagner Apartments,40.405303810356415,-80.0883211454731,"3rd Avenue, 1",15106
+osm_1541,Community of the Crucified One Church,40.4067807,-79.9080329,,
+osm_1542,J.R. Coffee Shop,40.4559027,-80.0066326,,
+osm_1543,Bedford Hill Apartments,40.44900386523702,-79.9799762960963,,
+osm_1544,Faison Arts Elementary School,40.4529763,-79.8939544,,
+osm_1545,Magee Community Recreation Center,40.42441198770352,-79.936793581521,"Greenfield Avenue, 745",15226
+osm_1546,Silver Palace,40.37691999457169,-80.00404491335496,,
+osm_1547,Greenstone United Methodist Church,40.49890735838596,-80.06194031633369,,
+osm_1548,2 Allegheny Center,40.45208453193754,-80.00397782277724,,
+osm_1549,Michael's Lounge,40.46891397748059,-80.07706686314646,"Singer Avenue, 331",15136
+osm_1551,Centre Plaza,40.45403063571378,-79.94693541215699,"Centre Avenue, 4815",15213-1738
+osm_1552,Browns Hill Center,40.41707537219738,-79.92498666205495,,
+osm_1553,Ingram Borough Hall,40.44600598152708,-80.06686382520563,,
+osm_1554,The Rocks Car Wash,40.46497335538503,-80.06896197239034,"Chartiers Avenue, 1122",15136
+osm_1555,Starbucks,40.4420271,-79.9999182,,
+osm_1556,University Center,40.44329655654717,-79.942025212704,"Forbes Avenue, 5034",
+osm_1557,"Sampo Distributors, Inc.",40.46544782641689,-80.05797172194991,"Bell Avenue, 400",15136
+osm_1558,PNC Bank,40.43809348522043,-79.9219123197602,,
+osm_1559,The Pitt Shop,40.4430896,-79.9554318,,
+osm_1560,Dormont Junction,40.3909223,-80.040906,,
+osm_1561,Rankin Borough Hall,40.41301292538884,-79.88037866055973,,
+osm_1563,Kelly Elementary School Library,40.43891,-79.88922,,
+osm_1564,Ephesus Mediterranean Kitchen,40.4969594,-80.059048,"Lincoln Avenue, 616",
+osm_1566,Resurrection Baptist Church,40.4059579,-79.8689459,,
+osm_1567,Lockhart Tire,40.4519387,-79.9999429,,
+osm_1568,Christian Tabernacle Church,40.4470893,-79.9679646,,
+osm_1569,WesBanco,40.47661868633672,-80.0314836768159,,
+osm_1570,Tai Pei,40.4876121,-79.8805906,,
+osm_1571,South Hills Embroidery,40.3752778,-79.9840035,,
+osm_1572,Pizza Parma,40.44387666567691,-79.99856885318395,"Penn Avenue, 823",
+osm_1573,First National Bank,40.44801022615184,-80.0040796930995,,
+osm_1574,Northview Heights Elementary School,40.481233087999,-80.0042906076893,,
+osm_1575,Saint Benedict the Moor Convent,40.452521,-79.9672844,,
+osm_1576,McCleary School,40.48040693695204,-79.95103033497092,,
+osm_1577,Northside Common Ministries,40.45795839199896,-80.016351613137,"Brighton Road, 1601",
+osm_1578,Emerald Gardens,40.44962786196648,-80.0759593317719,,
+osm_1579,31st Street Bridge Ramp at 31st St Bridge,40.4645691,-79.9797979,,
+osm_1580,Smith Funeral Home & Crematory,40.49288982298869,-79.86494385937003,,
+osm_1581,Bluebird Kitchen,40.438949,-80.0055231,"Stanwix St, 11",
+osm_1583,University Club,40.44396260820155,-79.9570024320498,,
+osm_1584,Bloomfield Playground,40.46224716693809,-79.95402379612264,,
+osm_1585,Avalon Public Library,40.5009207,-80.0678032,,
+osm_1586,Herron Station,40.4589143,-79.9669567,,
+osm_1587,Bosetti Lawn Care,40.46968085,-80.07617594999998,"Singer Avenue, 322",15136
+osm_1588,The Used Car Store,40.4596461,-80.0180438,,
+osm_1589,Frick Building,40.43894325,-79.99692209999999,"Grant Street, 437",15222
+osm_1590,Unity Baptist Church,40.3980767,-79.8639811,,
+osm_1591,School of Law Building,40.4370667,-79.9919222,,
+osm_1592,Rasta House,40.45611,-80.0070678,,
+osm_1593,Lincoln Center,40.49751411548241,-80.05862844600897,"Lincoln Avenue, 616",
+osm_1594,Scaife Hall,40.44305170992952,-79.96098276145635,,
+osm_1595,The Tanning Room LLC,40.42693892330212,-79.96906213079214,"East Carson Street, 2520",15203
+osm_1596,Christos Mediterranean Grille,40.4431844,-80.0025077,,
+osm_1597,Grant Bar & Lounge,40.4779094,-79.9697655,,
+osm_1598,Pittsburgh Classical Middle School,40.4510418,-80.0490476,,
+osm_1599,Calvary Episcopal Church,40.45597619131663,-79.92209686338293,"Shady Avenue, 315",15206
+osm_1600,CVS,40.4144746,-79.9230402,"Browns Hill Road, 4664",15217
+osm_1601,Library Building,40.44978056230813,-80.01290094880046,,
+osm_1602,Vocelli Pizza,40.44242,-80.0030811,,
+osm_1603,Avalon Mart,40.5012452,-80.0679141,,
+osm_1604,Sixth Presbyterian Church,40.43798491074443,-79.92292624013501,,
+osm_1605,Marshalls,40.41096122814588,-79.90696667787248,,
+osm_1606,Allegheny Station,40.44807381326776,-80.01788314934359,,
+osm_1607,Ohio Valley Hospital,40.47220175525327,-80.091082257587,"Heckel Road, 25",15136
+osm_1608,First Presbyterian Church of Castle Shannon,40.3665103,-80.0210627,,
+osm_1609,Napoli Pizzeria,40.43391,-79.9229333,,
+osm_1610,Blawnox Antiques,40.49372536944593,-79.8610369967387,,
+osm_1611,Salk Hall,40.44305623193336,-79.96309955628453,,
+osm_1612,Beacon Place,40.43488244418447,-79.9240637268205,,
+osm_1613,Hillman Library,40.442601303331166,-79.95390878547504,"Forbes Ave, 3960",15260
+osm_1614,Word of God Elementary School,40.4230893,-79.8899839,,
+osm_1615,Bellevue Christian Church,40.49795769220791,-80.06028347052538,"Lincoln Avenue, 680",15202
+osm_1616,Philip Murray Elementary School,40.408936,-79.9792189,,
+osm_1617,Lewis Hair Salon,40.45053495416426,-79.93522139685135,"South Aiken Ave, 813",15232
+osm_1618,Family Dollar,40.44695901777606,-79.89400849872914,,
+osm_1619,The Royal Palace,40.37930379694543,-80.00201469205263,,
+osm_1620,Wine & Spirits,40.4535275,-80.0009731,,
+osm_1621,Crawford Hall,40.44692012179822,-79.95397593038174,,
+osm_1622,State Correctional Institution  Pittsburgh,40.470427107597374,-80.04143619915247,"Beaver Avenue, 3001",15233
+osm_1623,Hookah Bookah,40.42751741414046,-79.96891125215834,"East Carson Street, 2506",15203
+osm_1624,Doman Auto,40.40198771317987,-80.000914903699,,
+osm_1625,Bellefield Hall Swimming Pool,40.4454802,-79.9510024,,
+osm_1626,NPL Building,40.44472962744821,-79.95854555333531,,
+osm_1627,First Galilee Baptist Church,40.454077,-79.8960535,,
+osm_1628,Razzy Fresh Frozen Yogurt,40.4374866,-79.9227647,,
+osm_1629,Dollar Bank,40.42797412205528,-79.98092533022758,"East Carson Street, 1712",15203
+osm_1630,Starbucks,40.44021578735232,-80.0021839244438,"Market Street, 7",15222
+osm_1631,Huszar,40.4570844,-79.9990259,,
+osm_1633,The Inn on Mexican War Streets,40.45450858834422,-80.01313426708435,,
+osm_1634,Green Garden,40.3888471,-80.049828,,
+osm_1635,Pittsburgh Steak Company,40.428339481680375,-79.97790145527131,"East Carson Street, 1924",15203
+osm_1636,Granite Building,40.4419667074968,-79.99908531610566,"Sixth Avenue, 313",
+osm_1637,Brackenridge Hall,40.44308292138056,-79.95493161113696,,
+osm_1638,Walton United Methodist Church,40.4253591,-79.97795,,
+osm_1640,Foster Plaza 7,40.42072288092592,-80.06414099352418,"Andersen Drive, 661",15220
+osm_1641,Wilkins School Community Center,40.430178610835206,-79.8930198490556,,
+osm_1642,AlphaLab,40.427917,-79.9717706,,
+osm_1643,Carson City Saloon,40.42895932488072,-79.98409514642042,"East Carson Street, 1401",15203
+osm_1644,Clapp Hall,40.44614740964767,-79.95295863465385,,
+osm_1645,Prince of Peace,40.42894530788655,-79.98491551442439,"South 13th Street, 81",15203
+osm_1646,BP,40.46067385257932,-79.86701681268711,,
+osm_1647,Brighton Heights Dental,40.4849232726468,-80.03577171517274,"Brighton Road, 3808",
+osm_1648,Rite Aid,40.4865193,-79.9267732,,
+osm_1649,Primanti Brothers,40.42790986292833,-79.97930485529662,"East Carson Street, 1832",15203
+osm_1650,Waterfront Drive at Recreation Center,40.4141992,-79.9019882,,
+osm_1651,One PPG Place,40.44000118499615,-80.0037815011624,"PPG Place, 1",
+osm_1652,White Eagle Inn,40.42806103079688,-79.9728927793516,"East Carson Street, 2300",15203
+osm_1654,Space Research Coordination Center,40.44544803460523,-79.957264384716,,
+osm_1655,Two Chatham Center,40.4392209842712,-79.99167080003717,,
+osm_1656,Subway,40.4749581,-80.0990396,,
+osm_1657,South Hills Country Club,40.357925747752255,-79.98653232032946,"Brownsville Road, 4305",15236
+osm_1658,The Melting Pot,40.4330662,-80.004052,,
+osm_1659,CoGo's,40.4729092,-80.0619462,"Island Avenue, 721",15136
+osm_1660,Everest Restaurant,40.3680784,-79.9840629,,
+osm_1661,Allegheny General Hospital Professional Building,40.4970291672103,-80.05790686265841,,
+osm_1662,Power Center,40.43817127757976,-79.99048171910135,,
+osm_1663,PNC Bank,40.46454843468501,-80.05876141904102,"Chartiers Avenue, 421",15136
+osm_1664,Murray Avenue Locksmith,40.4339859,-79.9229244,"Murray Avenue, 2004",
+osm_1665,The Big Dipper,40.38804526925564,-79.86501227845854,,
+osm_1666,St. Paul Cathedral Rectory,40.44690439711637,-79.9504871302473,"Dithridge Street, 108",
+osm_1667,Lincoln Elementary School,40.38907735375239,-80.04792406408183,,
+osm_1668,Kenny Ross Ford,40.37095646781476,-80.00980050061644,,
+osm_1669,Westfield,40.4104747,-80.0201132,,
+osm_1670,Jet's Pizza,40.3984887,-80.0439354,"Dormont Avenue, 1810",15216
+osm_1671,River Front Park,40.4259312,-79.9730479,,
+osm_1672,Yen's Gourmet,40.46093443589603,-79.92269305644011,"Penn Avenue, 6123",15206
+osm_1673,Small Fry,40.38790940163107,-79.86644755352192,,
+osm_1674,Hallelujah Anyhow Gosepel Barber,40.4529414,-80.0009056,,
+osm_1675,Saint Anne School,40.36144922535745,-80.0289185732927,,
+osm_1676,57th Street Motors,40.48508297569611,-79.94600626479512,"Butler Street, 5700",15201
+osm_1677,KeyBank,40.4515963,-80.0199267,,
+osm_1678,O'Brien's,40.4760364,-80.0312633,"Brighton Road, 3324",
+osm_1679,Keystone Oaks High School,40.3868835,-80.0297147,,
+osm_1680,Pittsburgh City Theatre,40.4290243,-79.9914731,,
+osm_1681,Bouquet Gardens Building J,40.439923742117536,-79.95393293446224,,
+osm_1682,The Army Church,40.4429804,-79.9990448,,
+osm_1683,Green Tree Police Department,40.4188833,-80.0469714,,
+osm_1684,Hilton Garden Inn Pittsburgh Downtown,40.439812269143886,-80.00205448540416,"Fourth Avenue, 239",15222
+osm_1685,Subway,40.4395339,-80.0013783,,
+osm_1686,PNC Bank,40.4570869,-80.00772,,
+osm_1688,Pittsburgh Sports Bar,40.364900220484266,-80.01900722138649,"Library Road, 3630",
+osm_1689,Pittsburgh High School Library,40.445224,-79.9985362,,
+osm_1690,UPMC Presbyterian Hospital,40.44240153072824,-79.96047661566382,"Lothrop Street, 200",15213
+osm_1691,Dick's Sporting Goods,40.41016486317896,-79.91091320054393,,
+osm_1692,US Post Office,40.41705335111946,-79.9869570899702,"Brownsville Road, 140",15210
+osm_1694,Radio Shack,40.3996202,-80.0440091,,
+osm_1695,Prince of Peace Roman Catholic Church,40.4298331,-79.9909315,,
+osm_1696,Bloomfield Post Office,40.45691104534517,-79.9409446565743,"Liberty Ave, 5182",15224
+osm_1697,Full Life Deliverance Ministries,40.4171496,-80.00570895,,
+osm_1698,Bruegger's Bagels,40.4369171,-79.9227567,"Murray Avenue, 1719",
+osm_1699,Boutique la Passerelle,40.439910242395726,-80.00095790290445,"Wood Street, 417",15222
+osm_1700,South Hills Eye Associates,40.3798125,-80.0450185,"Washington Road, 713",15228
+osm_1701,Verizon Wireless,40.4379725,-79.9196684,,
+osm_1702,Grandview Elementary School,40.42390409593661,-79.99300514925694,,
+osm_1703,Molly's,40.39703277752893,-80.03590863912328,"Potomac Avenue, 1525",15216
+osm_1704,Sestili Nursery,40.43199763383028,-79.95174238758283,"Swinburne Street, 3721",15213
+osm_1705,Freeport Rd at #1050,40.4869176,-79.8839637,,
+osm_1706,Munhall Park,40.40396595879633,-79.8939931705987,,
+osm_1707,Pittsburgh Union Station,40.44593353873129,-79.99010488580633,,
+osm_1708,Murray Bartlett Professional Building,40.43602083425955,-79.9231334999268,"Murray Avenue, 1900",
+osm_1709,St. Benedict The Moor,40.44099528254951,-79.98608992141239,,
+osm_1710,Carnegie Library of Pittsburgh-Allegheny,40.45590073202626,-80.0070350439488,,
+osm_1711,Bouquet Gardens Building E,40.4410261223364,-79.95491207413092,,
+osm_1712,Schenley House,40.4489412928616,-79.9507457395001,"North Craig Street, 151",
+osm_1713,Saint Peters Cemetery,40.416736,-79.9809635,,
+osm_1714,South Hills Optical,40.3797745,-80.0447417,"Washington Road, 713",15228
+osm_1715,China Taste,40.4539697,-79.9979075,,
+osm_1716,East Ohio St at Chestnut St,40.4539647,-79.9952553,,
+osm_1717,Dickson Park,40.42901486112202,-79.87694508299268,,
+osm_1718,Wines & Spirits,40.4689152,-79.9609994,,
+osm_1719,Lili Cafe,40.4575406,-79.9660578,"Dobson Street, 3138",
+osm_1720,Stewart Avenue Lutheran Church,40.383024239321415,-79.97693180851576,,
+osm_1721,Braddock Carnegie Library,40.4009336,-79.8656608,,
+osm_1722,Colfax Elementary School Library,40.4329523,-79.9143771,,
+osm_1723,Denny Park,40.50300587251677,-80.03454712292734,,
+osm_1724,Byzantine Seminary,40.48435923082079,-80.0160641231842,"Perrysville Avenue, 3605",15214
+osm_1725,Agape Learning Center,40.4593235,-80.0229133,,
+osm_1726,Seven Eleven,40.4419726,-80.0000872,,
+osm_1727,Beer 4 Less,40.4729642,-80.0968575,,
+osm_1728,The Vision Center,40.4390544,-79.9979075,,
+osm_1729,Dunamis Baptist Church,40.44385726173392,-79.88206700370495,,
+osm_1730,Wallace's Taproom,40.461988,-79.9246112,"North Highland Avenue, 123",15206
+osm_1731,The Coffee Tree Roasters,40.4379264,-79.9214303,,
+osm_1732,ZAP Solutions,40.4487527,-80.0010707,,
+osm_1733,Willi's,40.364898555204114,-80.02084528157695,"Library Road, 3738",
+osm_1734,Bistro 19,40.3801189,-80.0445545,"Washington Road, 711",15228
+osm_1735,Crafton Post Office,40.4388126,-80.0708989,,
+osm_1736,Spoon,40.460046,-79.9249283,,
+osm_1737,Mount Lebanon Park,40.372953571964366,-80.05531105412396,,
+osm_1738,Fort Pitt Commons,40.43593226216284,-79.99894122777768,"Fort Pitt Boulevard, 445",15222
+osm_1739,40th Street Bridge,40.4710686,-79.96574265,,
+osm_1740,La Pomponne Salon,40.3816066,-80.0439185,"Washington Road, 659",15228
+osm_1741,Eberly Hall,40.44583672885308,-79.95797269827736,,
+osm_1742,Las Palmas Carniceria,40.3950529,-80.0220195,"Brookline Boulevard, 700",15226
+osm_1743,Barb's Country Kitchen,40.473981,-79.9580846,,
+osm_1744,The Bead Mine,40.42903594861915,-79.98209925466371,"East Carson Street, 1703",15203
+osm_1745,21st Street Coffee and Tea,40.4411865,-80.0009478,"Fifth Avenue, 225",15222
+osm_1746,Waffallonia,40.4377851,-79.9228179,"Murray Avenue, 1707",15217
+osm_1747,E Carson St at Smithfield St Bridge,40.4318468,-80.0029435,,
+osm_1748,McDonald's,40.4409363,-79.9569632,"Forbes Avenue, 3708",15213
+osm_1749,Apple Store,40.4509693,-79.9329241,,
+osm_1750,Smith Hall,40.44396612935741,-79.9449353662683,"Forbes Avenue, 4802",
+osm_1751,Beverly Hills Nails,40.398964,-80.0440802,,
+osm_1752,Bruegger's Bagels,40.4510402,-79.9357127,"South Aiken Ave, 806",15232-2210
+osm_1753,Scott Towne Center,40.390718537854106,-80.07107340561,"Greentree Road, 2101",15220
+osm_1754,Hair Day,40.4309034,-79.978305,1945,
+osm_1755,Sheraton Pittsburgh Hotel at Station Square Hotel,40.43506004954026,-80.00593579249174,,
+osm_1756,Saint Marks Cemetery,40.48378346296028,-80.09424145064892,,
+osm_1757,U.S. Steel Tower,40.44095799071874,-79.99508195927882,"Grant Street, 600",15219
+osm_1758,Welch House,40.44094952503465,-79.93896847995498,,
+osm_1759,Little Nipper's Pizza,40.3879326,-80.0496149,"Beverly Road, 303",15216
+osm_1760,SubMed Cafe,40.4387869,-79.9982533,"Cherry Way, 401",
+osm_1761,Hyland Hills Apartments,40.41798692290651,-80.03696436044306,,
+osm_1762,Bradley Center at Mount Lebanon,40.3910477,-80.0263406,,
+osm_1763,Pizza Sola,40.42896594515552,-79.9829268208587,"East Carson Street, 1417",15203
+osm_1764,Banksville Elementary School,40.4079154,-80.0369713,,
+osm_1765,Jerry's Records,40.4326859,-79.9229818,"Murray Ave., 2136",15217
+osm_1766,Pit Stop Beer Express,40.3639832,-80.0203343,,
+osm_1767,King Museum,40.47890186098458,-79.92507333819403,"Elgin Street, 5501",15206
+osm_1768,Millvale Community Library,40.478864372781686,-79.97098385230298,,
+osm_1769,Swissvale Station,40.415301801976845,-79.87908275209313,,
+osm_1770,Gateway View Plaza,40.44199263241138,-80.02093267976512,,
+osm_1771,McDonald's,40.3862974,-80.0929771,"Washington Pike, 2100",
+osm_1773,Saint Andrews Episcopal Church,40.47501746023907,-79.92097945784668,"Hampton Street, 5801",15206
+osm_1774,Thornburg Borough Hall,40.4359571102698,-80.07896747965276,,
+osm_1775,Castle Shannon,40.36823920749329,-80.03026463701663,,
+osm_1776,H&R Block,40.4978452,-80.0594708,"Lincoln Avenue, 650",
+osm_1777,Izzazu Salon & Spa,40.4410276,-79.9997811,,
+osm_1778,Homecraft Building Center,40.366985416356,-80.01292263928676,,
+osm_1779,Foster Plaza 5,40.42215126100098,-80.0610790200105,"Holiday Drive, 651",15220
+osm_1780,Wabash Post Office,40.440927,-80.0346601,,
+osm_1781,Options Center,40.4564174,-79.887951,,
+osm_1782,Waterworks Cinemas,40.48993148682654,-79.89401474089058,,
+osm_1783,Pittsburgh Ballet Theatre,40.4574971,-79.9729665,,
+osm_1784,Reformed Presbyterian Church of North America,40.4479522,-79.8979858,,
+osm_1785,Trees Field,40.4480278,-79.9639128,,
+osm_1786,Butler St at #188,40.4933909,-79.9479677,,
+osm_1787,Giant Eagle,40.4230794,-80.0353679,,
+osm_1788,Beer Express,40.39701301402982,-79.99895024958718,,
+osm_1789,Liberty Ave opp 9th St,40.4428631,-79.9982288,,
+osm_1790,Family Dollar,40.4970966,-80.0590468,Lincoln Avenue,
+osm_1791,Clark Building,40.44907966635068,-80.00867742148216,,
+osm_1792,Wyndham Grand Pittsburgh Downtown,40.4420889450999,-80.0064819476625,"Commonwealth Place, 600",15222
+osm_1793,Taylor Alderdice High School,40.42948781958966,-79.91896342556657,,
+osm_1794,Homeville Elementary School Library,40.3879861,-79.8739941,,
+osm_1795,Liberty Avenue Park,40.44206551500886,-80.00444547728432,,
+osm_1796,Subway,40.4279763,-79.9766352,,
+osm_1797,Buhl Building,40.44117725078467,-80.00203966285456,"Fifth Avenue, 204",
+osm_1798,The Celtic Cross,40.3792929,-80.0450898,"Washington Road, 729",15228
+osm_1799,Casbah,40.4579522,-79.9250574,,
+osm_1800,Rumerz Sports Bar & Grill,40.47599847725867,-80.03065568404507,"Woods Run Avenue, 1216",15212
+osm_1801,"Berry Hall, Chatham University",40.44702678280562,-79.92279126858104,,
+osm_1802,Solar Financial,40.3749103,-79.9840432,,
+osm_1803,Auto Race,40.387986,-79.8640673,,
+osm_1804,Allegheny Valley Bank of Pittsburgh,40.4390895,-79.9979732,,
+osm_1805,Frisch's Resturant,40.3579212,-80.003092,,
+osm_1806,Panther Hollow field,40.43102436775517,-79.95012378109264,,
+osm_1807,AutoZone,40.49445908856028,-80.0640217801239,"Ohio River Boulevard, 1001",
+osm_1808,August Wilson House,40.44497694744764,-79.98600453539082,,
+osm_1809,Frick Park,40.406069544596,-79.9079429549968,,
+osm_1810,Holy Assumption Orthodox Church,40.4261822,-79.9786414,,
+osm_1811,Leopardi Auto Sales,40.38360898781278,-79.99497006371402,,
+osm_1812,Riverview Towers,40.41292876799356,-79.92094846334128,,
+osm_1813,Allegheny Observatory,40.48252987068616,-80.0210642603986,"Riverview Avenue, 159",15214
+osm_1814,Fantastic Sams,40.3650049,-80.0180555,,
+osm_1815,Bon Air,40.4080343,-80.002968,,
+osm_1816,Woolslair Elementary School,40.4640028,-79.956992,,
+osm_1817,Kenny's Nail Center,40.4396438,-80.0009969,,
+osm_1818,Penn Waste Systems,40.47792529810236,-80.06179819920088,"Nichol Avenue, 149",15136
+osm_1819,Mary Anne's Breakfast-N-Lunch,40.48593604014805,-80.07506710120046,"Island Avenue, 1460",
+osm_1820,Biomedical Science Tower III,40.44096428739198,-79.96006600831237,,
+osm_1821,Peppi's,40.44705826614252,-79.8941528801969,,
+osm_1822,Goodwill South Side Store,40.42665995137662,-79.96686999010814,2700,
+osm_1823,Kashi Jewelers,40.4406761,-80.000612,,
+osm_1824,Elm Leaf Park,40.3796051678034,-79.95753438251003,,
+osm_1825,Killarney,40.3740868,-80.008094,,
+osm_1826,Used Furniture Gallery,40.400986,-79.99988989999999,,
+osm_1827,Dunkin' Donuts,40.4410359,-80.0029199,,
+osm_1828,The Allegheny,40.45049043724613,-80.0078113680415,,
+osm_1829,Brookline Beer,40.3920594,-80.0170714,"Brookline Boulevard, 1019",15226
+osm_1830,Arlington Elementary School,40.418047,-79.9717188,,
+osm_1831,Valley View Presbyterian Church,40.4711107,-79.9328532,,
+osm_1832,Shady Hill Chiropractic Clinic,40.45847981843759,-79.9219089230588,"Shady Ave, 235",15206
+osm_1833,Work Hard Pittsburgh,40.4216419,-79.9941254,"East Warrington Avenue, 744",15210
+osm_1834,Schenley High School,40.450352398748805,-79.9539039875995,,
+osm_1835,Foster Square,40.45182366530302,-80.00792906405628,,
+osm_1836,Mueller's Hardware,40.4537562,-79.999816,,
+osm_1837,Co Go's,40.422433479921125,-79.88491249850023,,
+osm_1838,German Cemetery,40.4061803,-80.0539433,,
+osm_1839,Linden Grove,40.3675249,-80.0143163,,
+osm_1840,Fort Pitt Block House,40.44119789973252,-80.0098249972833,,
+osm_1841,Starbucks,40.4380822,-79.9983547,"Grant Street, 301",15219
+osm_1842,Quantum Theatre,40.4290896,-79.9909731,,
+osm_1843,Saint Ann's Cemetery,40.36342857232435,-80.03090137347031,,
+osm_1844,Saint Aloysius Church Social Hall,40.488945,-79.9919818,,
+osm_1845,Aden Market,40.457238,-80.0069393,,
+osm_1846,Mount Olive Baptist Church,40.41366141128559,-79.88099342965565,,
+osm_1847,Schneider Truck,40.4779786,-80.0659084,,
+osm_1848,Walgreens,40.458993,-79.9270572,,
+osm_1849,Logan's Pub,40.45204545712943,-79.9519848884863,"N Craig St, 301",15213
+osm_1850,Scaife Hall,40.44202172056808,-79.9469075869971,"Frew Street, 4805",
+osm_1851,Schaeffer Elementary School Library,40.43906,-80.05291,,
+osm_1852,Dormont Park,40.39492328465969,-80.04391185480593,,
+osm_1853,Wilson's Pharmacy,40.466054,-79.9549591,"Penn Avenue, 4101",15201
+osm_1854,PNC Bank,40.4729963,-80.062489,,
+osm_1855,Mt. Lebanon Public Works Yard,40.36490245320461,-80.0628420303965,"Lindendale Drive, 1250",
+osm_1856,Foster Zero,40.42130669090638,-80.0550376552786,"Holiday Drive, 400",15220
+osm_1857,Boss House,40.442000150000005,-79.93899775000001,,
+osm_1858,Allegheny General Hospital Lab,40.45716310510662,-80.00803437131336,"Federal Street, 1307",15212
+osm_1859,Frick Fine Arts Building,40.44167665850442,-79.95104754433669,,
+osm_1860,Giant Eagle,40.41100629936042,-79.90843532460512,"Waterfront Drive East, 420",15120
+osm_1861,Maimonides Academy of Pitttsburgh,40.4292993,-79.9250071,,
+osm_1862,St Rosalia Academy,40.42499203052825,-79.94381579862105,"Greenfield Avenue, 411",15207
+osm_1863,PNC Center,40.438666842329184,-80.00498328106463,,
+osm_1865,South Bank,40.39281524432227,-79.99799234263202,,
+osm_1867,McDonald's,40.44933105071628,-79.9862971888499,,
+osm_1868,Sawyer School Learning Resources Center,40.4431757,-79.9990373,,
+osm_1869,Wood Street,40.44190437410385,-79.99960759799117,,
+osm_1870,Subway,40.45190479673741,-79.95159011373534,"Centre Avenue, 4613",15213
+osm_1871,Skibo Gymnasium,40.44101732814252,-79.94127455718393,,
+osm_1872,Southside Jewelers,40.428902319335485,-79.97960758651557,"East Carson Street, 1821",15203
+osm_1873,AE Works,40.44908956727888,-80.00266750318566,,
+osm_1874,Club Erotica Gentleman's Club,40.47400350792033,-80.0631586920434,"Island Avenue, 826",15136
+osm_1875,Olde Towne Laundry,40.45492935188057,-80.00108022882127,,
+osm_1876,UPMC Presbyterian Hospital,40.44175594086085,-79.95892899834573,"Lothrop Street, 200",15213
+osm_1877,Grandview Bakery & Sweet Shop,40.429863,-80.0071949,"Shiloh Street, 225",15211
+osm_1878,Calabria's,40.37346198344219,-80.00597781753623,"Library Road, 3107",
+osm_1879,Heinz Field,40.44705972189666,-80.01603826923348,,
+osm_1881,Money Mart,40.4540225,-79.9979743,,
+osm_1882,Three Rivers Commons,40.47196958184026,-80.06184941911089,"Island Avenue, 615",15136
+osm_1883,Page Dairy Mart,40.411173950000006,-79.9558276,,
+osm_1884,Polish Hill Wiggins Community Garden,40.458080663668895,-79.96936847966549,,
+osm_1885,Caffe Mona la bistro,40.465645008899,-79.9539823150093,,
+osm_1886,Alumni Hall,40.44556943920431,-79.9539082711636,,
+osm_1887,Citizens Bank.,40.4403352,-79.9980914,,
+osm_1888,Pinkerton Funeral Home,40.4979538886154,-80.06099524340065,"California Avenue, 1014",
+osm_1889,Forest Hills Park,40.4250231749774,-79.85655061377133,,
+osm_1890,Best Auto Mart,40.40028903175149,-80.00073830527137,,
+osm_1891,Banksville Park,40.41394449294684,-80.03907642668003,,
+osm_1892,Nova Place,40.45068332048009,-80.00607111890291,,
+osm_1893,Starbucks,40.4500635,-80.0154789,"Ridge Avenue, 845",
+osm_1894,Jefferson Elementary School,40.38096106214637,-80.06110028125046,"Moffett Street, 11",
+osm_1895,Millvale Post Office,40.4789405,-79.9706711,,
+osm_1897,Unitarian Universalist Church of the South Hills,40.3650987,-80.0489569,"Washington Road, 1240",15228
+osm_1898,Cappy's Cafe,40.450978,-79.9343686,,
+osm_1899,Amtrak,40.44503850569739,-79.9909953212051,"Liberty Avenue, 1100",15222
+osm_1901,Parkedge Park,40.412557500144906,-80.06398626072807,,
+osm_1902,Pittsburgh Marriott City Center,40.43973905,-79.99220005000001,"Washington Pl, 112",15219
+osm_1903,Target Drive,40.4110475,-79.9100499,,
+osm_1904,61c Caf,40.436181,-79.9230191,"Murray Avenue, 1839",
+osm_1905,Supercuts,40.4310666,-79.9231737,,
+osm_1906,Pittsburgh Chinese Church,40.44805331104725,-79.9510290133708,,
+osm_1907,Faith Temple Lighthouse Church,40.45802,-79.9009672,,
+osm_1908,Station Square,40.4309613,-80.0029696,,
+osm_1909,Smithfield St at Fort Pitt Blvd,40.4368806,-80.0010837,,
+osm_1910,Mt. Lebanon Floral,40.3789259,-80.0449301,"Washington Road, 725",15228
+osm_1911,Mudge House,40.446909100350496,-79.94267101172193,,
+osm_1912,The Children's Place,40.4080768,-79.917528,,
+osm_1913,First Niagara,40.46305270730788,-79.92398809161678,"North Highland Avenue, 217",15206
+osm_1914,Carnegie Park,40.40358779915517,-80.07320556605808,,
+osm_1915,Canton Avenue,40.40976744623303,-80.03006403934207,,
+osm_1916,Mount Lebanon Cemetery,40.38298180239882,-80.04109759877817,,
+osm_1917,Missionary Temple Church of God in Christ,40.46300615042782,-79.92093330463148,,
+osm_1918,The Smiling Moose,40.42859127994096,-79.98495710006907,"East Carson Street, 1306",15203
+osm_1919,Holy Rosary School,40.45549929999999,-79.89791265,,
+osm_1920,Rite Aid,40.4380143,-79.9229492,,
+osm_1921,Duquesne University,40.43790542958841,-79.99197884812295,,
+osm_1922,Wendy's,40.44597764357162,-79.89298355638476,"Peebles Street, 7750",15221
+osm_1923,Squirrel Hill Jewelry,40.4349307,-79.9230087,"Murray Avenue, 1925",
+osm_1924,First Avenue,40.4354352,-79.9965718,,
+osm_1925,Mount Lebanon United Lutheran Church,40.37378144101459,-80.04809657398081,"Washington Road, 975",15228
+osm_1926,Green Tree Borough Hall,40.41876901240448,-80.0469269293317,,
+osm_1927,South Side Cemetery,40.40162236854694,-79.99301686523805,,
+osm_1928,Hillman Cancer Center,40.45491100909951,-79.94244315057904,"Centre Ave, 5115",15232
+osm_1929,Wood St between Forbes & Fifth,40.440382,-80.0006489,,
+osm_1930,West Penn Park,40.45493491902345,-79.97148701187515,,
+osm_1931,Hard Rock Cafe,40.4340707,-80.0049211,,
+osm_1932,Scott Hall,40.44294965107294,-79.94702104863234,"Hamerschlag Drive, 346",
+osm_1934,Pittsburgh Post-Gazette,40.43979248204013,-80.0065525016817,"Boulevard of the Allies, 34",15222
+osm_1935,Key Bank,40.46481183188022,-80.0597474654763,"Chartiers Avenue, 527",15136
+osm_1936,Bellevue Chiropractic Center,40.49849382867995,-80.06089997090778,"Lincoln Avenue, 700",
+osm_1937,"Aerotech, Inc.",40.50133083854561,-79.8658554290007,,
+osm_1938,Wendy's,40.49393995272355,-80.06297341455718,,
+osm_1939,Fort Pitt Blvd at Smithfield St,40.4369358,-80.0017023,,
+osm_1940,Wilkinsburg High School,40.44411086875056,-79.88205981587892,"Wallace Avenue, 747",
+osm_1941,Kennedy Park,40.49576909052887,-79.9282695613644,,
+osm_1942,Bradley School,40.3910477,-80.0259406,,
+osm_1943,Troy Hill Cemetary,40.47379555769306,-79.98299982374552,,
+osm_1944,Saint Paul's Episcopal Church,40.371029,-80.0499422,"Washington Road, 1066",15228
+osm_1945,Wendy's,40.45024750655467,-80.01903993466004,"Allegheny Avenue, 725",15233
+osm_1946,Brighton Market,40.4580179,-80.015729,,
+osm_1947,Boulevard Generator,40.48708585,-80.0554081,,
+osm_1948,Bangkok Balcony,40.4377887,-79.9209678,,
+osm_1949,Easy Street,40.4379318,-79.9979217,,
+osm_1950,Allegheny Health Network,40.45292771794865,-80.00429756217413,,
+osm_1951,Heidelberg Borough Hall,40.3926274,-80.0869574,"East Railroad Street, 1631",15106
+osm_1952,Doughboy's Pizza,40.4710418,-80.0605173,"Island Avenue, 508",15136
+osm_1954,Forbes Tower,40.440438419101206,-79.9569841468334,,
+osm_1955,Sunrise Auto Sales,40.39809575,-80.0000427,,
+osm_1956,East End Smithfield Cemetery,40.4389561,-79.9139926,,
+osm_1957,Gulf Tower,40.442578950000005,-79.9952228,"Grant Street, 707",
+osm_1958,Howard Hanna,40.3804525,-80.0439822,"Washington Road, 701",15228
+osm_1959,Peoples Natural Gas,40.445972,-80.0080579,,
+osm_1960,Briarcliff Park,40.50751849049542,-79.92506724251977,,
+osm_1961,Aspinwall Riverfront Park,40.48799793143981,-79.90339277570382,,
+osm_1962,Dormont Police Department,40.3950304,-80.036939,,
+osm_1963,Aldi,40.4579008,-79.9350865,"Baum Boulevard, 5631",15206
+osm_1964,Blawknox Place,40.49195292593121,-79.86190583177276,,
+osm_1965,South Side High School,40.4269316,-79.9904217,,
+osm_1966,Zoe's Beer,40.3669021,-79.9839258,,
+osm_1967,Negley Station C & D,40.4565504,-79.9330642,,
+osm_1968,Thomas J. Gmiter Funeral Home Inc,40.42851115543986,-79.97206653661341,"East Carson Street, 2323",15203
+osm_1969,BeehIve Coffee,40.4290156,-79.9839846,,
+osm_1970,Heinz Hall,40.4419692,-80.0020198,,
+osm_1971,Eureka Building,40.4384579,-79.960956,,
+osm_1972,Department of Public Works,40.43609496854389,-79.9949344824911,"Second Avenue, 611",15219
+osm_1973,The Kennel Klub,40.36498886585141,-79.98445602487705,,
+osm_1974,The Apollo Cafe,40.4389422,-79.9979044,,
+osm_1975,Mt. Lebanon Municipal Building,40.3799597,-80.0449103,,
+osm_1976,Lawrenceville Shopping Center,40.48346221872246,-79.94792049539956,,
+osm_1977,Bellevue Post Office,40.49695725,-80.05734735,"North Sprague Avenue, 15",15202
+osm_1979,National City Bank,40.4389343,-79.9969696,,
+osm_1980,West Penn Laco,40.4780246,-79.9694683,,
+osm_1981,Mamma Lucia,40.44035540000001,-80.00091575000002,"Wood Street, 433",15222
+osm_1982,Crazy Mocha,40.44144,-79.9566713,"Oakland Avenue, 207",15213
+osm_1983,First National Bank,40.42796591279289,-79.98682899888082,"East Carson Street, 1114",15203
+osm_1984,Court of Common Pleas of Allegheny County,40.43500532392592,-79.99509506543536,,
+osm_1985,Concord Presbyterian Church,40.39593985,-79.98695620000001,,
+osm_1986,Margaret Morrison Carnegie Hall,40.44195036532785,-79.94094947243171,"Margaret Morrison Street, 5001",
+osm_1988,Bellevue Speed Wash,40.4963183,-80.0549486,,
+osm_1990,Photo Antiques,40.4529506,-79.9996347,,
+osm_1992,Walnut Place,40.41603518050501,-79.92469647144699,,
+osm_1993,Scoops On Beverly,40.3879241,-80.0498819,"Beverly Road, 311",15216
+osm_1994,Amberson Apartments Buildings #1 & #2,40.45342220719145,-79.94300186187704,"Bayard Rd, 2",15213
+osm_1995,Horner School,40.4439577,-79.8803276,,
+osm_1996,Mecka Fitness,40.3857492,-80.0440885,"Washington Road, 439",15228
+osm_1997,Butterjoint,40.4500903,-79.9510227,"North Craig Street, 214",15213
+osm_1998,Salim's Middle Eastern Food,40.4527735,-79.9489416,"Centre Avenue, 4705",15213
+osm_1999,East Liberty Presbyterian Church,40.46101385676627,-79.9249487132198,"South Highland Avenue, 116",15206
+osm_2000,Quality Inn University Center,40.43632792848864,-79.95801391312219,,
+osm_2001,The Greek Gourmet,40.4330472,-79.9232257,,
+osm_2002,Kraynick's,40.4649743,-79.9438442,,
+osm_2003,Saint Pauls Cemetery,40.4151671913969,-79.98346707628966,,
+osm_2004,Brentwood Park,40.375249354260255,-79.97203319185152,,
+osm_2005,Sunoco,40.4611507,-79.9469756,,
+osm_2006,Little Tokyo,40.382076,-80.043926,"Washington Road, 636",15228
+osm_2007,Holiday Inn Express & Suites Pittsburgh North Shore,40.44885559593943,-80.00393178049256,,
+osm_2008,Village Park,40.43808243780269,-80.0020432005139,,
+osm_2009,Oakland Catholic High School,40.44891047784103,-79.94969375089453,,
+osm_2010,Rankin VFD,40.4130011,-79.8802306,,
+osm_2011,Farmers Daughter,40.4529877,-80.0005867,,
+osm_2012,Redbox,40.4940646,-80.0519601,,
+osm_2014,Lily Baptist Church,40.439212559564886,-79.97302238767055,,
+osm_2015,Calvary Cemetery,40.416687052978645,-79.92892128983075,,
+osm_2016,C&D Auto Services,40.46470231305818,-80.07355899638742,"Chartiers Avenue, 1265",15136
+osm_2017,Saint Johns Greek Catholic Church,40.4160135,-79.8839983,,
+osm_2018,Jefferson Middle School,40.38191957613664,-80.06095291359352,"Moffett Street, 21",
+osm_2019,Bloomfield Bridge Tavern,40.4629057,-79.9519064,,
+osm_2020,Pittsburgh Fish & Chicken,40.4839825,-80.0359512,,
+osm_2021,Roberts Engineering Hall,40.44246234907337,-79.94697949980733,"Hamerschlag Drive, 364",
+osm_2022,Albright United Methodist Church,40.45702060846293,-79.9370899944185,"S Graham St, 486",15232
+osm_2023,Magee Playground,40.42499394333066,-79.93692869043512,,
+osm_2024,The Blooming Dahlia,40.3890673,-80.0500246,"Beverly Road, 308",15216
+osm_2025,In The Blood Tattoo,40.4290775,-79.9772926,"East Carson Street, 2005",15203
+osm_2026,The Waterfront,40.40890080610698,-79.90495566130514,,
+osm_2027,Northwood Realty Services,40.4349265,-79.9230765,"Murray Avenue, 1935",
+osm_2028,Des Places Hall,40.43593621495278,-79.9869102097705,,
+osm_2029,New  Balance,40.4417885,-79.9565202,,
+osm_2031,Murphy's Auto Body,40.38194154999999,-79.99783439999999,,
+osm_2032,Stone - Neapolitan Pizzeria,40.4410098,-80.0059051,,
+osm_2033,Frick Park Automotive,40.4399836,-79.8969542,,
+osm_2034,Eyetique,40.4309711,-79.9233873,,
+osm_2035,Pendale Salon,40.385011,-80.0439286,,
+osm_2036,Ross Community United Presbyterian Church,40.49942081577287,-80.01199105033058,"Nelson Run Road, 4501",15214
+osm_2037,Eleanor Street Park,40.4214498143226,-79.97309053488915,,
+osm_2038,Donner Ditch,40.44228846385803,-79.94105705501687,,
+osm_2039,Miller Elementary School Library,40.4430172,-79.9679907,,
+osm_2040,Steel Plaza,40.44032957415141,-79.99495127335604,,
+osm_2041,Pittsburgh City Hall,40.437909700000006,-79.99705325,"Grant Street, 414",15219
+osm_2042,Pittsburgh Mennonite Church,40.4259135,-79.9269617,,
+osm_2043,Redbeard's on Sixth,40.4430967,-80.0023748,,
+osm_2044,PNC Bank,40.3989648,-80.0439739,,
+osm_2045,Central,40.3903219,-79.9979879,,
+osm_2046,Crafton Park,40.43804981896877,-80.0739675095118,,
+osm_2047,Pittsburgh Oliver Citywide Academy,40.4639644143879,-80.02445843116277,,
+osm_2048,Carnegie Museum of Natural History,40.44301126594698,-79.94998741019498,"Forbes Avenue, 4400",15213
+osm_2049,Bobby's,40.3751746,-79.984011,,
+osm_2050,NRG Energy Center Pittsburgh,40.44975134595537,-80.00593348511306,,
+osm_2051,Paw Spa,40.39796846675018,-79.9989937571789,,
+osm_2052,Blawnox Police Department,40.49390549195654,-79.85993858271745,,
+osm_2053,Coach's Restaurant & Grille,40.4001809,-80.0429088,,
+osm_2054,Wood St at Third Ave,40.4389278,-80.0014795,,
+osm_2055,Bakery Square,40.45699766583248,-79.91604493441795,,
+osm_2056,Uncle Sam's Sandwich Bar,40.4412279,-79.9570133,"Oakland Avenue, 210",15213
+osm_2057,Mount Lebanon High School,40.3740083726793,-80.0509632408945,,
+osm_2058,Shamrock's Inn,40.4515855,-80.0169842,"Western Avenue, 919",
+osm_2059,Number Garden,40.44090961278765,-79.94247831761346,,
+osm_2060,Jitters Cafe & Ice Cream,40.4520278,-79.9319557,"Walnut Street, 5541",15232
+osm_2061,Life Science Annex,40.44640929412742,-79.95366711822342,,
+osm_2062,Forbes-Craig Apartments,40.443910464258416,-79.94894262968376,,
+osm_2063,Sky Rocket,40.38630902413144,-79.86507338862532,,
+osm_2064,Cafe Milano,40.4429343,-80.0019879,,
+osm_2065,Martin Luther King Jr. Elementary School,40.45501897284648,-80.00398771484355,,
+osm_2066,Woods Run School,40.4739444,-80.0289049,,
+osm_2067,Millvale Diner,40.4820123,-79.9739443,,
+osm_2068,Eye Gotcha,40.47294364800571,-80.07493734633016,"Broadway Avenue, 808",15136
+osm_2069,Cargill Salt,40.47906347965003,-80.06197829022204,"Nichol Avenue, 180",15136
+osm_2070,Jefferson Elementary School Library,40.3819185,-80.0607948,,
+osm_2071,PNC Park,40.44704442969118,-80.00589649417068,,
+osm_2072,Lothrop Hall,40.44185093883406,-79.96009651205007,,
+osm_2073,Brentwood Borough Building,40.37299308868656,-79.97608753852256,,
+osm_2074,The Jaggerbush,40.42702225756293,-79.9729707984266,"South 23rd Street, 133",15203-2275
+osm_2075,Chabad of the South Hills,40.3970151,-80.0463754,"McFarland Road, 1701",15216
+osm_2076,Point Park University,40.43798527360433,-80.00096034238625,,15222
+osm_2077,United States Post Office,40.3951875,-80.0219464,"Brookline Boulevard, 612",
+osm_2078,Little's Shoes,40.4380839172453,-79.92100127953294,,
+osm_2079,R & B's Pizza Place,40.436926850000006,-80.0005753,"Smithfield Street, 107",15222
+osm_2080,Nails Elegance & Spa,40.3679133,-80.0133615,,
+osm_2081,Matthews International Company,40.4476407,-80.0019404,,
+osm_2082,PNC Bank,40.410968,-79.9084568,,
+osm_2083,Mineo's Pizza House,40.4329533,-79.9229146,,
+osm_2084,Morewood Gardens,40.44546534273233,-79.94290761235818,,
+osm_2085,National City Bank,40.4592643616875,-79.92957630339814,"Baum Boulevard, 5838",15206
+osm_2086,The Cut,40.44294166481256,-79.94295040964943,,
+osm_2087,Islamic Center of Pittsburgh,40.44880392700569,-79.9560357728057,"Bigelow Boulevard, 4100",15213
+osm_2088,Keystone Oaks Middle School Library,40.3875394,-80.0309313,,
+osm_2089,Liberty Ave at 7th Street,40.4419114,-79.9989594,,
+osm_2090,Mount Lebanon Evangelical Presbyterian Church,40.3875669,-80.0429954,"Washington Road, 255",15216
+osm_2091,Courthouse Tavern,40.4397797,-80.00046409999999,"Forbes Avenue, 310",15222
+osm_2092,Loretto Cemetery,40.41290462489243,-79.96078951939349,,
+osm_2093,Reconciliation Church,40.4460107,-79.8847129,,
+osm_2094,Wylie Post Office,40.4430822,-79.9805809,,
+osm_2095,Burger King,40.42795902058128,-79.9789557106465,"East Carson Street, 1820",15203
+osm_2096,Subway,40.4563172,-79.9370732,,
+osm_2097,Jupe Boutique,40.42797456698105,-79.97304018831485,"East Carson Street, 2306",15203
+osm_2098,UPMC Shadyside Family Health Center,40.45499026071716,-79.94115685202661,"Centre Ave, 5215",15232
+osm_2099,Papa John's,40.4940438,-80.0519059,"Lincoln Avenue, 355",
+osm_2100,The Exchange,40.4402031294742,-80.0017156880789,Forbes Avenue,15222
+osm_2101,Bellevue Tobacco,40.4969191,-80.0590953,"Lincoln Avenue, 615",
+osm_2102,Triangle Park,40.44162517606538,-80.00190845053464,,
+osm_2103,3 Rivers Lounge,40.44203084872634,-80.00626178999609,,
+osm_2104,Friendship Park,40.46197332295091,-79.94597076810493,,
+osm_2105,Rex Theatre,40.4299553,-79.9929254,,
+osm_2106,Conestoga Building,40.437621573596864,-80.00302144163709,"Wood Street, 1-7",15222
+osm_2108,Gateway Center Post Office,40.4390011,-80.0049604,,
+osm_2109,Southern Pennsylvania World War 2 Memorial,40.4455177,-80.0119355,,
+osm_2110,Mario's East Side Saloon,40.4510395,-79.9339269,,
+osm_2111,Double Wide Grill,40.4279538135984,-79.97091062590833,"East Carson Street, 2339",15203
+osm_2112,Kingdom Hall of Jehovahs Witnesses,40.41969043879813,-80.02193209702742,,
+osm_2113,Seran Auto Service,40.3949324,-79.9969949,"Saw Mill Run Boulevard, 1805",
+osm_2114,Asbury Heights,40.3850478,-80.0577825,,
+osm_2115,Pink Box Bakery & Cafe,40.4334555,-79.9231365,"Murray Avenue, 2104",
+osm_2116,Washington Blvd at Highland Dr,40.4739194,-79.9082323,,
+osm_2117,Arlington Playground,40.41829730090105,-79.9750490773156,,
+osm_2118,Cyert Hall,40.44397506672017,-79.94405576771237,"Forbes Avenue, 4910",
+osm_2119,Betz Auto Works,40.3949308,-80.0219727,"Brookline Boulevard, 614",15226
+osm_2120,Doce Taqueria,40.4290662,-79.9855523,,
+osm_2121,South Bank,40.3919476,-79.9979741,,
+osm_2122,J & J's Family Restaurant & Catering,40.4293451,-80.0069472,,
+osm_2123,West End Overlook,40.446017020269935,-80.03298025119246,,
+osm_2124,Langley Hall,40.44594783212497,-79.95405853744774,,
+osm_2125,Grace Lutheran Church,40.463932,-79.982768,,
+osm_2126,Childrens Center of Pittsburgh,40.4360476,-79.9600809,,
+osm_2127,Banksville Park Pool,40.41504647415303,-80.04054039137208,,
+osm_2129,Taste of India,40.46604865869054,-79.95291750462388,,
+osm_2130,Braddock Hills Shopping Center,40.41414948199012,-79.85409182270085,,
+osm_2131,William Pitt Union,40.44338984822348,-79.95484341658387,,
+osm_2132,Residence Inn Pittsburgh North Shore,40.44803375621941,-80.00690822565772,,
+osm_2133,Classic Lines,40.4381939,-79.9219664,,
+osm_2134,Frick Park,40.42898561688322,-79.90413123495946,,
+osm_2135,North Shore Endoscopy,40.4570154,-80.0069518,,
+osm_2136,Salon Vivace,40.3820889,-80.0444419,"Washington Road, 642",15228
+osm_2137,Pizza Hut,40.4559551,-80.0069856,"Federal Street, 1219",15212
+osm_2138,Head Board,40.42802573826734,-79.97206484116768,"East Carson Street, 2332",15203
+osm_2139,Green Tree Public Library,40.4190063,-80.0470241,,
+osm_2140,Allegheny County Day School,40.47092610534308,-80.0192404577908,,
+osm_2141,Smithfield Outlet on Forbes,40.440135630894495,-80.00162745794252,Forbes Avenue,15222
+osm_2142,East Ohio St at Cedar Ave,40.4529732,-80.0020324,,
+osm_2143,Murray Ave. Grill,40.4373405,-79.9229919,,
+osm_2144,Wendy's,40.45708775048872,-79.93695368077887,"Baum Boulevard, 5422",15232
+osm_2145,Mendel Hall,40.4379556,-79.9936111,,
+osm_2146,Shady Oak Apartments,40.4490323,-79.94631035,,
+osm_2147,Wean Hall,40.44307589938911,-79.94579423085933,"Hamerschlag Drive, 311",
+osm_2148,Propel Charter School Homestead,40.4260678,-79.9779406,,
+osm_2149,Edgebrook Veterinary Clinic,40.4020823099366,-80.00022019488925,"Saw Mill Run Boulevard, 1405",
+osm_2150,South Side Park,40.4202436519906,-79.97808983732251,,
+osm_2151,Meadow Park,40.49892921574099,-79.92204940693762,,
+osm_2152,Turner Elementary School,40.448916402856106,-79.86477484337284,,
+osm_2153,Pope's Place,40.4570786,-79.9680217,,
+osm_2154,Pittsburgh Jeans Company,40.42813811988663,-79.97403167015915,"East Carson Street, 2222",15203
+osm_2155,Dairy Queen,40.46592118314754,-79.86499145077244,,
+osm_2156,Representative Dan Miller,40.3812394,-80.0450618,"Washington Road, 650",15228
+osm_2157,Pashek Associates,40.45401098426205,-79.99795204970194,,
+osm_2158,Dairy Queen,40.42906500963965,-79.98497375002302,"East Carson Street, 1223",15203
+osm_2159,Duquesne Elementary K-6,40.3719137,-79.8481037,,
+osm_2160,Lindsay House,40.44795269999999,-79.92483649999998,,
+osm_2161,Barefoot Stitches & Gifts,40.3883813,-80.049954,"Beverly Road, 313",
+osm_2162,Joan of Arc Building,40.44834674824983,-79.94893242317661,,
+osm_2163,Cricket Wireless,40.4380902,-80.0002944,,
+osm_2164,Robot City Roundhouse,40.42090876406552,-79.95074399671446,,
+osm_2165,Bellefield Place Garage,40.4479343,-79.95203894999999,,
+osm_2166,Arnold's Tea,40.4540389,-80.000467,,
+osm_2167,I Tea Cafe,40.45199308240761,-79.93428144905361,,
+osm_2168,Squirrel Hill Cafe,40.437927,-79.9227168,,
+osm_2169,Slacker,40.4289082,-79.9839281,,
+osm_2170,North Shore Riverfront Park,40.445249912235866,-80.01248183797206,,
+osm_2171,Mt. Lebanon,40.3819611,-80.04329160000002,,
+osm_2172,Thomas Jefferson Middle School Library,40.3815907,-80.0610239,,
+osm_2173,Washington Elementary School,40.37903766849826,-80.0449828537926,"Washington Road, 735",15228
+osm_2174,Primanti's,40.4417732,-79.9570092,,
+osm_2175,Whitfield Hall,40.44839448214272,-79.9501851485014,"North Craig Street, 143",
+osm_2176,D's Six Packs and Dogs,40.4320659,-79.8940233,"South Braddock Avenue, 1118",15221
+osm_2177,Busy Beaver,40.3749398,-80.0059918,,
+osm_2178,Laundromat,40.4521726,-79.9505945,,
+osm_2179,The Carlyle,40.43913944072843,-80.00097789142917,"Fourth Avenue, 306",15222
+osm_2180,Potomac,40.3969459,-80.0364649,,
+osm_2181,PNC Bank,40.36424370300552,-79.98407663287115,,
+osm_2182,Chilren's Hospital of Pittsburgh Administrative Office Building,40.46605855,-79.95391475,"Penn Avenue, 4401",15224
+osm_2183,Elroy Elementary School,40.37894672170227,-79.9729662701321,"Elroy Avenue, 3129",15227
+osm_2184,Pittsburgh Board of Education,40.44506217993335,-79.95069647836259,,
+osm_2185,Doherty Hall,40.44192679504558,-79.94446889381533,"Hamerschlag Drive, 281",
+osm_2186,Mindful Brewing Company,40.36417014525405,-80.02195268359536,,
+osm_2187,Family Visions,40.4614655,-79.8644417,,
+osm_2188,Eastminster Presbyterian Church,40.46298484245152,-79.92292206911561,"North Highland Avenue, 250",15206
+osm_2189,Highmark Place,40.44200643243821,-80.00342644544641,"Fifth Avenue, 120",
+osm_2190,Starbucks Coffee,40.4376633,-80.0030572,,
+osm_2191,Penn Aiken Dairy,40.46508318439464,-79.93606082320836,"Penn Avenue, 5401",15206
+osm_2192,The Yard,40.4509199,-79.9339141,"Bellefonte Street, 736",15232
+osm_2193,Essex Pool House,40.45794262100236,-79.93306580143933,,
+osm_2194,Ace's Tavern,40.4728059,-80.0740681,,
+osm_2195,CoGo's,40.49757790798967,-80.05902232731594,"Lincoln Avenue, 620",
+osm_2196,Aldi,40.3840415,-80.0139737,"Sussex Avenue, 3089",
+osm_2197,Enterprise,40.3809509,-79.999562,"Library Road, 2590",
+osm_2198,Green Tree Park,40.42195611785512,-80.0419242290624,,
+osm_2199,Pat Catan's,40.46555451473253,-80.07363111825128,"Chartiers Avenue, 1250",15136
+osm_2200,Espresso A Mano,40.4659398,-79.9649741,"Butler Street, 3623",15201
+osm_2201,Amish Yard,40.37493143685563,-79.983945310695,,
+osm_2203,DePaul Institute,40.391025,-80.0270979,,
+osm_2204,SouthSide Works,40.42698861577564,-79.9649422268615,,
+osm_2205,Sunset View Cemetery,40.4789575,-79.8790612,,
+osm_2206,Persian Rug Gallery,40.3800549,-80.0443943,"Central Square, 97",15228
+osm_2207,Ingram Police Department,40.446062,-80.067019,,
+osm_2208,The Village of Shadyside,40.45806111447387,-79.918982811084,"Denniston Avenue, 100",15206
+osm_2209,Coldwell Banker,40.4381914,-79.9197905,,
+osm_2210,Woodhill Park,40.379345891135245,-79.89692470396169,,
+osm_2211,Elixir Hair Artistry & Design,40.3840234,-80.0440654,"Washington Road, 520",15228
+osm_2212,Brentwood Towne Square,40.36598694983096,-79.98300933466734,"Towne Square Way, 600",15227
+osm_2213,Moore Park,40.40522219578619,-80.01296170944048,,
+osm_2214,Neill Log House,40.4370358,-79.9440626,,
+osm_2215,Darragh Street Apartments,40.442194,-79.9640948,,
+osm_2216,Waterfront Bike Rental,40.407954485094,-79.9190754272775,"Waterfront Drive West, 201",
+osm_2217,McKees Rocks Dental,40.46561926282917,-80.0639975627025,"Chartiers Avenue, 757",15136
+osm_2218,First Avenue,40.43494767890574,-79.99658228700538,,
+osm_2219,River City Inn,40.4389027,-80.003367,,
+osm_2220,Mt. Lebanon Public Library,40.3770122,-80.045321,"Castle Shannon Boulevard, 16",15228
+osm_2221,Squaw Valley Park,40.49690597790942,-79.88095789806913,,
+osm_2222,Seville Park,40.498003932575465,-80.04099029229616,,
+osm_2223,Woolslair Elementary School Library,40.4640028,-79.956992,,
+osm_2224,7th St past Penn Ave,40.4428936,-80.0001169,,
+osm_2225,Frick Park Clay Courts,40.43694546203579,-79.89692022574869,,
+osm_2226,Alumni Hall,40.44593927305679,-79.94640029944738,,
+osm_2227,Pittsburgh Zoo & PPG Aquarium,40.48296399654854,-79.91869689830578,"Wild Place, One",15206
+osm_2228,Jester's Court,40.4286627753248,-79.98361568751551,"East Carson Street, 1410",15203
+osm_2229,Shadyside Surgi-Center,40.45804037939507,-79.93309545102437,"Centre Avenue, 5727",15206
+osm_2230,Arsenal Bowl,40.4709328,-79.9596871,,
+osm_2231,Station Square,40.43095059390239,-80.00291909858603,,
+osm_2232,Micro Diner,40.430027,-80.0069286,,
+osm_2233,Le Brew House,40.4269792,-79.9689531,"East Carson Street, 2512",15203
+osm_2234,Loretto Cemetery,40.412455,-79.9604704,,
+osm_2235,Family House,40.4557592734884,-79.94004443858083,"Centre Ave, 5245",15232
+osm_2236,Wood Street,40.4420789,-79.9994541,,
+osm_2237,Allegheny County Department of Human Services,40.4371084885164,-80.00102429362924,"Smithfield Street, 1",15222
+osm_2238,East End Assembly of God Church,40.4587593,-79.9419539,,
+osm_2239,Copies at Carson,40.42902856766206,-79.9847060306267,"East Carson Street, 1315",15203
+osm_2240,Pittsburgh Technology Center,40.431970499705855,-79.96327759606301,,
+osm_2241,Professional Office Building,40.4369563,-79.9991839,"Boulevard of the Allies, 430, 432",15222
+osm_2242,Saint Benedict the Moor School,40.4530391,-79.9676135,,
+osm_2244,Mercy Behavioral Health Center Reedsdale Street,40.44796812408439,-80.01987455454234,"Reedsdale Street, 1200",15233
+osm_2245,Millvale Memorials,40.48496922203542,-79.97304609828491,,
+osm_2246,Shaare Torah Congregation,40.43093508026403,-79.92291648814974,,
+osm_2247,Liberty Ave at 5th Ave,40.4420521,-80.0019932,,
+osm_2248,Sennott Square,40.44096607107924,-79.95638701448688,,
+osm_2249,Tram's Kitchen,40.4649293,-79.9560666,,
+osm_2250,Green Front Inn,40.42797379941659,-79.97148634250067,"East Carson Street, 2341",15203
+osm_2252,VEBH Architects,40.38446045,-80.04411800000001,"Washington Road, 470",15228
+osm_2253,Port Authority of Allegheny County Police,40.44692749772225,-79.9869722047061,,
+osm_2254,Saint Simon and Jude Church,40.4005623,-80.0640326,,
+osm_2255,Bado's Pizza Grill and Ale House,40.3884962,-80.0497314,"Beverly Road, 307",
+osm_2256,Sharpsburg Post Office,40.49395250992033,-79.93042838446473,,
+osm_2257,Pizza Warehouse,40.3879764,-79.86295519999997,,
+osm_2258,Pizza Perfecta,40.4572482,-79.9253288,,
+osm_2259,Wallace Memorial United Presbyterian Church,40.40900087455092,-80.05059965422754,,
+osm_2260,Sharpsburg Community Library,40.4944468397153,-79.93020846127386,,
+osm_2261,"Alpha House, Inc.",40.45501533973022,-79.922012272425,"Shady Avenue, 435",15206-4403
+osm_2262,Steel City Martial Arts,40.36399044999999,-80.0259308,,
+osm_2263,Pittsburgh Urban Christian School,40.4409096,-79.8826896,,
+osm_2264,Foster Plaza 10,40.4210426,-80.06034944999999,"Andersen Drive, 680",15220
+osm_2265,Homeville Elementary School,40.3884025,-79.8739935,,
+osm_2266,The Headgear,40.43973629744694,-80.0004095204203,"Forbes Avenue, 312",15222
+osm_2268,US Post Office,40.42895315701422,-79.98098790405326,"East Carson Street, 1731",15203
+osm_2269,Pennant,40.4114634,-80.0146816,,
+osm_2270,Olive & Marlowe,40.46307883836819,-79.92475477492454,"Broad Street, 5975",15206
+osm_2271,Family Dollar,40.47887948909174,-79.96975015121578,,
+osm_2272,Fort Pitt Elementary School,40.4690084,-79.9418392,,
+osm_2273,Penzoil,40.419799932701736,-79.92760365808408,"Beechwood Blvd, 3401",15217
+osm_2274,First Avenue,40.43550559445004,-79.9967005679353,,
+osm_2275,Budget Car Rental,40.442965,-80.0045974,,
+osm_2276,Starbucks,40.4419312,-80.0019313,"6th Street, 606",15222
+osm_2277,12th Ward School,40.4620135,-80.0029868,,
+osm_2278,University of Pittsburgh Theatre,40.4369,-79.9829,,
+osm_2279,Vinny's Pizza,40.3950295,-80.0219543,"Brookline Boulevard, 618",15226
+osm_2280,Milky Way,40.4329768,-79.9231878,"Murray Avenue, 2120",15217
+osm_2282,East Ohio St at Grant Ave,40.4779413,-79.9689084,,
+osm_2283,Brookline Elementary School Library,40.394807,-80.0249428,,
+osm_2284,The Capital Grille,40.4410614,-79.999856,,
+osm_2285,Portofino's Pizzeria,40.37524178206345,-79.98302181264398,,
+osm_2286,Mt. Lebanon Shoe Repair,40.3804717,-80.0443393,"Washington Road, 701",15228
+osm_2287,Games Unlimited,40.4329365,-79.9228872,"Murray Ave., 2115",15217
+osm_2288,Sonny's Tavern,40.4580318,-79.9475197,,
+osm_2289,Frazier Farms,40.42976726018978,-79.95460505453597,,
+osm_2290,North Side,40.44798,-80.0095949,,
+osm_2291,Courtyard by Marriott Pittsburgh Shadyside,40.456026157800686,-79.93969396315337,"Liberty Ave, 5308",15224
+osm_2292,The Humble Barber Company,40.4816746,-80.0340301,,
+osm_2293,Pittsburgh Action Against Rape,40.42894777942511,-79.97888070353947,"South 19th Street, 81",15203
+osm_2294,Alla Famiglia,40.4220575,-79.9934998,"E Warrington Ave, 804",15210
+osm_2295,Homestead Cemetery,40.39667403083368,-79.89984722739426,,
+osm_2296,Saint Joseph Cemetery,40.39767184194903,-80.09296340560071,,
+osm_2297,Lubavitch Center,40.431928,-79.9277446,"Wightman Street, 2100",15217
+osm_2298,National Robotics Engineering Center,40.47313848870314,-79.96500247774213,"40th Street, 10",15201
+osm_2299,Henderson House,40.44092416628883,-79.93923591491908,,
+osm_2300,Penn Brewery,40.45716062008363,-79.99156244192244,"Vinial Street, 800",15212
+osm_2301,3 Rivers Restaurant,40.44193126134823,-80.00595157117706,,
+osm_2302,St. Pius X Catholic Church,40.3954097,-80.0289888,,
+osm_2303,"Carolyn Dorsey Agency, Inc.",40.4603159,-79.9280308,"Baum Boulevard, 5901",15206-3807
+osm_2304,Munhall Police Department,40.398963,-79.905003,,
+osm_2305,Carnegie Library of Pittsburgh,40.44267837963705,-79.95062595017576,,
+osm_2308,Shady Hill Center,40.4590531834839,-79.92099375153494,,
+osm_2309,Rooney Field,40.43493948816116,-79.99004866968131,,
+osm_2310,Ben Fairless Intermediate School Library,40.4027049,-79.86409,,
+osm_2311,Sterling Plaza,40.449925539109344,-79.95117518344811,"N Craig St, 201",15213
+osm_2312,Centre Commons,40.45748377647183,-79.93248484387234,"Centre Ave, 5750",15206
+osm_2313,Subway,40.440169529582434,-80.00191661958308,"Market Street, 3",15222
+osm_2314,Saint John of God Parish,40.4758895206484,-80.06599579031088,"Desiderio Way, 1",15136
+osm_2315,Joseph Tambellini Restaurant,40.4764926,-79.9209814,Bryant St.,15206
+osm_2316,Pittsburgh Obama Academy of International Studies 6-12,40.46695305223498,-79.9230972994991,,
+osm_2317,Emmanuel Lutheran Church,40.45501387293434,-80.00129563144819,,
+osm_2318,Animal Care Center,40.48545494229608,-79.91800618433321,,
+osm_2319,Allegheny Historic Preservation Society,40.4530647,-80.0175763,,
+osm_2320,Allegheny Smokeworks,40.49194814448467,-79.86396554269558,,
+osm_2321,Orient Express,40.44507945438347,-79.94818743281095,"Forbes Ave, 4609",15213
+osm_2322,Thai Spoon,40.39491554524492,-80.03501782217194,"Potomac Avenue, 1409",15216
+osm_2323,Priory Fine Pastries,40.4540844,-79.9997347,,
+osm_2324,Subba Asian Restaurant,40.452902,-80.0015924,,
+osm_2325,Wai Wai,40.4620218,-79.9489555,,
+osm_2326,Rothrock's Kung Fu & Tai Chi Academy,40.42802717238598,-79.970956755989,"East Carson Street, 2340",15203
+osm_2327,H&R Block,40.3878265,-80.0919343,,
+osm_2328,Rita's Italian Ice,40.3879806,-79.8670776,,
+osm_2329,Forest Hills Police Department,40.419454,-79.850257,,
+osm_2330,Dormont Elementary,40.3939537222933,-80.04416066908352,"Annapolis Avenue, 3200",
+osm_2331,Dormont Public Library,40.3941332,-80.0349312,,
+osm_2333,Washington Square,40.37894967454231,-80.04597489455573,"Washington Road, 750",15228
+osm_2334,Brashear High School,40.4186828,-80.018229,"Crane Avenue, 590",15216
+osm_2335,The Allegheny Inn,40.45593424485616,-80.00199494998364,,
+osm_2336,Don Campiti's Pizzeria,40.3967762,-80.0357348,"Potomac Avenue, 1509",15216
+osm_2337,Pittsburgh Police Department,40.454921,-79.97798,,
+osm_2338,Bruce Hall,40.44309193296692,-79.954928550922,,
+osm_2339,Il Pizzaiolo,40.3801843,-80.0439344,"Washington Road, 703",15228
+osm_2340,Mt. Lebanon Recreation Center,40.37395404058699,-80.05499254284487,,
+osm_2341,Bellefield Hall,40.44496963324592,-79.95089521984049,"S. Bellefield Avenue, 315",15260
+osm_2342,Mt. Lebanon,40.3819571,-80.0432312,,
+osm_2343,Olive Garden,40.4198497,-80.0456853,,
+osm_2344,Allegheny City Brewery,40.4542556,-80.0004585,,
+osm_2345,Sunoco,40.395953,-80.0219577,,
+osm_2346,Shadyside Variety Store,40.4509076,-79.9346043,"Walnut Street, 5421",15232
+osm_2347,Gaby et Jules,40.4379944,-79.920956,"Forbes Avenue, 5837",
+osm_2348,Dunkin' Donuts,40.37644696933522,-79.98399209093112,,
+osm_2349,West Mifflin Community Park,40.3621555359931,-79.88590050411904,"Bettis Road, 525",15122
+osm_2350,Benedum-Trees Building,40.439900217893744,-80.00215182818549,"Fourth Avenue, 223",15222
+osm_2351,Mount Lebanon Academy,40.3829063,-80.051996,,
+osm_2352,Dormont Municipal Center,40.39398530678556,-80.0369852811954,"Hillsdale Avenue, 1444",15216
+osm_2353,Norwood Inn,40.47515014529208,-80.07205715720757,"McCoy Road, 184",15136
+osm_2354,Triangle Urological Group,40.4570522,-80.0076342,,
+osm_2356,Torch & Dagger Tattoo,40.4613104,-79.948696,"Liberty Avenue, 4736",15224
+osm_2357,Butler St at Center St,40.4949954,-79.944928,,
+osm_2358,Dormont Pool,40.39652424058461,-80.04604872912294,,
+osm_2360,Shady Side Academy Junior School,40.4439643,-79.8970171,,
+osm_2361,Saint Georges Cemetery,40.4047916,-79.9940416,,
+osm_2362,The Laundry Factory,40.45800637530381,-79.92904655243989,"Ellsworth Avenue, 5859",15232
+osm_2363,Spring Hill Elementary School,40.465,-79.9894417,,
+osm_2364,Kuhn's,40.3998163,-80.0429227,"Banksville Road, 3125",15216
+osm_2365,Pamela's Diner,40.4509853,-79.9330275,,
+osm_2366,Bloomfield Drug Store,40.4620715,-79.9489602,,
+osm_2367,The Warhol Cafe,40.4479869,-80.0019718,,
+osm_2368,Le Mardis Gras,40.4509311,-79.9350471,,
+osm_2369,Pipers Pub,40.42840876298466,-79.97893113389016,"East Carson Street, 1828",15203
+osm_2370,4121 Main,40.465213,-79.9544136,"Main Street, 4121",15224
+osm_2371,Rite Aid,40.4879657,-79.8813201,"Freeport Road, 1125",15238
+osm_2372,Schwartz Living Market,40.42890319926678,-79.98397571220086,"East Carson Street, 1317",15203
+osm_2373,Saint Pius X Byzantine Catholic Church,40.38795725961343,-79.98512392469326,,
+osm_2374,Vincent's Pizza,40.421094,-80.0501,,
+osm_2375,McCormick & Schmick's,40.4411217,-79.9997285,,
+osm_2376,A-1 Auto Mart,40.3990779,-79.9998031,,
+osm_2377,Federal Galley,40.45151434347703,-80.00603115609478,,
+osm_2378,Wine & Spirits,40.4760459,-80.0305875,"Brighton Road, 3202",
+osm_2379,Thai Hana Restaurant,40.4409696,-79.9587902,"Fifth Avenue, 3608",15213
+osm_2380,Dean Ornish Program,40.4160509,-79.9247387,"Browns Hill Rd, 4584",15217
+osm_2381,Bramer House,40.44606918568344,-79.9409175502089,,
+osm_2383,Saint Pauls Episcopal Church Nursery School,40.3710136,-80.0501517,,
+osm_2384,Deli on North Avenue,40.4556387,-80.005906,,
+osm_2385,Phillips Elementary School Library,40.40924,-79.97892,,
+osm_2386,Elks Lodge,40.452033726681535,-80.00076741342393,,
+osm_2387,Homestead Police Department,40.40597484999999,-79.91017679999999,,
+osm_2388,Avalon Borough Hall,40.50081427935411,-80.06740995137558,,
+osm_2389,Brunswick Playmor Bowl,40.3643146865081,-79.9090335190806,,
+osm_2390,Mifflin Elementary School,40.3703472,-79.9139167,,
+osm_2391,South Hills Junction,40.4210224,-80.0072689,,
+osm_2392,Route 51 Quick Cash,40.3719145,-79.9823248,,
+osm_2393,Dinan Park,40.48295096373272,-79.93277236227297,,
+osm_2394,Gary Liebel Dentistry,40.3840387,-80.0440526,"Washington Road, 508",15228
+osm_2395,Pittsburgh New Church School,40.447991,-79.9040894,,
+osm_2396,Entropy+,40.4430256,-79.9421484,,
+osm_2397,Allegheny Cemetery,40.47296982647944,-79.94897049433735,,
+osm_2398,Book Discount Warehouse,40.45200363964599,-80.01606689842235,"Western Avenue, 845",
+osm_2399,Wightman Playground,40.44290800629641,-79.92694238442981,,
+osm_2400,1909 McKee's Rocks Strike,40.4760582,-80.0601889,,
+osm_2401,Stack'd,40.4511349,-79.9350275,,
+osm_2402,Softball Field,40.37598146785959,-79.97218544316713,,
+osm_2403,Allegheny County Courthouse,40.438777789039534,-79.99641203094417,"Grant Street, 414",15219
+osm_2404,Kelly's Beer Distributor,40.48597622104303,-80.03709745055501,,
+osm_2405,Goodwill,40.4529574,-80.0001877,,
+osm_2406,GameStop,40.42593069810891,-79.88803942835948,,
+osm_2407,Filmet Park,40.42499751774305,-79.88070584811322,,
+osm_2408,Gluuteny,40.4352802,-79.9230094,"Murray Avenue, 1923",
+osm_2409,Rialto Pizza,40.4259397146397,-79.93876920011975,,
+osm_2410,Venice Pizzeria,40.36598295323555,-79.98504755752784,,
+osm_2411,Mellon Middle School,40.37802872790163,-80.04526078526186,"Castle Shannon Boulevard, 11",15228
+osm_2412,River Vue,40.44059814496718,-80.00628032843575,"Liberty Avenue, 500",15222
+osm_2413,Pizza Prima,40.4495496,-79.950442,"North Craig Street, 190",15213
+osm_2414,Mellon Park Tennis Center,40.45402548865932,-79.917095235022,,
+osm_2415,WN Groceries,40.45298053720247,-80.02029444435257,"West North Avenue, 1018",15233
+osm_2416,Family Dentistry,40.3953693,-80.0220118,,
+osm_2417,Garden Theater,40.45554040584797,-80.00698697198403,,
+osm_2418,Sultan Bey,40.45191665430936,-79.9519428907613,"Centre Avenue, 4601",15213-1503
+osm_2419,Bruegger's Bagels,40.4409772,-79.9569674,"Forbes Avenue, 3714",15213
+osm_2420,Kentucky Avenue School,40.4503199,-79.9298496,,
+osm_2421,Schenley Plaza,40.44306154559565,-79.95307205010778,,
+osm_2422,Washington Blvd opp Highland Dr,40.4742857,-79.9079463,,
+osm_2424,North Side,40.4479442,-80.0095935,,
+osm_2425,Frankl Electric,40.46594884748186,-80.07500985887238,"Singer Avenue, 134",15136
+osm_2426,Connelly School,40.44394862925345,-79.9888090373693,,
+osm_2427,Barrett Elementary School Library,40.4039532,-79.9080527,,
+osm_2429,West Homestead Police Department,40.400955,-79.9169572,,
+osm_2430,Little Ceasars,40.456027604494,-79.93690169641475,"Centre Avenue, 5430",15232
+osm_2431,Pino's Italian Kitchen,40.4503353,-79.9143949,,
+osm_2432,Olivet Baptist Church,40.4455849,-79.9730917,,
+osm_2433,Barco Law Building,40.44202409909819,-79.95556643045435,,
+osm_2434,Sally Beauty Supply,40.4309566,-79.9780541,1961,
+osm_2435,The Carlton,40.4389677,-79.9958864,"Grant Street, 500",15222
+osm_2436,Bethany Baptist Church,40.4509042,-79.8893283,,
+osm_2437,Salk Pavillion,40.4431414,-79.9629379,,
+osm_2438,Phillips Park,40.391053861357975,-79.99099441077031,,
+osm_2439,Steel Valley High/Middle School,40.38799473389763,-79.8980381200356,"Main Street, 3113",15120
+osm_2440,Quest Diagnostics,40.3640772,-79.983446,,
+osm_2441,Two North Shore Center,40.446956690691806,-80.0019090909893,,
+osm_2442,Club Cafe,40.42902081194921,-79.98702945025121,"South 12th Street, 56, 58",15203
+osm_2443,The Medicine Shoppe,40.4542215,-79.9429748,,
+osm_2444,Kaduck Auto Sales,40.382042,-79.9979494,,
+osm_2446,Primanti Bros. Restaurant,40.44025905,-80.0030244,"Market Street, 2",15222
+osm_2447,Rankin Police Department,40.4130863,-79.8804075,,
+osm_2448,Hazelwood Senior Center,40.40406815,-79.94197234999999,"Second Avenue, 5334",
+osm_2449,Zion Christian Church,40.3943678802288,-79.98590177629913,,
+osm_2450,El Burro,40.4558721,-80.0059948,,
+osm_2451,5 Generation Bakers,40.46495099322092,-80.06797482947324,"Chartiers Avenue, 1100",15136
+osm_2452,Evergreen Ave at Emma St,40.4892177,-79.9719639,,
+osm_2453,Scherer Lock & Supply,40.45600568917567,-80.0149518525304,,
+osm_2454,Schenley Gardens,40.45392445830855,-79.9549772614602,,
+osm_2455,Camp Guyasuta,40.5012336376082,-79.91109693015552,,
+osm_2456,Miller Elementary School,40.4430723,-79.9689236,,
+osm_2457,Beatty House,40.4490971771365,-79.92296813640235,,
+osm_2458,Starbucks,40.4445765,-79.9479149,"S Craig St, 417",15213
+osm_2459,"Red, White & Blue Thrift Store",40.41078886542749,-80.0059704448906,,
+osm_2460,Grace Memorial Presbyterian Church,40.45113173395088,-79.9570857002837,,
+osm_2461,Pizza Fiesta,40.4379826,-80.0001673,,
+osm_2462,7-Eleven,40.4430912,-80.0020656,,
+osm_2463,Brottier Hall,40.43739177912741,-79.99294990952124,,
+osm_2464,Saint Patrick Roman Catholic Church,40.4489135,-79.9849528,,
+osm_2465,Lebanon House,40.38401489557376,-80.04406913673557,"Washington Road, 520",15228
+osm_2466,St Paul's Cemetery,40.47199323529703,-79.98098067992616,,
+osm_2467,Excuses Bar and Grill,40.427277,-79.96901349999999,East Carson Street,15203
+osm_2469,Allegro Hearth Bakery,40.4338409,-79.9229172,"Murray Ave., 2034",15217
