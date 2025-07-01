@@ -49,40 +49,87 @@ The GER-LLM pipeline executes in three primary stages:
 ### Code Structure
 ```bash
 +---GER-LLM
-|   |   downstream_task.py
-|   |   emb.npy
-|   |   gurpp_args.py
-|   |   load_graph_data.py
-|   |   loss.py
-|   |   README.md
-|   |   test_gurp.py
-|   |   train_gurp.py
-|   |   train_learnable_prompt.py
-|   |
+|   +---Blocking
+|   |   +---outputs
+|   |   |       hz_candidate_pairs.pkl
+|   |   |       nj_candidate_pairs.pkl
+|   |   |       pit_candidate_pairs.pkl
+|   |   +---processed_data
+|   |   |   +---hz
+|   |   |   |       hz_poi_id2se.pkl
+|   |   |   +---nj
+|   |   |   |       nj_poi_id2se.pkl
+|   |   |   \---pit
+|   |   |           pit_poi_id2se.pkl
+|   |   \---src
+|   |       +---AOI_classification
+|   |       |       config.py
+|   |       |       functions.py
+|   |       |       model_functions.py
+|   |       |       models.py
+|   |       |       refinement.py
+|   |       |       saved_models
+|   |       |       train_AOI_Classifier.py
+|   |       |       train.py
+|   |       |   main_blocking.py
+|   |       \---tools
+|   |               dbscan.py
+|   |               Quadtree.py
+|   |               SE.py
+|   |               utils.py
 |   +---data
-|   |   +---nymhtkg
-|   |   |   |   flow_in_per_hour.npy
-|   |   |   |   flow_out_per_hour.npy
-|   |   |   |   mobility_distribution.npy
-|   |   |   |   region_si_img.npy
-|   |   |   |
-|   |   |   \---kge_pretrained_transR
-|   |   |       \---TransR_UrbanKG_1
-|   |   \---task
-|   |           carbon_counts.npy
-|   |           check_counts.npy
-|   |           crime_counts.npy
-|   |           income_counts.npy
-|   |
-|   +---experiments
-|   |   \---gurp_model
-|   |   \---gurp_prompt
-|   |
+|   |   +---hz
+|   |   |   |   aoi_107.csv
+|   |   |   |   dp_poi_2959.csv
+|   |   |   |   gd_poi_1982.csv
+|   |   |   |   set_ground_truth_808.pkl
+|   |   |   \---hz
+|   |   |           test.csv
+|   |   |           train.csv
+|   |   |           valid.csv
+|   |   +---nj
+|   |   |   |   aoi_180.csv
+|   |   |   |   dp_poi_12176.csv
+|   |   |   |   mt_poi_828.csv
+|   |   |   |   set_ground_truth_411.pkl
+|   |   |   \---nj
+|   |   |           test.csv
+|   |   |           train.csv
+|   |   |           valid.csv
+|   |   \---pit
+|   |       |   aoi_181.csv
+|   |       |   fsq_poi_2474.csv
+|   |       |   labeled_osm_fsq_4215.csv
+|   |       |   osm_poi_2383.csv
+|   |       |   set_ground_truth_1237.pkl
+|   |       \---pit
+|   |               test.csv
+|   |               train.csv
+|   |               valid.csv
 |   +---figure
-|   \---model
-|           gurp.py
-|           hgt.py
-|           prompt.py
+|   |       framework.png
+|   |       logo.png
+|   +---Matching
+|   |   +---batches_data
+|   |   |       hz_batches.pkl
+|   |   |       nj_batches.pkl
+|   |   |       pit_batches.pkl
+|   |   +---outputs
+|   |   \---src
+|   |       |   Batch_Prompting.py
+|   |       |   Conflict_Resolution.py
+|   |       |   Feature_Extractor.py
+|   |       |   Interaction_with_LLM.py
+|   |       |   main_matching.py
+|   |       |   Pair_Batching.py
+|   |       |   Pair_Clustering.py
+|   |       |   Performance_Measure.py
+|   |       \---tools
+|   |               model.py
+|   |               utils.py
+|   |
+|   |   README.md
+|   |   requirements.txt
 ```
 
 ### Reproduce
