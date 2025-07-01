@@ -42,7 +42,7 @@ def execute_full_llm_chat_by_siliconflow(
     """
     # 初始化客户端
     client = OpenAI(
-        api_key="sk-rtydrhhztctmnvcfuuwtlfmoqwcroxovszakvoktuirciefk",
+        api_key="",
         base_url="https://api.siliconflow.cn/v1"
     )
 
@@ -107,7 +107,7 @@ def execute_qwq32b_chat(
     """
     # 初始化OpenAI客户端（针对阿里云平台配置）
     client = OpenAI(
-        api_key="sk-f6e9eedcc35b498daa5160179c669e38",
+        api_key="",
         # 阿里云QWen模型专用接入点
         base_url="https://dashscope.aliyuncs.com/compatible-mode/v1"  # 设置阿里云DashScope的兼容端点
     )
@@ -180,7 +180,7 @@ def execute_deepseek_r1_chat(
     """
     # 初始化OpenAI客户端
     client = OpenAI(
-        api_key="sk-rtydrhhztctmnvcfuuwtlfmoqwcroxovszakvoktuirciefk",
+        api_key="",
         base_url="https://api.siliconflow.cn/v1"
     )
 
@@ -666,7 +666,7 @@ def execute_full_llm_chat_by_closeai_gemini(
     """
     # Initialize client
     client = OpenAI(
-        api_key="sk-Y7ZuexcXDUWLwJpumBIEMnsyaSkx6AliPoB4m8v0dvsPIG1f",
+        api_key="",
         base_url="https://api.closeai.im/v1/"
     )
 
@@ -736,7 +736,7 @@ def execute_full_llm_chat_by_closeai_gemini_2_5(
     """
     # Initialize client
     client = OpenAI(
-        api_key="sk-Y7ZuexcXDUWLwJpumBIEMnsyaSkx6AliPoB4m8v0dvsPIG1f",
+        api_key="",
         base_url="https://api.closeai.im/v1/"
     )
 
@@ -797,7 +797,7 @@ def execute_full_llm_chat_by_api2gpt_chat(
         **kwargs: Optional[Dict[str, Any]]
 ) -> str:
     client = OpenAI(
-        api_key="AK-888d1659-4507-4ee2-971c-074352d40424",
+        api_key="",
         base_url="https://api.api2gpt.com/v1/"
     )
 
@@ -853,7 +853,7 @@ def execute_full_llm_chat_by_api2gpt_chat_reasoning(
 ) -> str:
     # Initialize client
     client = OpenAI(
-        api_key="AK-888d1659-4507-4ee2-971c-074352d40424",
+        api_key="",
         base_url="https://api.api2gpt.com/v1/"
     )
 
