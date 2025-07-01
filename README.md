@@ -5,7 +5,7 @@
 </div>
 
 
-<h2 align="center">🌇GER-LLM: Efficient and Effective Geospatial Entity Resolution with Large Language Model </h2>
+<h2 align="center">🗺️GER-LLM: Efficient and Effective Geospatial Entity Resolution with Large Language Model </h2>
 
 <div align="center">
 
@@ -13,8 +13,7 @@
 
 </div>
 
-🌇**GER-LLM** is a **G**raph-based **U**rban **R**egion **P**re-training and **P**rompting framework for region representation learning. Specifically, we first construct an **urban region graph** that integrates detailed spatial entity data for more effective urban region representation. Then, we develop a **subgraph-centric urban region pre-training model** to capture the heterogeneous and transferable patterns of interactions among entities. To further enhance the adaptability of these embeddings to different tasks, we design **two graph-based prompting methods** to incorporate explicit/hidden task knowledge.  Extensive experiments on various urban region prediction tasks and different cities demonstrate the superior performance of our GER-LLM framework. This repository hosts the code of **GER-LLM**.
-
+🗺️ **GER-LLM** is a novel framework for **G**eospatial **E**ntity **R**esolution using **L**arge **L**anguage **M**odels. The core challenge in Geospatial Entity Resolution (GER) is to accurately identify whether different textual descriptions or records refer to the same real-world geographical entity. To tackle this, GER-LLM leverages the powerful semantic understanding and reasoning capabilities of LLMs. Our framework first generates high-quality candidate pairs from geospatial datasets. Then, it employs a sophisticated LLM-based featurizer to extract rich semantic, spatial, and contextual cues from entity descriptions. Finally, a lightweight yet effective matching model determines the final correspondence. Extensive experiments on benchmark datasets demonstrate that GER-LLM achieves state-of-the-art performance in both efficiency and effectiveness. This repository hosts the official source code for **GER-LLM**.
 
 ## Overview
 
