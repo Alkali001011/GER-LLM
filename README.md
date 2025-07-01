@@ -133,7 +133,7 @@ The GER-LLM pipeline executes in three primary stages:
 
 ### AOI-aware Spatial Blocking
 #### AOI Classification
-To reproduce the GURP results, you can run the following command:
+To reproduce the results of Spatial Blocking, you can run the following command:
 ```bash
 cd Blocking/src/AOI_classification
 ```
@@ -152,8 +152,26 @@ python train_AOI_Classifier.py \
 ```
 The test log will be saved in the `experiments/gurp_prompt` directory. Please ensure that this folder has been created following code structure before testing, otherwise, you might encounter a 'file not found' error.
 #### AOI-aware Splitting of Quadtree
+```bash
+cd Blocking/src
+```
+```bash
+python main_blocking.py \
+  --city nj
+```
 
 ### Group-wise Matching with LLM & Graph-based Conflict Resolution
+```bash
+cd Matching/src
+```
+```bash
+python main_matching.py \
+  --city nj \
+  --feature_strategy PROP_BASED \
+  --clustering_method hdbscan \
+  --batch_strategy diverse \
+  --llm DeepSeek-V3
+```
 To pre-train the GURP model, please following the steps below: 
 
 1. Download the pre-trained kge embeddings from [UrbanKG_TransR_entity](<https://drive.google.com/file/d/1OHEU-XPutEmhOvP0To2VhVakNhxkbPdp/view?usp=sharing>). After downloading, move the dataset to the `data/nymhtkg/kge_pretrained_transR/TransR_UrbanKG_1` directory. 
